@@ -1,0 +1,1652 @@
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:jr="http://openrosa.org/javarosa" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:odk="http://www.opendatakit.org/xforms">
+  <h:head>
+    <h:title>3_Visita</h:title>
+    <model>
+      <instance>
+        <data id="3-Visita" version="1645303206">
+          <meta>
+            <instanceID/>
+          </meta>
+          <device_id/>
+          <date/>
+          <extensionista/>
+          <otro_extensionista/>
+          <agricultor/>
+          <fecha_visita/>
+          <cultivo/>
+          <otro_cultivo/>
+          <etapa_cultivo/>
+          <foto_general>
+            <pacela/>
+            <nota/>
+          </foto_general>
+          <problemas_parcela/>
+          <problema_establecimiento>
+            <problema/>
+            <otro_problema/>
+            <foto_2>
+              <establec/>
+              <pie_establec/>
+            </foto_2>
+            <porcentaje1/>
+          </problema_establecimiento>
+          <problema_plaga_enfermedad>
+            <causa/>
+            <dano_afecto/>
+            <porcentaje_severidad/>
+            <mip/>
+            <motivo_manejo/>
+            <porcentaje_incidencia/>
+            <numero/>
+            <nombre/>
+            <otra/>
+            <segunda_plaga/>
+          </problema_plaga_enfermedad>
+          <problema_malezas>
+            <motivo/>
+            <otro_motivo/>
+            <tipo/>
+            <control_agricultor/>
+            <porcentaje/>
+          </problema_malezas>
+          <foto_danos>
+            <foto3/>
+            <pie_foto3/>
+          </foto_danos>
+          <problema_condiciones_climatolgicas>
+            <presentadas/>
+            <otra2/>
+            <porcentaje4/>
+          </problema_condiciones_climatolgicas>
+          <problema_deficiencias>
+            <identificadas/>
+            <mas_probable/>
+            <tipo_fertilizacion/>
+            <foto_1>
+              <foto/>
+              <pie_foto/>
+            </foto_1>
+            <porcentaje_2/>
+          </problema_deficiencias>
+          <problemas_estres_hidrico>
+            <identificados/>
+            <otra3/>
+            <fot_1>
+              <foto2/>
+              <pie_2/>
+            </fot_1>
+            <porcentaje3/>
+          </problemas_estres_hidrico>
+          <tecnologias_parcela/>
+          <otra_tecnologia/>
+          <observaciones_finales>
+            <estado_general/>
+            <actividad_realizada/>
+            <otra_actividad/>
+            <recomendaciones/>
+          </observaciones_finales>
+          <indormacion_adicional>
+            <usa_smartphone/>
+            <operador_telefonia/>
+            <senal_telefonia_movil/>
+          </indormacion_adicional>
+        </data>
+      </instance>
+      <itext>
+        <translation lang="English">
+          <text id="/data/extensionista:label">
+            <value>Nombre de la persona responsable del registro:</value>
+          </text>
+          <text id="/data/extensionista:option0">
+            <value>Alex Roncal</value>
+          </text>
+          <text id="/data/extensionista:option1">
+            <value>Alex Villanueva</value>
+          </text>
+          <text id="/data/extensionista:option2">
+            <value>Cristian Villanueva</value>
+          </text>
+          <text id="/data/extensionista:option3">
+            <value>Demetrio Flores</value>
+          </text>
+          <text id="/data/extensionista:option4">
+            <value>Edgar Sevillano</value>
+          </text>
+          <text id="/data/extensionista:option5">
+            <value>Elí Diaz</value>
+          </text>
+          <text id="/data/extensionista:option6">
+            <value>Enner Arias</value>
+          </text>
+          <text id="/data/extensionista:option7">
+            <value>Jose Cieza</value>
+          </text>
+          <text id="/data/extensionista:option8">
+            <value>Willian Huamanchay</value>
+          </text>
+          <text id="/data/extensionista:option9">
+            <value>Wilson Mendoza</value>
+          </text>
+          <text id="/data/extensionista:option10">
+            <value>Otro</value>
+          </text>
+          <text id="/data/otro_extensionista:label">
+            <value>Otro nombre de la persona responsable del registro:</value>
+          </text>
+          <text id="/data/agricultor:label">
+            <value>Nombre y apellidos del agricultor:</value>
+          </text>
+          <text id="/data/fecha_visita:label">
+            <value>Fecha de visita: </value>
+          </text>
+          <text id="/data/cultivo:label">
+            <value>Nombre del cultivo:</value>
+          </text>
+          <text id="/data/cultivo:option0">
+            <value>Papa</value>
+          </text>
+          <text id="/data/cultivo:option1">
+            <value>Cebada</value>
+          </text>
+          <text id="/data/cultivo:option2">
+            <value>Avena</value>
+          </text>
+          <text id="/data/cultivo:option3">
+            <value>Haba</value>
+          </text>
+          <text id="/data/cultivo:option4">
+            <value>Tarwi o Chocho</value>
+          </text>
+          <text id="/data/cultivo:option5">
+            <value>Arveja</value>
+          </text>
+          <text id="/data/cultivo:option6">
+            <value>Oca</value>
+          </text>
+          <text id="/data/cultivo:option7">
+            <value>Trigo</value>
+          </text>
+          <text id="/data/cultivo:option8">
+            <value>Otro</value>
+          </text>
+          <text id="/data/otro_cultivo:label">
+            <value>Especifique otro cultivo:</value>
+          </text>
+          <text id="/data/etapa_cultivo:label">
+            <value>Etapa en que se encuentra el cultivo: </value>
+          </text>
+          <text id="/data/etapa_cultivo:option0">
+            <value>Crecimiento de yemas y raices</value>
+          </text>
+          <text id="/data/etapa_cultivo:option1">
+            <value>Emergencia de planta</value>
+          </text>
+          <text id="/data/etapa_cultivo:option2">
+            <value>Desarrollo vegetativo</value>
+          </text>
+          <text id="/data/etapa_cultivo:option3">
+            <value>Inicio de formación de tubérculos</value>
+          </text>
+          <text id="/data/etapa_cultivo:option4">
+            <value>Inicio de tuberización</value>
+          </text>
+          <text id="/data/etapa_cultivo:option5">
+            <value>Madurez fisiológica de plantas y tubérculos</value>
+          </text>
+          <text id="/data/etapa_cultivo:option6">
+            <value>Tuberización de tubérculos</value>
+          </text>
+          <text id="/data/foto_general:label">
+            <value>Foto general</value>
+          </text>
+          <text id="/data/foto_general/pacela:label">
+            <value>Fotografia general de la parcela:</value>
+          </text>
+          <text id="/data/foto_general/nota:label">
+            <value>Pie de fotografía general: </value>
+          </text>
+          <text id="/data/problemas_parcela:label">
+            <value>Seleccione los problemas que actualmente presenta el cultivo/ parcela:</value>
+          </text>
+          <text id="/data/problemas_parcela:option0">
+            <value>Establecimiento</value>
+          </text>
+          <text id="/data/problemas_parcela:option1">
+            <value>Plagas/enfermedades</value>
+          </text>
+          <text id="/data/problemas_parcela:option2">
+            <value>Malezas</value>
+          </text>
+          <text id="/data/problemas_parcela:option3">
+            <value>Estrés hídrico</value>
+          </text>
+          <text id="/data/problemas_parcela:option4">
+            <value>Deficiencias nutricionales</value>
+          </text>
+          <text id="/data/problemas_parcela:option5">
+            <value>Condiciones climatológicas</value>
+          </text>
+          <text id="/data/problemas_parcela:option6">
+            <value>Ninguna</value>
+          </text>
+          <text id="/data/problema_establecimiento:label">
+            <value>Problema de establecimiento: </value>
+          </text>
+          <text id="/data/problema_establecimiento/problema:label">
+            <value>¿A qué se debieron estos problemas?</value>
+          </text>
+          <text id="/data/problema_establecimiento/problema:option0">
+            <value>Calibracion maquinaria</value>
+          </text>
+          <text id="/data/problema_establecimiento/problema:option1">
+            <value>Bajo porcentaje de emergencia</value>
+          </text>
+          <text id="/data/problema_establecimiento/problema:option2">
+            <value>Insidencia de plagas y/o enfermedades (Animales, insectos, enfermedades,  malezas)</value>
+          </text>
+          <text id="/data/problema_establecimiento/problema:option3">
+            <value>Exceso de fertilizantes:</value>
+          </text>
+          <text id="/data/problema_establecimiento/problema:option4">
+            <value>Estres abiotico (temperatura, agua,  otro):</value>
+          </text>
+          <text id="/data/problema_establecimiento/problema:option5">
+            <value>Semillas no tratadas</value>
+          </text>
+          <text id="/data/problema_establecimiento/problema:option6">
+            <value>Baja calidad de semilla</value>
+          </text>
+          <text id="/data/problema_establecimiento/problema:option7">
+            <value>Otro motivo</value>
+          </text>
+          <text id="/data/problema_establecimiento/otro_problema:label">
+            <value>Especifique otro motivo de problema de establecimiento:</value>
+          </text>
+          <text id="/data/problema_establecimiento/foto_2:label">
+            <value>Foto</value>
+          </text>
+          <text id="/data/problema_establecimiento/foto_2/establec:label">
+            <value>Fotografía del problema de establecimiento (asegura que la imagen soporta el daño reportado):</value>
+          </text>
+          <text id="/data/problema_establecimiento/foto_2/pie_establec:label">
+            <value>Pie de foto del problema de establecimiento: </value>
+          </text>
+          <text id="/data/problema_establecimiento/porcentaje1:label">
+            <value>Porcentaje de pérdidas potenciales (%) por problemas de establecimiento: </value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad:label">
+            <value>Problema de plagas/enfermedades:</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/causa:label">
+            <value>Las causa del daño fue por:</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/causa:option0">
+            <value>Plaga</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/causa:option1">
+            <value>Enfermedad</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/causa:option2">
+            <value>Fauna silvestre</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/dano_afecto:label">
+            <value>afecto:</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/dano_afecto:hint">
+            <value></value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/dano_afecto:option0">
+            <value>Planta completa (perdida de planta)</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/dano_afecto:option1">
+            <value>Hojas</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/dano_afecto:option2">
+            <value>Tallo</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/dano_afecto:option3">
+            <value>Flor</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/dano_afecto:option4">
+            <value>Fruto</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/dano_afecto:option5">
+            <value>Raíz</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/dano_afecto:option6">
+            <value>Otro</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/porcentaje_severidad:label">
+            <value>Severidad (Cantidad de follaje ó porción de tejido de la planta afectados por la enfermedad o plaga %):</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/mip:label">
+            <value>¿Realizó algun manejo integrado de plagas ó enfermedades?:</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/mip:option0">
+            <value>Químico</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/mip:option1">
+            <value>Biológico</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/mip:option2">
+            <value>Biológico y Químico</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/mip:option3">
+            <value>Etológico</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/mip:option4">
+            <value>Físico</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/motivo_manejo:label">
+            <value>Motivo del manejo:</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/motivo_manejo:option0">
+            <value>Prevención</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/motivo_manejo:option1">
+            <value>Control</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/porcentaje_incidencia:label">
+            <value>Porcentaje de daño del cultivo (Incidencia) en problemas de plagas y enfermedades (%):</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/numero:label">
+            <value>Número de plagas presentes en la parcela en este momento:</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/numero:option0">
+            <value>1</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/numero:option1">
+            <value>2</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/nombre:label">
+            <value>Nombre de la plaga:</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/nombre:option0">
+            <value>Ácaros</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/nombre:option1">
+            <value>Gorgojo de los Andes</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/nombre:option2">
+            <value>Hormigas</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/nombre:option3">
+            <value>Langosta</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/nombre:option4">
+            <value>Mosca blanca</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/nombre:option5">
+            <value>Nematodo del quiste</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/nombre:option6">
+            <value>Polilla de la papa</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/nombre:option7">
+            <value>Pulgilla ó mosca saltona</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/nombre:option8">
+            <value>Rancha o Tizón tardío</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/nombre:option9">
+            <value>Trips</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/nombre:option10">
+            <value>Otra</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/otra:label">
+            <value>Especifique otra plaga:</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/segunda_plaga:label">
+            <value>Indique si hubiera una segunda plaga:</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/segunda_plaga:option0">
+            <value>Ácaros</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/segunda_plaga:option1">
+            <value>Gorjo de los Andes</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/segunda_plaga:option2">
+            <value>Hormigas</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/segunda_plaga:option3">
+            <value>Langosta</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/segunda_plaga:option4">
+            <value>Mosca blanca</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/segunda_plaga:option5">
+            <value>Nematodo del quiste</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/segunda_plaga:option6">
+            <value>Polilla de la papa</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/segunda_plaga:option7">
+            <value>Pulgilla ó mosca saltona</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/segunda_plaga:option8">
+            <value>Rancha o Tizón tardío</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/segunda_plaga:option9">
+            <value>Trips</value>
+          </text>
+          <text id="/data/problema_plaga_enfermedad/segunda_plaga:option10">
+            <value>Otra</value>
+          </text>
+          <text id="/data/problema_malezas:label">
+            <value>Problema de malezas:</value>
+          </text>
+          <text id="/data/problema_malezas/motivo:label">
+            <value>¿A qué se debio el problema? </value>
+          </text>
+          <text id="/data/problema_malezas/motivo:option0">
+            <value>No se hace control de malezas</value>
+          </text>
+          <text id="/data/problema_malezas/motivo:option1">
+            <value>Momento en que realizó el control no fue el adecuado</value>
+          </text>
+          <text id="/data/problema_malezas/motivo:option2">
+            <value>Control no fue efectivo</value>
+          </text>
+          <text id="/data/problema_malezas/motivo:option3">
+            <value>Si el control fue quimico, el producto o la dosis no fueron los adecuados</value>
+          </text>
+          <text id="/data/problema_malezas/motivo:option4">
+            <value>Mala preparación de terreno</value>
+          </text>
+          <text id="/data/problema_malezas/motivo:option5">
+            <value>Otro motivo</value>
+          </text>
+          <text id="/data/problema_malezas/otro_motivo:label">
+            <value>Especifique otro motivo del problema de malezas:</value>
+          </text>
+          <text id="/data/problema_malezas/tipo:label">
+            <value>Tipo de maleza (s) que provocaron el problema: </value>
+          </text>
+          <text id="/data/problema_malezas/tipo:option0">
+            <value>Hoja ancha</value>
+          </text>
+          <text id="/data/problema_malezas/tipo:option1">
+            <value>Hoja angosta</value>
+          </text>
+          <text id="/data/problema_malezas/tipo:option2">
+            <value>Ambas</value>
+          </text>
+          <text id="/data/problema_malezas/control_agricultor:label">
+            <value>¿Cómo controla el agricultor sus malezas?: </value>
+          </text>
+          <text id="/data/problema_malezas/control_agricultor:option0">
+            <value>No las controla</value>
+          </text>
+          <text id="/data/problema_malezas/control_agricultor:option1">
+            <value>Control mecánico-manual</value>
+          </text>
+          <text id="/data/problema_malezas/control_agricultor:option2">
+            <value>Control mecánico - tracción animal/maquinaria</value>
+          </text>
+          <text id="/data/problema_malezas/control_agricultor:option3">
+            <value>Control químico</value>
+          </text>
+          <text id="/data/problema_malezas/porcentaje:label">
+            <value>Porcentaje de daño (%) causado por  malezas: </value>
+          </text>
+          <text id="/data/foto_danos:label">
+            <value>Foto de daños</value>
+          </text>
+          <text id="/data/foto_danos/foto3:label">
+            <value>Fotografía de los daños causados por plagas, enfermedades y/o malezas. (asegura que la imagen soporta el daño reportado): </value>
+          </text>
+          <text id="/data/foto_danos/pie_foto3:label">
+            <value>Pie de foto de los daños causados por plagas, enfermedades y/o malezas:</value>
+          </text>
+          <text id="/data/problema_condiciones_climatolgicas:label">
+            <value>Problemas debido a las condiciones climatológicas:</value>
+          </text>
+          <text id="/data/problema_condiciones_climatolgicas/presentadas:label">
+            <value>Si fuera el caso, indique las condiciones presentadas:</value>
+          </text>
+          <text id="/data/problema_condiciones_climatolgicas/presentadas:option0">
+            <value>Granizada</value>
+          </text>
+          <text id="/data/problema_condiciones_climatolgicas/presentadas:option1">
+            <value>Helada</value>
+          </text>
+          <text id="/data/problema_condiciones_climatolgicas/presentadas:option2">
+            <value>Inundación</value>
+          </text>
+          <text id="/data/problema_condiciones_climatolgicas/presentadas:option3">
+            <value>Sequia</value>
+          </text>
+          <text id="/data/problema_condiciones_climatolgicas/presentadas:option4">
+            <value>Vientos</value>
+          </text>
+          <text id="/data/problema_condiciones_climatolgicas/presentadas:option5">
+            <value>Desbordes de rios</value>
+          </text>
+          <text id="/data/problema_condiciones_climatolgicas/presentadas:option6">
+            <value>Exceso de humedad</value>
+          </text>
+          <text id="/data/problema_condiciones_climatolgicas/presentadas:option7">
+            <value>Otra</value>
+          </text>
+          <text id="/data/problema_condiciones_climatolgicas/otra2:label">
+            <value>Indique otro problema debido a las condiciones climatológicas se presentó:</value>
+          </text>
+          <text id="/data/problema_condiciones_climatolgicas/porcentaje4:label">
+            <value>Porcentaje de pérdida del cultivo (%) debido a las condiciones climatologicas: </value>
+          </text>
+          <text id="/data/problema_deficiencias:label">
+            <value>Problemas con deficiencias nutricionales:</value>
+          </text>
+          <text id="/data/problema_deficiencias/identificadas:label">
+            <value>Si fuera el caso, ¿Qué deficiencias nutricionales identificó?</value>
+          </text>
+          <text id="/data/problema_deficiencias/identificadas:option0">
+            <value>Deficiencias de Fosforo</value>
+          </text>
+          <text id="/data/problema_deficiencias/identificadas:option1">
+            <value>Deficiencias de Nitrogeno</value>
+          </text>
+          <text id="/data/problema_deficiencias/identificadas:option2">
+            <value>Deficiencias de Potasio</value>
+          </text>
+          <text id="/data/problema_deficiencias/identificadas:option3">
+            <value>Deficiencias de Micronutrientes</value>
+          </text>
+          <text id="/data/problema_deficiencias/identificadas:option4">
+            <value>No se identifica la deficiencia</value>
+          </text>
+          <text id="/data/problema_deficiencias/mas_probable:label">
+            <value>Deficiencia nutricional mas probable: </value>
+          </text>
+          <text id="/data/problema_deficiencias/tipo_fertilizacion:label">
+            <value>¿Realizó algun tipo de fertilización?: </value>
+          </text>
+          <text id="/data/problema_deficiencias/tipo_fertilizacion:option0">
+            <value>No</value>
+          </text>
+          <text id="/data/problema_deficiencias/tipo_fertilizacion:option1">
+            <value>Abonos orgánicos</value>
+          </text>
+          <text id="/data/problema_deficiencias/tipo_fertilizacion:option2">
+            <value>Fertilizantes sintéticos</value>
+          </text>
+          <text id="/data/problema_deficiencias/tipo_fertilizacion:option3">
+            <value>Ambos</value>
+          </text>
+          <text id="/data/problema_deficiencias/foto_1:label">
+            <value>Foto</value>
+          </text>
+          <text id="/data/problema_deficiencias/foto_1/foto:label">
+            <value>Fotografía de deficiencias nutricionales (asegura que la imagen soporta el daño reportado): </value>
+          </text>
+          <text id="/data/problema_deficiencias/foto_1/pie_foto:label">
+            <value>Pie de foto del problema de deficiencias nutricionales:</value>
+          </text>
+          <text id="/data/problema_deficiencias/porcentaje_2:label">
+            <value>Porcentaje de pérdidas potenciales (%), por deficiencias nutricionales: </value>
+          </text>
+          <text id="/data/problemas_estres_hidrico:label">
+            <value>Problemas de estrés hídrico:</value>
+          </text>
+          <text id="/data/problemas_estres_hidrico/identificados:label">
+            <value>Si fuera el caso. identifique los problemas  causados por el estrés hídrico:</value>
+          </text>
+          <text id="/data/problemas_estres_hidrico/identificados:option0">
+            <value>Deformación de los tubérculos</value>
+          </text>
+          <text id="/data/problemas_estres_hidrico/identificados:option1">
+            <value>Disminución del tamaño de las hojas</value>
+          </text>
+          <text id="/data/problemas_estres_hidrico/identificados:option2">
+            <value>Otro evidencia</value>
+          </text>
+          <text id="/data/problemas_estres_hidrico/otra3:label">
+            <value>Especifique otra evidencia del estrés hídrico:</value>
+          </text>
+          <text id="/data/problemas_estres_hidrico/fot_1:label">
+            <value>Foto</value>
+          </text>
+          <text id="/data/problemas_estres_hidrico/fot_1/foto2:label">
+            <value>Fotografia del problema de estrés hídrico:</value>
+          </text>
+          <text id="/data/problemas_estres_hidrico/fot_1/pie_2:label">
+            <value>Pie de foto del problema de estrés hídrico:</value>
+          </text>
+          <text id="/data/problemas_estres_hidrico/porcentaje3:label">
+            <value>Porcentaje de pérdidas potenciales (%) debido al estrés hídrico: </value>
+          </text>
+          <text id="/data/tecnologias_parcela:label">
+            <value>¿Cuáles son las tecnologías que pretende implementar o está implementando para la producción en la parcela?</value>
+          </text>
+          <text id="/data/tecnologias_parcela:option0">
+            <value>Uso de semilla certificada o de calidad  (“QDS”):</value>
+          </text>
+          <text id="/data/tecnologias_parcela:option1">
+            <value>Uso de variedad mejorada</value>
+          </text>
+          <text id="/data/tecnologias_parcela:option2">
+            <value>Uso de discos para control de la Rancha</value>
+          </text>
+          <text id="/data/tecnologias_parcela:option3">
+            <value>Majadeo (casi similar a labranza cero)</value>
+          </text>
+          <text id="/data/tecnologias_parcela:option4">
+            <value>Rescate de variedades nativas</value>
+          </text>
+          <text id="/data/tecnologias_parcela:option5">
+            <value>Comercialización-Incorporación de nuevos cultivos de alto valor con  orientación al mercado</value>
+          </text>
+          <text id="/data/tecnologias_parcela:option6">
+            <value>AC-Rotación/Diversificacion de cultivos (con cultivo no tradicional)</value>
+          </text>
+          <text id="/data/tecnologias_parcela:option7">
+            <value>MIP/MAP-Tratamientos de semillas  (fungicidas, insecticidas, micorrizas)</value>
+          </text>
+          <text id="/data/tecnologias_parcela:option8">
+            <value>Fertilidad-Abonos orgánicos  como fuente de nutrientes (compostas, estiércoles, lixiviados, abonos  orgánicos fermentados)</value>
+          </text>
+          <text id="/data/tecnologias_parcela:option9">
+            <value>Uso de Biol</value>
+          </text>
+          <text id="/data/tecnologias_parcela:option10">
+            <value>Uso de almacenes de luz difusa</value>
+          </text>
+          <text id="/data/tecnologias_parcela:option11">
+            <value>Otra tecnología</value>
+          </text>
+          <text id="/data/otra_tecnologia:label">
+            <value>Especifique otra tecnología: </value>
+          </text>
+          <text id="/data/observaciones_finales:label">
+            <value>Observaciones finales. </value>
+          </text>
+          <text id="/data/observaciones_finales/estado_general:label">
+            <value>Estado general de la parcela: </value>
+          </text>
+          <text id="/data/observaciones_finales/estado_general:option0">
+            <value>Bueno</value>
+          </text>
+          <text id="/data/observaciones_finales/estado_general:option1">
+            <value>Regular</value>
+          </text>
+          <text id="/data/observaciones_finales/estado_general:option2">
+            <value>Malo</value>
+          </text>
+          <text id="/data/observaciones_finales/actividad_realizada:label">
+            <value>Actividad realizada:</value>
+          </text>
+          <text id="/data/observaciones_finales/actividad_realizada:option0">
+            <value>Visita de seguimiento técnico</value>
+          </text>
+          <text id="/data/observaciones_finales/actividad_realizada:option1">
+            <value>Visita de supervisión (Visita de formador ó Coord. de plataformas)</value>
+          </text>
+          <text id="/data/observaciones_finales/actividad_realizada:option2">
+            <value>Acondicionamiento de parcela (Año cero)</value>
+          </text>
+          <text id="/data/observaciones_finales/actividad_realizada:option3">
+            <value>Reformacion de camas</value>
+          </text>
+          <text id="/data/observaciones_finales/actividad_realizada:option4">
+            <value>Siembra</value>
+          </text>
+          <text id="/data/observaciones_finales/actividad_realizada:option5">
+            <value>Control de malezas</value>
+          </text>
+          <text id="/data/observaciones_finales/actividad_realizada:option6">
+            <value>Fertilización</value>
+          </text>
+          <text id="/data/observaciones_finales/actividad_realizada:option7">
+            <value>Control de Plagas</value>
+          </text>
+          <text id="/data/observaciones_finales/actividad_realizada:option8">
+            <value>Cosecha</value>
+          </text>
+          <text id="/data/observaciones_finales/actividad_realizada:option9">
+            <value>Manejo de rastrojos</value>
+          </text>
+          <text id="/data/observaciones_finales/actividad_realizada:option10">
+            <value>Control de enfermedades</value>
+          </text>
+          <text id="/data/observaciones_finales/actividad_realizada:option11">
+            <value>Seleccion de semillas</value>
+          </text>
+          <text id="/data/observaciones_finales/actividad_realizada:option12">
+            <value>Otra actividad</value>
+          </text>
+          <text id="/data/observaciones_finales/otra_actividad:label">
+            <value>Observaciones, especifique que otra actividad realizada:</value>
+          </text>
+          <text id="/data/observaciones_finales/recomendaciones:label">
+            <value>Recomendaciones:</value>
+          </text>
+          <text id="/data/indormacion_adicional:label">
+            <value>Información adicional</value>
+          </text>
+          <text id="/data/indormacion_adicional/usa_smartphone:label">
+            <value>Usa smartphone?</value>
+          </text>
+          <text id="/data/indormacion_adicional/usa_smartphone:option0">
+            <value>Si</value>
+          </text>
+          <text id="/data/indormacion_adicional/usa_smartphone:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/indormacion_adicional/operador_telefonia:label">
+            <value>Que operador de telefonía móvil usa:</value>
+          </text>
+          <text id="/data/indormacion_adicional/operador_telefonia:option0">
+            <value>Bitel</value>
+          </text>
+          <text id="/data/indormacion_adicional/operador_telefonia:option1">
+            <value>Claro</value>
+          </text>
+          <text id="/data/indormacion_adicional/operador_telefonia:option2">
+            <value>Entel</value>
+          </text>
+          <text id="/data/indormacion_adicional/operador_telefonia:option3">
+            <value>Movistar</value>
+          </text>
+          <text id="/data/indormacion_adicional/senal_telefonia_movil:label">
+            <value>La señal de telefonía móvil es:</value>
+          </text>
+          <text id="/data/indormacion_adicional/senal_telefonia_movil:option0">
+            <value>Muy mala</value>
+          </text>
+          <text id="/data/indormacion_adicional/senal_telefonia_movil:option1">
+            <value>Mala</value>
+          </text>
+          <text id="/data/indormacion_adicional/senal_telefonia_movil:option2">
+            <value>Buena</value>
+          </text>
+          <text id="/data/indormacion_adicional/senal_telefonia_movil:option3">
+            <value>Muy buena</value>
+          </text>
+        </translation>
+      </itext>
+      <bind nodeset="/data/meta/instanceID" type="string" readonly="true()" jr:preload="uid"/>
+      <submission method="form-data-post" action="https://docs.google.com/spreadsheets/d/1TZDB61DLW1r3Flflt0kyKC44jzL3rfCagQPa2-ibWyI/edit?usp=sharing"/>
+      <bind nodeset="/data/device_id" type="string" jr:preload="property" jr:preloadParams="deviceid"/>
+      <bind nodeset="/data/date" type="dateTime" jr:preload="timestamp" jr:preloadParams="start"/>
+      <bind nodeset="/data/extensionista" type="select1" required="true()"/>
+      <bind nodeset="/data/otro_extensionista" type="string" relevant="(selected(/data/extensionista, 'otro'))"/>
+      <bind nodeset="/data/agricultor" type="string" required="true()"/>
+      <bind nodeset="/data/fecha_visita" type="date"/>
+      <bind nodeset="/data/cultivo" type="select1"/>
+      <bind nodeset="/data/otro_cultivo" type="string" relevant="(selected(/data/cultivo, 'otro'))"/>
+      <bind nodeset="/data/etapa_cultivo" type="select1"/>
+      <bind nodeset="/data/foto_general/pacela" type="binary"/>
+      <bind nodeset="/data/foto_general/nota" type="string"/>
+      <bind nodeset="/data/problemas_parcela" type="select"/>
+      <bind nodeset="/data/problema_establecimiento/problema" type="select" relevant="(selected(/data/problemas_parcela, 'establecimiento'))"/>
+      <bind nodeset="/data/problema_establecimiento/otro_problema" type="string" relevant="(selected(/data/problemas_parcela, 'establecimiento')) and (selected(/data/problema_establecimiento/problema, 'otro_motivo'))"/>
+      <bind nodeset="/data/problema_establecimiento/foto_2/establec" type="binary" relevant="(selected(/data/problemas_parcela, 'establecimiento'))"/>
+      <bind nodeset="/data/problema_establecimiento/foto_2/pie_establec" type="string" relevant="(selected(/data/problemas_parcela, 'establecimiento'))"/>
+      <bind nodeset="/data/problema_establecimiento/porcentaje1" type="int" relevant="(selected(/data/problemas_parcela, 'establecimiento'))"/>
+      <bind nodeset="/data/problema_plaga_enfermedad/causa" type="select"/>
+      <bind nodeset="/data/problema_plaga_enfermedad/dano_afecto" type="select"/>
+      <bind nodeset="/data/problema_plaga_enfermedad/porcentaje_severidad" type="decimal"/>
+      <bind nodeset="/data/problema_plaga_enfermedad/mip" type="select1"/>
+      <bind nodeset="/data/problema_plaga_enfermedad/motivo_manejo" type="select1"/>
+      <bind nodeset="/data/problema_plaga_enfermedad/porcentaje_incidencia" type="decimal"/>
+      <bind nodeset="/data/problema_plaga_enfermedad/numero" type="select1"/>
+      <bind nodeset="/data/problema_plaga_enfermedad/nombre" type="select1"/>
+      <bind nodeset="/data/problema_plaga_enfermedad/otra" type="string" relevant="(selected(/data/problema_plaga_enfermedad/nombre, 'otra'))"/>
+      <bind nodeset="/data/problema_plaga_enfermedad/segunda_plaga" type="select1"/>
+      <bind nodeset="/data/problema_malezas/motivo" type="select"/>
+      <bind nodeset="/data/problema_malezas/otro_motivo" type="string" relevant="(selected(/data/problema_malezas/motivo, 'otro_motivo'))"/>
+      <bind nodeset="/data/problema_malezas/tipo" type="select1"/>
+      <bind nodeset="/data/problema_malezas/control_agricultor" type="select1"/>
+      <bind nodeset="/data/problema_malezas/porcentaje" type="decimal"/>
+      <bind nodeset="/data/foto_danos/foto3" type="binary"/>
+      <bind nodeset="/data/foto_danos/pie_foto3" type="string"/>
+      <bind nodeset="/data/problema_condiciones_climatolgicas/presentadas" type="select"/>
+      <bind nodeset="/data/problema_condiciones_climatolgicas/otra2" type="string" relevant="(selected(/data/problema_condiciones_climatolgicas/presentadas, 'otra'))"/>
+      <bind nodeset="/data/problema_condiciones_climatolgicas/porcentaje4" type="int"/>
+      <bind nodeset="/data/problema_deficiencias/identificadas" type="select"/>
+      <bind nodeset="/data/problema_deficiencias/mas_probable" type="string" relevant="(selected(/data/problema_deficiencias/identificadas, 'no_identifica'))"/>
+      <bind nodeset="/data/problema_deficiencias/tipo_fertilizacion" type="select1"/>
+      <bind nodeset="/data/problema_deficiencias/foto_1/foto" type="binary"/>
+      <bind nodeset="/data/problema_deficiencias/foto_1/pie_foto" type="string"/>
+      <bind nodeset="/data/problema_deficiencias/porcentaje_2" type="int"/>
+      <bind nodeset="/data/problemas_estres_hidrico/identificados" type="select"/>
+      <bind nodeset="/data/problemas_estres_hidrico/otra3" type="string" relevant="(selected(/data/problemas_estres_hidrico/identificados, 'otro_evidencia'))"/>
+      <bind nodeset="/data/problemas_estres_hidrico/fot_1/foto2" type="binary"/>
+      <bind nodeset="/data/problemas_estres_hidrico/fot_1/pie_2" type="string"/>
+      <bind nodeset="/data/problemas_estres_hidrico/porcentaje3" type="int"/>
+      <bind nodeset="/data/tecnologias_parcela" type="select"/>
+      <bind nodeset="/data/otra_tecnologia" type="string" relevant="(selected(/data/tecnologias_parcela, 'otra_tecnologia'))"/>
+      <bind nodeset="/data/observaciones_finales/estado_general" type="select1"/>
+      <bind nodeset="/data/observaciones_finales/actividad_realizada" type="select"/>
+      <bind nodeset="/data/observaciones_finales/otra_actividad" type="string" relevant="(selected(/data/observaciones_finales/actividad_realizada, 'otra_actividad'))"/>
+      <bind nodeset="/data/observaciones_finales/recomendaciones" type="string"/>
+      <bind nodeset="/data/indormacion_adicional/usa_smartphone" type="select1"/>
+      <bind nodeset="/data/indormacion_adicional/operador_telefonia" type="select1"/>
+      <bind nodeset="/data/indormacion_adicional/senal_telefonia_movil" type="select1"/>
+    </model>
+  </h:head>
+  <h:body>
+    <select1 ref="/data/extensionista">
+      <label ref="jr:itext('/data/extensionista:label')"/>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option0')"/>
+        <value>alex_roncal</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option1')"/>
+        <value>alex_villanueva</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option2')"/>
+        <value>cristian_villanueva</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option3')"/>
+        <value>demetrio_flores</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option4')"/>
+        <value>edgar_sevillano</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option5')"/>
+        <value>eli_diaz</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option6')"/>
+        <value>enner_arias</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option7')"/>
+        <value>jose_cieza</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option8')"/>
+        <value>william_huamanchay</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option9')"/>
+        <value>wilson_mendoza</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option10')"/>
+        <value>otro</value>
+      </item>
+    </select1>
+    <input ref="/data/otro_extensionista">
+      <label ref="jr:itext('/data/otro_extensionista:label')"/>
+    </input>
+    <input ref="/data/agricultor">
+      <label ref="jr:itext('/data/agricultor:label')"/>
+    </input>
+    <input ref="/data/fecha_visita">
+      <label ref="jr:itext('/data/fecha_visita:label')"/>
+    </input>
+    <select1 ref="/data/cultivo">
+      <label ref="jr:itext('/data/cultivo:label')"/>
+      <item>
+        <label ref="jr:itext('/data/cultivo:option0')"/>
+        <value>papa</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/cultivo:option1')"/>
+        <value>cebada</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/cultivo:option2')"/>
+        <value>avena</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/cultivo:option3')"/>
+        <value>haba</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/cultivo:option4')"/>
+        <value>chocho</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/cultivo:option5')"/>
+        <value>arveja</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/cultivo:option6')"/>
+        <value>oca</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/cultivo:option7')"/>
+        <value>trigo</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/cultivo:option8')"/>
+        <value>otro</value>
+      </item>
+    </select1>
+    <input ref="/data/otro_cultivo">
+      <label ref="jr:itext('/data/otro_cultivo:label')"/>
+    </input>
+    <select1 ref="/data/etapa_cultivo">
+      <label ref="jr:itext('/data/etapa_cultivo:label')"/>
+      <item>
+        <label ref="jr:itext('/data/etapa_cultivo:option0')"/>
+        <value>crecimiento_yemas_raiz</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/etapa_cultivo:option1')"/>
+        <value>emergencia_planta</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/etapa_cultivo:option2')"/>
+        <value>desarrollo_vegetativo</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/etapa_cultivo:option3')"/>
+        <value>TIO</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/etapa_cultivo:option4')"/>
+        <value>inicio_tuberizacion</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/etapa_cultivo:option5')"/>
+        <value>madurez_fisiologica</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/etapa_cultivo:option6')"/>
+        <value>tuberizacion_tuberculos</value>
+      </item>
+    </select1>
+    <group ref="/data/foto_general" appearance="field-list">
+      <label ref="jr:itext('/data/foto_general:label')"/>
+      <upload ref="/data/foto_general/pacela" mediatype="image/*">
+        <label ref="jr:itext('/data/foto_general/pacela:label')"/>
+      </upload>
+      <input ref="/data/foto_general/nota">
+        <label ref="jr:itext('/data/foto_general/nota:label')"/>
+      </input>
+    </group>
+    <select ref="/data/problemas_parcela">
+      <label ref="jr:itext('/data/problemas_parcela:label')"/>
+      <item>
+        <label ref="jr:itext('/data/problemas_parcela:option0')"/>
+        <value>establecimiento</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/problemas_parcela:option1')"/>
+        <value>plagas_enfermedades</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/problemas_parcela:option2')"/>
+        <value>malezas</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/problemas_parcela:option3')"/>
+        <value>estres_hidrico</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/problemas_parcela:option4')"/>
+        <value>deficiencias_nutricionales</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/problemas_parcela:option5')"/>
+        <value>condiciones_climatologicas</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/problemas_parcela:option6')"/>
+        <value>ninguna</value>
+      </item>
+    </select>
+    <group ref="/data/problema_establecimiento">
+      <label ref="jr:itext('/data/problema_establecimiento:label')"/>
+      <select ref="/data/problema_establecimiento/problema">
+        <label ref="jr:itext('/data/problema_establecimiento/problema:label')"/>
+        <item>
+          <label ref="jr:itext('/data/problema_establecimiento/problema:option0')"/>
+          <value>calibracion_maquinaria</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_establecimiento/problema:option1')"/>
+          <value>bajo_porcentaje_emergencia</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_establecimiento/problema:option2')"/>
+          <value>insidencia_plagas_enfermedades</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_establecimiento/problema:option3')"/>
+          <value>exceso_fertilizantes</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_establecimiento/problema:option4')"/>
+          <value>estres_abiotico</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_establecimiento/problema:option5')"/>
+          <value>semillas_no_tratadas</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_establecimiento/problema:option6')"/>
+          <value>baja_calidad_semilla</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_establecimiento/problema:option7')"/>
+          <value>otro_motivo</value>
+        </item>
+      </select>
+      <input ref="/data/problema_establecimiento/otro_problema">
+        <label ref="jr:itext('/data/problema_establecimiento/otro_problema:label')"/>
+      </input>
+      <group ref="/data/problema_establecimiento/foto_2" appearance="field-list">
+        <label ref="jr:itext('/data/problema_establecimiento/foto_2:label')"/>
+        <upload ref="/data/problema_establecimiento/foto_2/establec" mediatype="image/*">
+          <label ref="jr:itext('/data/problema_establecimiento/foto_2/establec:label')"/>
+        </upload>
+        <input ref="/data/problema_establecimiento/foto_2/pie_establec">
+          <label ref="jr:itext('/data/problema_establecimiento/foto_2/pie_establec:label')"/>
+        </input>
+      </group>
+      <input ref="/data/problema_establecimiento/porcentaje1">
+        <label ref="jr:itext('/data/problema_establecimiento/porcentaje1:label')"/>
+      </input>
+    </group>
+    <group ref="/data/problema_plaga_enfermedad">
+      <label ref="jr:itext('/data/problema_plaga_enfermedad:label')"/>
+      <select ref="/data/problema_plaga_enfermedad/causa">
+        <label ref="jr:itext('/data/problema_plaga_enfermedad/causa:label')"/>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/causa:option0')"/>
+          <value>plaga</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/causa:option1')"/>
+          <value>enfermedad</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/causa:option2')"/>
+          <value>fauna_silvestre</value>
+        </item>
+      </select>
+      <select ref="/data/problema_plaga_enfermedad/dano_afecto">
+        <label ref="jr:itext('/data/problema_plaga_enfermedad/dano_afecto:label')"/>
+        <hint ref="jr:itext('/data/problema_plaga_enfermedad/dano_afecto:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/dano_afecto:option0')"/>
+          <value>perdida_planta</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/dano_afecto:option1')"/>
+          <value>hojas</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/dano_afecto:option2')"/>
+          <value>tallo</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/dano_afecto:option3')"/>
+          <value>flor</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/dano_afecto:option4')"/>
+          <value>fruto</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/dano_afecto:option5')"/>
+          <value>raiz</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/dano_afecto:option6')"/>
+          <value>otro</value>
+        </item>
+      </select>
+      <input ref="/data/problema_plaga_enfermedad/porcentaje_severidad">
+        <label ref="jr:itext('/data/problema_plaga_enfermedad/porcentaje_severidad:label')"/>
+      </input>
+      <select1 ref="/data/problema_plaga_enfermedad/mip">
+        <label ref="jr:itext('/data/problema_plaga_enfermedad/mip:label')"/>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/mip:option0')"/>
+          <value>quimico</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/mip:option1')"/>
+          <value>biologico</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/mip:option2')"/>
+          <value>biologico_quimico</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/mip:option3')"/>
+          <value>etologico</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/mip:option4')"/>
+          <value>fisico</value>
+        </item>
+      </select1>
+      <select1 ref="/data/problema_plaga_enfermedad/motivo_manejo">
+        <label ref="jr:itext('/data/problema_plaga_enfermedad/motivo_manejo:label')"/>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/motivo_manejo:option0')"/>
+          <value>prevencion</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/motivo_manejo:option1')"/>
+          <value>control</value>
+        </item>
+      </select1>
+      <input ref="/data/problema_plaga_enfermedad/porcentaje_incidencia">
+        <label ref="jr:itext('/data/problema_plaga_enfermedad/porcentaje_incidencia:label')"/>
+      </input>
+      <select1 ref="/data/problema_plaga_enfermedad/numero">
+        <label ref="jr:itext('/data/problema_plaga_enfermedad/numero:label')"/>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/numero:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/numero:option1')"/>
+          <value>2</value>
+        </item>
+      </select1>
+      <select1 ref="/data/problema_plaga_enfermedad/nombre">
+        <label ref="jr:itext('/data/problema_plaga_enfermedad/nombre:label')"/>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/nombre:option0')"/>
+          <value>acaros</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/nombre:option1')"/>
+          <value>gorgojo_andes</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/nombre:option2')"/>
+          <value>hormigas</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/nombre:option3')"/>
+          <value>langosta</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/nombre:option4')"/>
+          <value>mosca_blanca</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/nombre:option5')"/>
+          <value>nematodo_quiste</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/nombre:option6')"/>
+          <value>polilla_papa</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/nombre:option7')"/>
+          <value>pulgilla</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/nombre:option8')"/>
+          <value>rancha</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/nombre:option9')"/>
+          <value>trips</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/nombre:option10')"/>
+          <value>otra</value>
+        </item>
+      </select1>
+      <input ref="/data/problema_plaga_enfermedad/otra">
+        <label ref="jr:itext('/data/problema_plaga_enfermedad/otra:label')"/>
+      </input>
+      <select1 ref="/data/problema_plaga_enfermedad/segunda_plaga">
+        <label ref="jr:itext('/data/problema_plaga_enfermedad/segunda_plaga:label')"/>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/segunda_plaga:option0')"/>
+          <value>acaros</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/segunda_plaga:option1')"/>
+          <value>gorjo_andes</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/segunda_plaga:option2')"/>
+          <value>hormigas</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/segunda_plaga:option3')"/>
+          <value>langosta</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/segunda_plaga:option4')"/>
+          <value>mosca_blanca</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/segunda_plaga:option5')"/>
+          <value>nematodo_quiste</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/segunda_plaga:option6')"/>
+          <value>polilla_papa</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/segunda_plaga:option7')"/>
+          <value>pulgilla</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/segunda_plaga:option8')"/>
+          <value>rancha</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/segunda_plaga:option9')"/>
+          <value>trips</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_plaga_enfermedad/segunda_plaga:option10')"/>
+          <value>otra</value>
+        </item>
+      </select1>
+    </group>
+    <group ref="/data/problema_malezas">
+      <label ref="jr:itext('/data/problema_malezas:label')"/>
+      <select ref="/data/problema_malezas/motivo">
+        <label ref="jr:itext('/data/problema_malezas/motivo:label')"/>
+        <item>
+          <label ref="jr:itext('/data/problema_malezas/motivo:option0')"/>
+          <value>no_control_malezas</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_malezas/motivo:option1')"/>
+          <value>momento_no_adecuado</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_malezas/motivo:option2')"/>
+          <value>control_no_efectivo</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_malezas/motivo:option3')"/>
+          <value>dosis_no_adecuada</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_malezas/motivo:option4')"/>
+          <value>mala_preparacion_terreno</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_malezas/motivo:option5')"/>
+          <value>otro_motivo</value>
+        </item>
+      </select>
+      <input ref="/data/problema_malezas/otro_motivo">
+        <label ref="jr:itext('/data/problema_malezas/otro_motivo:label')"/>
+      </input>
+      <select1 ref="/data/problema_malezas/tipo">
+        <label ref="jr:itext('/data/problema_malezas/tipo:label')"/>
+        <item>
+          <label ref="jr:itext('/data/problema_malezas/tipo:option0')"/>
+          <value>hoja_ancha</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_malezas/tipo:option1')"/>
+          <value>hoja_angosta</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_malezas/tipo:option2')"/>
+          <value>ambas</value>
+        </item>
+      </select1>
+      <select1 ref="/data/problema_malezas/control_agricultor">
+        <label ref="jr:itext('/data/problema_malezas/control_agricultor:label')"/>
+        <item>
+          <label ref="jr:itext('/data/problema_malezas/control_agricultor:option0')"/>
+          <value>no_controla</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_malezas/control_agricultor:option1')"/>
+          <value>mecanico-manual</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_malezas/control_agricultor:option2')"/>
+          <value>mecanico_animal-maquinaria</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_malezas/control_agricultor:option3')"/>
+          <value>control_quimico</value>
+        </item>
+      </select1>
+      <input ref="/data/problema_malezas/porcentaje">
+        <label ref="jr:itext('/data/problema_malezas/porcentaje:label')"/>
+      </input>
+    </group>
+    <group ref="/data/foto_danos" appearance="field-list">
+      <label ref="jr:itext('/data/foto_danos:label')"/>
+      <upload ref="/data/foto_danos/foto3" mediatype="image/*">
+        <label ref="jr:itext('/data/foto_danos/foto3:label')"/>
+      </upload>
+      <input ref="/data/foto_danos/pie_foto3">
+        <label ref="jr:itext('/data/foto_danos/pie_foto3:label')"/>
+      </input>
+    </group>
+    <group ref="/data/problema_condiciones_climatolgicas">
+      <label ref="jr:itext('/data/problema_condiciones_climatolgicas:label')"/>
+      <select ref="/data/problema_condiciones_climatolgicas/presentadas">
+        <label ref="jr:itext('/data/problema_condiciones_climatolgicas/presentadas:label')"/>
+        <item>
+          <label ref="jr:itext('/data/problema_condiciones_climatolgicas/presentadas:option0')"/>
+          <value>granizada</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_condiciones_climatolgicas/presentadas:option1')"/>
+          <value>helada</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_condiciones_climatolgicas/presentadas:option2')"/>
+          <value>inundacion</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_condiciones_climatolgicas/presentadas:option3')"/>
+          <value>sequia</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_condiciones_climatolgicas/presentadas:option4')"/>
+          <value>vientos</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_condiciones_climatolgicas/presentadas:option5')"/>
+          <value>desborde_rios</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_condiciones_climatolgicas/presentadas:option6')"/>
+          <value>exceso_humedad</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_condiciones_climatolgicas/presentadas:option7')"/>
+          <value>otra</value>
+        </item>
+      </select>
+      <input ref="/data/problema_condiciones_climatolgicas/otra2">
+        <label ref="jr:itext('/data/problema_condiciones_climatolgicas/otra2:label')"/>
+      </input>
+      <input ref="/data/problema_condiciones_climatolgicas/porcentaje4">
+        <label ref="jr:itext('/data/problema_condiciones_climatolgicas/porcentaje4:label')"/>
+      </input>
+    </group>
+    <group ref="/data/problema_deficiencias">
+      <label ref="jr:itext('/data/problema_deficiencias:label')"/>
+      <select ref="/data/problema_deficiencias/identificadas">
+        <label ref="jr:itext('/data/problema_deficiencias/identificadas:label')"/>
+        <item>
+          <label ref="jr:itext('/data/problema_deficiencias/identificadas:option0')"/>
+          <value>deficiencia_fosforo</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_deficiencias/identificadas:option1')"/>
+          <value>deficiencias_nitrogeno</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_deficiencias/identificadas:option2')"/>
+          <value>deficiencias_potasio</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_deficiencias/identificadas:option3')"/>
+          <value>deficiencias_micronutrientes</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_deficiencias/identificadas:option4')"/>
+          <value>no_identifica</value>
+        </item>
+      </select>
+      <input ref="/data/problema_deficiencias/mas_probable">
+        <label ref="jr:itext('/data/problema_deficiencias/mas_probable:label')"/>
+      </input>
+      <select1 ref="/data/problema_deficiencias/tipo_fertilizacion">
+        <label ref="jr:itext('/data/problema_deficiencias/tipo_fertilizacion:label')"/>
+        <item>
+          <label ref="jr:itext('/data/problema_deficiencias/tipo_fertilizacion:option0')"/>
+          <value>no</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_deficiencias/tipo_fertilizacion:option1')"/>
+          <value>abonos_organicos</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_deficiencias/tipo_fertilizacion:option2')"/>
+          <value>fertilizantes_sinteticos</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problema_deficiencias/tipo_fertilizacion:option3')"/>
+          <value>ambos</value>
+        </item>
+      </select1>
+      <group ref="/data/problema_deficiencias/foto_1" appearance="field-list">
+        <label ref="jr:itext('/data/problema_deficiencias/foto_1:label')"/>
+        <upload ref="/data/problema_deficiencias/foto_1/foto" mediatype="image/*">
+          <label ref="jr:itext('/data/problema_deficiencias/foto_1/foto:label')"/>
+        </upload>
+        <input ref="/data/problema_deficiencias/foto_1/pie_foto">
+          <label ref="jr:itext('/data/problema_deficiencias/foto_1/pie_foto:label')"/>
+        </input>
+      </group>
+      <input ref="/data/problema_deficiencias/porcentaje_2">
+        <label ref="jr:itext('/data/problema_deficiencias/porcentaje_2:label')"/>
+      </input>
+    </group>
+    <group ref="/data/problemas_estres_hidrico">
+      <label ref="jr:itext('/data/problemas_estres_hidrico:label')"/>
+      <select ref="/data/problemas_estres_hidrico/identificados">
+        <label ref="jr:itext('/data/problemas_estres_hidrico/identificados:label')"/>
+        <item>
+          <label ref="jr:itext('/data/problemas_estres_hidrico/identificados:option0')"/>
+          <value>deformacion_tuberculos</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problemas_estres_hidrico/identificados:option1')"/>
+          <value>tamano_hojas</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/problemas_estres_hidrico/identificados:option2')"/>
+          <value>otro_evidencia</value>
+        </item>
+      </select>
+      <input ref="/data/problemas_estres_hidrico/otra3">
+        <label ref="jr:itext('/data/problemas_estres_hidrico/otra3:label')"/>
+      </input>
+      <group ref="/data/problemas_estres_hidrico/fot_1" appearance="field-list">
+        <label ref="jr:itext('/data/problemas_estres_hidrico/fot_1:label')"/>
+        <upload ref="/data/problemas_estres_hidrico/fot_1/foto2" mediatype="image/*">
+          <label ref="jr:itext('/data/problemas_estres_hidrico/fot_1/foto2:label')"/>
+        </upload>
+        <input ref="/data/problemas_estres_hidrico/fot_1/pie_2">
+          <label ref="jr:itext('/data/problemas_estres_hidrico/fot_1/pie_2:label')"/>
+        </input>
+      </group>
+      <input ref="/data/problemas_estres_hidrico/porcentaje3">
+        <label ref="jr:itext('/data/problemas_estres_hidrico/porcentaje3:label')"/>
+      </input>
+    </group>
+    <select ref="/data/tecnologias_parcela">
+      <label ref="jr:itext('/data/tecnologias_parcela:label')"/>
+      <item>
+        <label ref="jr:itext('/data/tecnologias_parcela:option0')"/>
+        <value>semilla_cetificada</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/tecnologias_parcela:option1')"/>
+        <value>variedad_mejorada</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/tecnologias_parcela:option2')"/>
+        <value>uso_discos_control_rancha</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/tecnologias_parcela:option3')"/>
+        <value>majadeo</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/tecnologias_parcela:option4')"/>
+        <value>rescate_var_nativas</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/tecnologias_parcela:option5')"/>
+        <value>comercializacion</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/tecnologias_parcela:option6')"/>
+        <value>rotacion_cultivos</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/tecnologias_parcela:option7')"/>
+        <value>tratamientos_semillas</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/tecnologias_parcela:option8')"/>
+        <value>abonos_organicos</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/tecnologias_parcela:option9')"/>
+        <value>uso_biol</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/tecnologias_parcela:option10')"/>
+        <value>almacenes_luz_difusa</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/tecnologias_parcela:option11')"/>
+        <value>otra_tecnologia</value>
+      </item>
+    </select>
+    <input ref="/data/otra_tecnologia">
+      <label ref="jr:itext('/data/otra_tecnologia:label')"/>
+    </input>
+    <group ref="/data/observaciones_finales">
+      <label ref="jr:itext('/data/observaciones_finales:label')"/>
+      <select1 ref="/data/observaciones_finales/estado_general">
+        <label ref="jr:itext('/data/observaciones_finales/estado_general:label')"/>
+        <item>
+          <label ref="jr:itext('/data/observaciones_finales/estado_general:option0')"/>
+          <value>bueno</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/observaciones_finales/estado_general:option1')"/>
+          <value>regular</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/observaciones_finales/estado_general:option2')"/>
+          <value>malo</value>
+        </item>
+      </select1>
+      <select ref="/data/observaciones_finales/actividad_realizada">
+        <label ref="jr:itext('/data/observaciones_finales/actividad_realizada:label')"/>
+        <item>
+          <label ref="jr:itext('/data/observaciones_finales/actividad_realizada:option0')"/>
+          <value>visita_seguimiento</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/observaciones_finales/actividad_realizada:option1')"/>
+          <value>visita_supervision</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/observaciones_finales/actividad_realizada:option2')"/>
+          <value>acondicionamiento_parcela</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/observaciones_finales/actividad_realizada:option3')"/>
+          <value>reformacion_camas</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/observaciones_finales/actividad_realizada:option4')"/>
+          <value>siembra</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/observaciones_finales/actividad_realizada:option5')"/>
+          <value>control_malezas</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/observaciones_finales/actividad_realizada:option6')"/>
+          <value>fertilizacion</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/observaciones_finales/actividad_realizada:option7')"/>
+          <value>control_plagas</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/observaciones_finales/actividad_realizada:option8')"/>
+          <value>cosecha</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/observaciones_finales/actividad_realizada:option9')"/>
+          <value>manejo_rastrojo</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/observaciones_finales/actividad_realizada:option10')"/>
+          <value>control_enfermedades</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/observaciones_finales/actividad_realizada:option11')"/>
+          <value>seleccion_semillas</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/observaciones_finales/actividad_realizada:option12')"/>
+          <value>otra_actividad</value>
+        </item>
+      </select>
+      <input ref="/data/observaciones_finales/otra_actividad">
+        <label ref="jr:itext('/data/observaciones_finales/otra_actividad:label')"/>
+      </input>
+      <input ref="/data/observaciones_finales/recomendaciones">
+        <label ref="jr:itext('/data/observaciones_finales/recomendaciones:label')"/>
+      </input>
+    </group>
+    <group ref="/data/indormacion_adicional" appearance="field-list">
+      <label ref="jr:itext('/data/indormacion_adicional:label')"/>
+      <select1 ref="/data/indormacion_adicional/usa_smartphone">
+        <label ref="jr:itext('/data/indormacion_adicional/usa_smartphone:label')"/>
+        <item>
+          <label ref="jr:itext('/data/indormacion_adicional/usa_smartphone:option0')"/>
+          <value>si</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/indormacion_adicional/usa_smartphone:option1')"/>
+          <value>no</value>
+        </item>
+      </select1>
+      <select1 ref="/data/indormacion_adicional/operador_telefonia">
+        <label ref="jr:itext('/data/indormacion_adicional/operador_telefonia:label')"/>
+        <item>
+          <label ref="jr:itext('/data/indormacion_adicional/operador_telefonia:option0')"/>
+          <value>bitel</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/indormacion_adicional/operador_telefonia:option1')"/>
+          <value>claro</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/indormacion_adicional/operador_telefonia:option2')"/>
+          <value>entel</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/indormacion_adicional/operador_telefonia:option3')"/>
+          <value>movistar</value>
+        </item>
+      </select1>
+      <select1 ref="/data/indormacion_adicional/senal_telefonia_movil" appearance="horizontal">
+        <label ref="jr:itext('/data/indormacion_adicional/senal_telefonia_movil:label')"/>
+        <item>
+          <label ref="jr:itext('/data/indormacion_adicional/senal_telefonia_movil:option0')"/>
+          <value>muy_mala</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/indormacion_adicional/senal_telefonia_movil:option1')"/>
+          <value>mala</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/indormacion_adicional/senal_telefonia_movil:option2')"/>
+          <value>buena</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/indormacion_adicional/senal_telefonia_movil:option3')"/>
+          <value>muy_buena</value>
+        </item>
+      </select1>
+    </group>
+  </h:body>
+</h:html>

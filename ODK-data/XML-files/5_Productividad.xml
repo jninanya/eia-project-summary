@@ -1,0 +1,521 @@
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:jr="http://openrosa.org/javarosa" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:odk="http://www.opendatakit.org/xforms">
+  <h:head>
+    <h:title>5_Productividad</h:title>
+    <model>
+      <instance>
+        <data id="5-Productividad" version="1645305518">
+          <meta>
+            <instanceID/>
+          </meta>
+          <id/>
+          <date/>
+          <extensionista/>
+          <otro_extensionista/>
+          <informacion_general>
+            <productor/>
+            <nombre_parcela/>
+            <superficie>
+              innovacion
+            </superficie>
+          </informacion_general>
+          <productividad>
+            <cultivo>
+              Papa
+            </cultivo>
+            <relacion_anno_anterior/>
+            <factores/>
+            <otro_factor1/>
+            <factor_ambiental/>
+            <otro_factor_ambiental/>
+            <factor_manejo/>
+            <otro_facto_manejo/>
+            <cuantos_productor_cosecho/>
+            <producto jr:template="">
+              <producto_obtenido/>
+              <rendimiento_estimado/>
+              <rendimiento_real/>
+              <porcentaje_venta/>
+              <destinado_autoconsumo/>
+              <destinado_a_semilla/>
+              <vendio_producto/>
+              <precio_venta/>
+            </producto>
+          </productividad>
+        </data>
+      </instance>
+      <itext>
+        <translation lang="English">
+          <text id="/data/extensionista:label">
+            <value>Nombre de la persona responsable del registro:</value>
+          </text>
+          <text id="/data/extensionista:option0">
+            <value>Alex Roncal</value>
+          </text>
+          <text id="/data/extensionista:option1">
+            <value>Alex Villanueva</value>
+          </text>
+          <text id="/data/extensionista:option2">
+            <value>Cristian Villanueva</value>
+          </text>
+          <text id="/data/extensionista:option3">
+            <value>Demetrio Flores</value>
+          </text>
+          <text id="/data/extensionista:option4">
+            <value>Edgar Sevillano</value>
+          </text>
+          <text id="/data/extensionista:option5">
+            <value>Elí Diaz</value>
+          </text>
+          <text id="/data/extensionista:option6">
+            <value>Enner Arias</value>
+          </text>
+          <text id="/data/extensionista:option7">
+            <value>Jose Cieza</value>
+          </text>
+          <text id="/data/extensionista:option8">
+            <value>Willian Huamanchay</value>
+          </text>
+          <text id="/data/extensionista:option9">
+            <value>Wilson Mendoza</value>
+          </text>
+          <text id="/data/extensionista:option10">
+            <value>Otro</value>
+          </text>
+          <text id="/data/otro_extensionista:label">
+            <value>Otro nombre de la persona responsable del registro:</value>
+          </text>
+          <text id="/data/informacion_general:label">
+            <value>Información general:</value>
+          </text>
+          <text id="/data/informacion_general/productor:label">
+            <value>Nombre y apellidos del productor:</value>
+          </text>
+          <text id="/data/informacion_general/nombre_parcela:label">
+            <value>Nombre de la parcela:</value>
+          </text>
+          <text id="/data/informacion_general/superficie:label">
+            <value>Superficie:</value>
+          </text>
+          <text id="/data/informacion_general/superficie:option0">
+            <value>Testigo</value>
+          </text>
+          <text id="/data/informacion_general/superficie:option1">
+            <value>Innovación</value>
+          </text>
+          <text id="/data/productividad:label">
+            <value>Productividad:</value>
+          </text>
+          <text id="/data/productividad/cultivo:label">
+            <value>Nombre del cultivo:</value>
+          </text>
+          <text id="/data/productividad/relacion_anno_anterior:label">
+            <value>En relación con el año anterior, su rendimiento fue: </value>
+          </text>
+          <text id="/data/productividad/relacion_anno_anterior:option0">
+            <value>Menor</value>
+          </text>
+          <text id="/data/productividad/relacion_anno_anterior:option1">
+            <value>Igual</value>
+          </text>
+          <text id="/data/productividad/relacion_anno_anterior:option2">
+            <value>Mayor</value>
+          </text>
+          <text id="/data/productividad/relacion_anno_anterior:option3">
+            <value>No se sembró este cultivo el año pasado</value>
+          </text>
+          <text id="/data/productividad/factores:label">
+            <value>¿A qué factores se debió esta diferencia?:</value>
+          </text>
+          <text id="/data/productividad/factores:option0">
+            <value>Factores ambientales</value>
+          </text>
+          <text id="/data/productividad/factores:option1">
+            <value>Factores de manejo</value>
+          </text>
+          <text id="/data/productividad/factores:option2">
+            <value>Ambos</value>
+          </text>
+          <text id="/data/productividad/factores:option3">
+            <value>Otro</value>
+          </text>
+          <text id="/data/productividad/otro_factor1:label">
+            <value>Otro factor (especifique):</value>
+          </text>
+          <text id="/data/productividad/factor_ambiental:label">
+            <value>Si es el caso, indique que factores ambientales influyeron en esta diferencia:</value>
+          </text>
+          <text id="/data/productividad/factor_ambiental:option0">
+            <value>Heladas</value>
+          </text>
+          <text id="/data/productividad/factor_ambiental:option1">
+            <value>Granizo</value>
+          </text>
+          <text id="/data/productividad/factor_ambiental:option2">
+            <value>Sequía</value>
+          </text>
+          <text id="/data/productividad/factor_ambiental:option3">
+            <value>Vientos</value>
+          </text>
+          <text id="/data/productividad/factor_ambiental:option4">
+            <value>Inundación</value>
+          </text>
+          <text id="/data/productividad/factor_ambiental:option5">
+            <value>Onda de calor</value>
+          </text>
+          <text id="/data/productividad/factor_ambiental:option6">
+            <value>Otro</value>
+          </text>
+          <text id="/data/productividad/otro_factor_ambiental:label">
+            <value>Otro factor (especifique):</value>
+          </text>
+          <text id="/data/productividad/factor_manejo:label">
+            <value>Si es el caso, indique que factores de manejo influyeron en esta diferencia:</value>
+          </text>
+          <text id="/data/productividad/factor_manejo:option0">
+            <value>Establecimiento (semilla-siembra)</value>
+          </text>
+          <text id="/data/productividad/factor_manejo:option1">
+            <value>Manejo de malezas</value>
+          </text>
+          <text id="/data/productividad/factor_manejo:option2">
+            <value>Control de plagas y enfermedades</value>
+          </text>
+          <text id="/data/productividad/factor_manejo:option3">
+            <value>Fertilización</value>
+          </text>
+          <text id="/data/productividad/factor_manejo:option4">
+            <value>Riego</value>
+          </text>
+          <text id="/data/productividad/factor_manejo:option5">
+            <value>Otro factor de manejo</value>
+          </text>
+          <text id="/data/productividad/otro_facto_manejo:label">
+            <value>Otro factor (especifique):</value>
+          </text>
+          <text id="/data/productividad/cuantos_productor_cosecho:label">
+            <value>¿Cuántos productos cosecho del cultivo?:</value>
+          </text>
+          <text id="/data/productividad/producto:label">
+            <value>Producto:</value>
+          </text>
+          <text id="/data/productividad/producto/producto_obtenido:label">
+            <value>Producto obtenido:</value>
+          </text>
+          <text id="/data/productividad/producto/producto_obtenido:option0">
+            <value>Extra (150 - 200 gramos)</value>
+          </text>
+          <text id="/data/productividad/producto/producto_obtenido:option1">
+            <value>Primera</value>
+          </text>
+          <text id="/data/productividad/producto/producto_obtenido:option2">
+            <value>Segunda</value>
+          </text>
+          <text id="/data/productividad/producto/producto_obtenido:option3">
+            <value>Tercera</value>
+          </text>
+          <text id="/data/productividad/producto/producto_obtenido:option4">
+            <value>Descarte, papa seca ó tubérculos pequenos</value>
+          </text>
+          <text id="/data/productividad/producto/rendimiento_estimado:label">
+            <value>Rendimiento estimado (Tonelada/ha):</value>
+          </text>
+          <text id="/data/productividad/producto/rendimiento_real:label">
+            <value>Rendimiento real (Tonelada/ha):</value>
+          </text>
+          <text id="/data/productividad/producto/porcentaje_venta:label">
+            <value>Destinado a la venta (%):</value>
+          </text>
+          <text id="/data/productividad/producto/destinado_autoconsumo:label">
+            <value>Destinado a autoconsumo (%):</value>
+          </text>
+          <text id="/data/productividad/producto/destinado_a_semilla:label">
+            <value>Destinado a semilla (%):</value>
+          </text>
+          <text id="/data/productividad/producto/vendio_producto:label">
+            <value>¿Vendio este producto?:</value>
+          </text>
+          <text id="/data/productividad/producto/vendio_producto:option0">
+            <value>Si</value>
+          </text>
+          <text id="/data/productividad/producto/vendio_producto:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/productividad/producto/precio_venta:label">
+            <value>Precio de venta (estimado ó real) (Soles/Kg):</value>
+          </text>
+        </translation>
+      </itext>
+      <bind nodeset="/data/meta/instanceID" type="string" readonly="true()" jr:preload="uid"/>
+      <submission method="form-data-post" action="https://docs.google.com/spreadsheets/d/15C1fV-uiWdfZtFPs03n5tuDxdiR_H5jKoIzPiIeX4BA/edit?usp=sharing"/>
+      <bind nodeset="/data/id" type="string" jr:preload="property" jr:preloadParams="deviceid"/>
+      <bind nodeset="/data/date" type="dateTime" jr:preload="timestamp" jr:preloadParams="start"/>
+      <bind nodeset="/data/extensionista" type="select1" required="true()"/>
+      <bind nodeset="/data/otro_extensionista" type="string" relevant="(selected(/data/extensionista, 'otro'))"/>
+      <bind nodeset="/data/informacion_general/productor" type="string" required="true()"/>
+      <bind nodeset="/data/informacion_general/nombre_parcela" type="string"/>
+      <bind nodeset="/data/informacion_general/superficie" type="select1"/>
+      <bind nodeset="/data/productividad/cultivo" type="string"/>
+      <bind nodeset="/data/productividad/relacion_anno_anterior" type="select1" required="true()"/>
+      <bind nodeset="/data/productividad/factores" type="select1"/>
+      <bind nodeset="/data/productividad/otro_factor1" type="string" relevant="(selected(/data/productividad/factores, 'otro'))"/>
+      <bind nodeset="/data/productividad/factor_ambiental" type="select"/>
+      <bind nodeset="/data/productividad/otro_factor_ambiental" type="string" relevant="(selected(/data/productividad/factor_ambiental, 'otro'))"/>
+      <bind nodeset="/data/productividad/factor_manejo" type="select"/>
+      <bind nodeset="/data/productividad/otro_facto_manejo" type="string" relevant="(selected(/data/productividad/factor_manejo, 'otro_factor_manejo'))"/>
+      <bind nodeset="/data/productividad/cuantos_productor_cosecho" type="int" constraint="(. &gt;= '1') and (. &lt;= '4')" jr:constraintMsg="Value must be between 1 and 4"/>
+      <bind nodeset="/data/productividad/producto/producto_obtenido" type="select1" required="true()"/>
+      <bind nodeset="/data/productividad/producto/rendimiento_estimado" type="decimal"/>
+      <bind nodeset="/data/productividad/producto/rendimiento_real" type="decimal"/>
+      <bind nodeset="/data/productividad/producto/porcentaje_venta" type="decimal"/>
+      <bind nodeset="/data/productividad/producto/destinado_autoconsumo" type="decimal"/>
+      <bind nodeset="/data/productividad/producto/destinado_a_semilla" type="decimal"/>
+      <bind nodeset="/data/productividad/producto/vendio_producto" type="select1"/>
+      <bind nodeset="/data/productividad/producto/precio_venta" type="string"/>
+    </model>
+  </h:head>
+  <h:body>
+    <select1 ref="/data/extensionista">
+      <label ref="jr:itext('/data/extensionista:label')"/>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option0')"/>
+        <value>alex_roncal</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option1')"/>
+        <value>alex_villanueva</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option2')"/>
+        <value>cristian_villanueva</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option3')"/>
+        <value>demetrio_flores</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option4')"/>
+        <value>edgar_sevillano</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option5')"/>
+        <value>eli_diaz</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option6')"/>
+        <value>enner_arias</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option7')"/>
+        <value>jose_cieza</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option8')"/>
+        <value>william_huamanchay</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option9')"/>
+        <value>wilson_mendoza</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option10')"/>
+        <value>otro</value>
+      </item>
+    </select1>
+    <input ref="/data/otro_extensionista">
+      <label ref="jr:itext('/data/otro_extensionista:label')"/>
+    </input>
+    <group ref="/data/informacion_general" appearance="field-list">
+      <label ref="jr:itext('/data/informacion_general:label')"/>
+      <input ref="/data/informacion_general/productor">
+        <label ref="jr:itext('/data/informacion_general/productor:label')"/>
+      </input>
+      <input ref="/data/informacion_general/nombre_parcela">
+        <label ref="jr:itext('/data/informacion_general/nombre_parcela:label')"/>
+      </input>
+      <select1 ref="/data/informacion_general/superficie">
+        <label ref="jr:itext('/data/informacion_general/superficie:label')"/>
+        <item>
+          <label ref="jr:itext('/data/informacion_general/superficie:option0')"/>
+          <value>testigo</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/informacion_general/superficie:option1')"/>
+          <value>innovacion</value>
+        </item>
+      </select1>
+    </group>
+    <group ref="/data/productividad">
+      <label ref="jr:itext('/data/productividad:label')"/>
+      <input ref="/data/productividad/cultivo">
+        <label ref="jr:itext('/data/productividad/cultivo:label')"/>
+      </input>
+      <select1 ref="/data/productividad/relacion_anno_anterior">
+        <label ref="jr:itext('/data/productividad/relacion_anno_anterior:label')"/>
+        <item>
+          <label ref="jr:itext('/data/productividad/relacion_anno_anterior:option0')"/>
+          <value>menor</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/productividad/relacion_anno_anterior:option1')"/>
+          <value>igual</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/productividad/relacion_anno_anterior:option2')"/>
+          <value>mayor</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/productividad/relacion_anno_anterior:option3')"/>
+          <value>no_sembro</value>
+        </item>
+      </select1>
+      <select1 ref="/data/productividad/factores">
+        <label ref="jr:itext('/data/productividad/factores:label')"/>
+        <item>
+          <label ref="jr:itext('/data/productividad/factores:option0')"/>
+          <value>factores_ambientales</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/productividad/factores:option1')"/>
+          <value>factores_manejo</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/productividad/factores:option2')"/>
+          <value>ambos</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/productividad/factores:option3')"/>
+          <value>otro</value>
+        </item>
+      </select1>
+      <input ref="/data/productividad/otro_factor1">
+        <label ref="jr:itext('/data/productividad/otro_factor1:label')"/>
+      </input>
+      <select ref="/data/productividad/factor_ambiental">
+        <label ref="jr:itext('/data/productividad/factor_ambiental:label')"/>
+        <item>
+          <label ref="jr:itext('/data/productividad/factor_ambiental:option0')"/>
+          <value>heladas</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/productividad/factor_ambiental:option1')"/>
+          <value>granizo</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/productividad/factor_ambiental:option2')"/>
+          <value>sequia</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/productividad/factor_ambiental:option3')"/>
+          <value>vientos</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/productividad/factor_ambiental:option4')"/>
+          <value>inundacion</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/productividad/factor_ambiental:option5')"/>
+          <value>onda_de_calor</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/productividad/factor_ambiental:option6')"/>
+          <value>otro</value>
+        </item>
+      </select>
+      <input ref="/data/productividad/otro_factor_ambiental">
+        <label ref="jr:itext('/data/productividad/otro_factor_ambiental:label')"/>
+      </input>
+      <select ref="/data/productividad/factor_manejo">
+        <label ref="jr:itext('/data/productividad/factor_manejo:label')"/>
+        <item>
+          <label ref="jr:itext('/data/productividad/factor_manejo:option0')"/>
+          <value>establecimiento</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/productividad/factor_manejo:option1')"/>
+          <value>manejo_malezas</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/productividad/factor_manejo:option2')"/>
+          <value>control_plagas_enfermedades</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/productividad/factor_manejo:option3')"/>
+          <value>fertilizacion</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/productividad/factor_manejo:option4')"/>
+          <value>riego</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/productividad/factor_manejo:option5')"/>
+          <value>otro_factor_manejo</value>
+        </item>
+      </select>
+      <input ref="/data/productividad/otro_facto_manejo">
+        <label ref="jr:itext('/data/productividad/otro_facto_manejo:label')"/>
+      </input>
+      <input ref="/data/productividad/cuantos_productor_cosecho">
+        <label ref="jr:itext('/data/productividad/cuantos_productor_cosecho:label')"/>
+      </input>
+      <group ref="/data/productividad/producto">
+        <label ref="jr:itext('/data/productividad/producto:label')"/>
+        <repeat nodeset="/data/productividad/producto">
+          <group appearance="field-list">
+            <select1 ref="/data/productividad/producto/producto_obtenido" appearance="minimal">
+              <label ref="jr:itext('/data/productividad/producto/producto_obtenido:label')"/>
+              <item>
+                <label ref="jr:itext('/data/productividad/producto/producto_obtenido:option0')"/>
+                <value>extra</value>
+              </item>
+              <item>
+                <label ref="jr:itext('/data/productividad/producto/producto_obtenido:option1')"/>
+                <value>primera</value>
+              </item>
+              <item>
+                <label ref="jr:itext('/data/productividad/producto/producto_obtenido:option2')"/>
+                <value>segunda</value>
+              </item>
+              <item>
+                <label ref="jr:itext('/data/productividad/producto/producto_obtenido:option3')"/>
+                <value>tercera</value>
+              </item>
+              <item>
+                <label ref="jr:itext('/data/productividad/producto/producto_obtenido:option4')"/>
+                <value>descarte</value>
+              </item>
+            </select1>
+            <input ref="/data/productividad/producto/rendimiento_estimado">
+              <label ref="jr:itext('/data/productividad/producto/rendimiento_estimado:label')"/>
+            </input>
+            <input ref="/data/productividad/producto/rendimiento_real">
+              <label ref="jr:itext('/data/productividad/producto/rendimiento_real:label')"/>
+            </input>
+            <input ref="/data/productividad/producto/porcentaje_venta">
+              <label ref="jr:itext('/data/productividad/producto/porcentaje_venta:label')"/>
+            </input>
+            <input ref="/data/productividad/producto/destinado_autoconsumo">
+              <label ref="jr:itext('/data/productividad/producto/destinado_autoconsumo:label')"/>
+            </input>
+            <input ref="/data/productividad/producto/destinado_a_semilla">
+              <label ref="jr:itext('/data/productividad/producto/destinado_a_semilla:label')"/>
+            </input>
+            <select1 ref="/data/productividad/producto/vendio_producto" appearance="minimal">
+              <label ref="jr:itext('/data/productividad/producto/vendio_producto:label')"/>
+              <item>
+                <label ref="jr:itext('/data/productividad/producto/vendio_producto:option0')"/>
+                <value>si</value>
+              </item>
+              <item>
+                <label ref="jr:itext('/data/productividad/producto/vendio_producto:option1')"/>
+                <value>no</value>
+              </item>
+            </select1>
+            <input ref="/data/productividad/producto/precio_venta">
+              <label ref="jr:itext('/data/productividad/producto/precio_venta:label')"/>
+            </input>
+          </group>
+        </repeat>
+      </group>
+    </group>
+  </h:body>
+</h:html>

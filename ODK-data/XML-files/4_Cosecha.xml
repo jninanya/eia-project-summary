@@ -1,0 +1,1335 @@
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:jr="http://openrosa.org/javarosa" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:odk="http://www.opendatakit.org/xforms">
+  <h:head>
+    <h:title>4_Cosecha</h:title>
+    <model>
+      <instance>
+        <data id="4-Cosecha" version="1645305645">
+          <meta>
+            <instanceID/>
+          </meta>
+          <id/>
+          <date/>
+          <extensionista/>
+          <otro_extensionista/>
+          <informacion>
+            <agricultor/>
+            <nombre_parcela/>
+            <superficie>
+              innovacion
+            </superficie>
+          </informacion>
+          <cultivo1>
+            <nombre_act>
+              <cultivo2>
+                Papa
+              </cultivo2>
+              <trabajo_comunal/>
+            </nombre_act>
+            <obtuvo_producto>
+              si
+            </obtuvo_producto>
+            <factores_no_cosecha>
+              <se_debio/>
+              <otro_factor/>
+              <factores_ambientales/>
+              <otro_factor_ambiental/>
+              <factores_manejo/>
+              <otro_factor_manejo/>
+            </factores_no_cosecha>
+            <fecha_cosecha>
+              <inicio/>
+              <termino/>
+            </fecha_cosecha>
+            <momento_cosecha/>
+            <especifique_momento_cosecha/>
+            <foto_cosecha/>
+          </cultivo1>
+          <cosecha>
+            <metodo_cosecha>
+              manual
+            </metodo_cosecha>
+            <porcentaje_rastrojo/>
+            <descripcion/>
+          </cosecha>
+          <cosecha_manual>
+            <numero/>
+            <actividad1 jr:template="">
+              <informacion_m>
+                <cultivo>
+                  Papa
+                </cultivo>
+                <realizo_actividad>
+                  si
+                </realizo_actividad>
+                <fecha/>
+              </informacion_m>
+              <realizada/>
+              <otra_actividad/>
+              <utilizo_implemento>
+                si
+              </utilizo_implemento>
+              <mas_de_un_implemento>
+                <numero_implementos/>
+                <implemento_utilizado/>
+              </mas_de_un_implemento>
+              <jornal>
+                <numero_personas_participaron/>
+                <costo_dia/>
+                <jornadas_utilizadas/>
+                <duracion/>
+                <tipo_costo>
+                  estimado
+                </tipo_costo>
+              </jornal>
+              <descripcion1/>
+            </actividad1>
+          </cosecha_manual>
+          <cosecha_mecanica>
+            <no_cosecha_motorizada/>
+            <actividad>
+              <actividad2>
+                <realizo/>
+                <fecha_m/>
+              </actividad2>
+              <actividad_realizada/>
+              <otra/>
+              <implemento_utilizado1/>
+              <tractor>
+                <tipo_tractor/>
+                <caballos_fuerza/>
+              </tractor>
+              <implemento>
+                <implemento_es/>
+                <modelo_implemento/>
+                <horas_actividad/>
+              </implemento>
+              <propio>
+                <costo_total_actividad/>
+                <quien_realiza_operacion/>
+                <antiguedad/>
+              </propio>
+              <prestado>
+                <costo_total1/>
+                <tipo_costo2/>
+              </prestado>
+              <arrendado>
+                <costo1/>
+                <costo_total/>
+                <tipo_costo1/>
+              </arrendado>
+              <combustible>
+                <costo/>
+                <consumo/>
+                <tipo_costo3/>
+              </combustible>
+            </actividad>
+            <descripcion2/>
+          </cosecha_mecanica>
+        </data>
+      </instance>
+      <itext>
+        <translation lang="English">
+          <text id="/data/extensionista:label">
+            <value>Nombre de la persona responsable del registro:</value>
+          </text>
+          <text id="/data/extensionista:option0">
+            <value>Alex Roncal</value>
+          </text>
+          <text id="/data/extensionista:option1">
+            <value>Alex Villanueva</value>
+          </text>
+          <text id="/data/extensionista:option2">
+            <value>Cristian Villanueva</value>
+          </text>
+          <text id="/data/extensionista:option3">
+            <value>Demetrio Flores</value>
+          </text>
+          <text id="/data/extensionista:option4">
+            <value>Edgar Sevillano</value>
+          </text>
+          <text id="/data/extensionista:option5">
+            <value>Elí Diaz</value>
+          </text>
+          <text id="/data/extensionista:option6">
+            <value>Enner Arias</value>
+          </text>
+          <text id="/data/extensionista:option7">
+            <value>Jose Cieza</value>
+          </text>
+          <text id="/data/extensionista:option8">
+            <value>Willian Huamanchay</value>
+          </text>
+          <text id="/data/extensionista:option9">
+            <value>Wilson Mendoza</value>
+          </text>
+          <text id="/data/extensionista:option10">
+            <value>Otro</value>
+          </text>
+          <text id="/data/otro_extensionista:label">
+            <value>Otro nombre de la persona responsable del registro:</value>
+          </text>
+          <text id="/data/informacion:label">
+            <value>Información general:</value>
+          </text>
+          <text id="/data/informacion/agricultor:label">
+            <value>Nombre y apellidos del agricultor:</value>
+          </text>
+          <text id="/data/informacion/nombre_parcela:label">
+            <value>Nombre de parcela:</value>
+          </text>
+          <text id="/data/informacion/superficie:label">
+            <value>Superficie:</value>
+          </text>
+          <text id="/data/informacion/superficie:option0">
+            <value>Testigo</value>
+          </text>
+          <text id="/data/informacion/superficie:option1">
+            <value>Innovación</value>
+          </text>
+          <text id="/data/cultivo1:label">
+            <value>Cultivo:</value>
+          </text>
+          <text id="/data/cultivo1/nombre_act:label">
+            <value>Nombre y actividad</value>
+          </text>
+          <text id="/data/cultivo1/nombre_act/cultivo2:label">
+            <value>Nombre del cultivo:</value>
+          </text>
+          <text id="/data/cultivo1/nombre_act/trabajo_comunal:label">
+            <value>¿En que actividades realizo trabajo comunal (minka)?</value>
+          </text>
+          <text id="/data/cultivo1/nombre_act/trabajo_comunal:option0">
+            <value>Preparación del terreno</value>
+          </text>
+          <text id="/data/cultivo1/nombre_act/trabajo_comunal:option1">
+            <value>Siembra</value>
+          </text>
+          <text id="/data/cultivo1/nombre_act/trabajo_comunal:option2">
+            <value>Cosecha</value>
+          </text>
+          <text id="/data/cultivo1/obtuvo_producto:label">
+            <value>¿Obtuvo algún producto de este cultivo en la cosecha?:</value>
+          </text>
+          <text id="/data/cultivo1/obtuvo_producto:option0">
+            <value>Si</value>
+          </text>
+          <text id="/data/cultivo1/obtuvo_producto:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha:label">
+            <value>Factores porque no obtuvo cosecha:</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha/se_debio:label">
+            <value>A qué factores se debio que no obtuvo cosecha:</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha/se_debio:option0">
+            <value>Factores ambientales</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha/se_debio:option1">
+            <value>Factores de manejo</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha/se_debio:option2">
+            <value>Otro</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha/se_debio:option3">
+            <value>Todas</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha/otro_factor:label">
+            <value>Indique otro factor:</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha/factores_ambientales:label">
+            <value>Si fue por factor ambiental, especifique:</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha/factores_ambientales:option0">
+            <value>Heladas</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha/factores_ambientales:option1">
+            <value>Granizo:</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha/factores_ambientales:option2">
+            <value>Sequia:</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha/factores_ambientales:option3">
+            <value>Vientos:</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha/factores_ambientales:option4">
+            <value>Inundación:</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha/factores_ambientales:option5">
+            <value>Otro factor ambiental:</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha/otro_factor_ambiental:label">
+            <value>Otro factor ambiental:</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha/factores_manejo:label">
+            <value>Si fue por factor de manejo, especifique:</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha/factores_manejo:option0">
+            <value>Establecimiento  (semilla-siembra)</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha/factores_manejo:option1">
+            <value>Manejo de malezas</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha/factores_manejo:option2">
+            <value>Control de plagas y enfermedades</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha/factores_manejo:option3">
+            <value>Fertilización</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha/factores_manejo:option4">
+            <value>Riego</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha/factores_manejo:option5">
+            <value>Otro factor de manejo</value>
+          </text>
+          <text id="/data/cultivo1/factores_no_cosecha/otro_factor_manejo:label">
+            <value>Otro factor de manejo:</value>
+          </text>
+          <text id="/data/cultivo1/fecha_cosecha:label">
+            <value>Fecha</value>
+          </text>
+          <text id="/data/cultivo1/fecha_cosecha/inicio:label">
+            <value>Fecha de inicio de la cosecha:</value>
+          </text>
+          <text id="/data/cultivo1/fecha_cosecha/termino:label">
+            <value>Fecha de término de la cosecha:</value>
+          </text>
+          <text id="/data/cultivo1/momento_cosecha:label">
+            <value>¿Cómo determinó el momento de la cosecha?:</value>
+          </text>
+          <text id="/data/cultivo1/momento_cosecha:option0">
+            <value>Ciclo lunar</value>
+          </text>
+          <text id="/data/cultivo1/momento_cosecha:option1">
+            <value>Demanda del mercado</value>
+          </text>
+          <text id="/data/cultivo1/momento_cosecha:option2">
+            <value>Disponibilidad de recursos</value>
+          </text>
+          <text id="/data/cultivo1/momento_cosecha:option3">
+            <value>Incidencia de plagas o enfermedades</value>
+          </text>
+          <text id="/data/cultivo1/momento_cosecha:option4">
+            <value>Condiciones agroclimáticas</value>
+          </text>
+          <text id="/data/cultivo1/momento_cosecha:option5">
+            <value>Madurez comercial</value>
+          </text>
+          <text id="/data/cultivo1/momento_cosecha:option6">
+            <value>Madurez fisiológica</value>
+          </text>
+          <text id="/data/cultivo1/momento_cosecha:option7">
+            <value>Por algún método tradicional local (especifique)</value>
+          </text>
+          <text id="/data/cultivo1/momento_cosecha:option8">
+            <value>Sonido</value>
+          </text>
+          <text id="/data/cultivo1/momento_cosecha:option9">
+            <value>Variedad</value>
+          </text>
+          <text id="/data/cultivo1/especifique_momento_cosecha:label">
+            <value>Explique el método tradicional para determinar el momento de la cosecha:</value>
+          </text>
+          <text id="/data/cultivo1/foto_cosecha:label">
+            <value>Foto de la cosecha:</value>
+          </text>
+          <text id="/data/cosecha:label">
+            <value>1. Cosecha</value>
+          </text>
+          <text id="/data/cosecha/metodo_cosecha:label">
+            <value>Método de cosecha:</value>
+          </text>
+          <text id="/data/cosecha/metodo_cosecha:requiredMsg">
+            <value>manual</value>
+          </text>
+          <text id="/data/cosecha/metodo_cosecha:option0">
+            <value>Manual</value>
+          </text>
+          <text id="/data/cosecha/metodo_cosecha:option1">
+            <value>Mecánica</value>
+          </text>
+          <text id="/data/cosecha/metodo_cosecha:option2">
+            <value>Ambas</value>
+          </text>
+          <text id="/data/cosecha/porcentaje_rastrojo:label">
+            <value>Porcentaje de rastrojo dejado en parcela (%):</value>
+          </text>
+          <text id="/data/cosecha/descripcion:label">
+            <value>Descripción:</value>
+          </text>
+          <text id="/data/cosecha_manual:label">
+            <value>Cosecha manual:</value>
+          </text>
+          <text id="/data/cosecha_manual/numero:label">
+            <value>No. de actividades de cosecha manual realizadas:</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1:label">
+            <value>Actividad manual:</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/informacion_m:label">
+            <value>Información</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/informacion_m/cultivo:label">
+            <value>Cultivo:</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/informacion_m/realizo_actividad:label">
+            <value>¿Realizó esta actividad de cosecha manual para este cultivo?:</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/informacion_m/realizo_actividad:option0">
+            <value>Si</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/informacion_m/realizo_actividad:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/informacion_m/fecha:label">
+            <value>Fecha en que realizó la actividad:</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/realizada:label">
+            <value>Actividad realizada:</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/realizada:option0">
+            <value>Cosecha</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/realizada:option1">
+            <value>Acarreo (transporte)</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/realizada:option2">
+            <value>Corte de follaje</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/realizada:option3">
+            <value>Dobla</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/realizada:option4">
+            <value>Hilerado (aborregado)</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/realizada:option5">
+            <value>Limpieza</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/realizada:option6">
+            <value>Manejo de rastrojo</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/realizada:option7">
+            <value>Otro (especifique)</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/otra_actividad:label">
+            <value>Especifique otra actividad:</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/utilizo_implemento:label">
+            <value>¿Utilizó implementos?:</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/utilizo_implemento:option0">
+            <value>Si</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/utilizo_implemento:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/mas_de_un_implemento:label">
+            <value>Si uso implementos:</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/mas_de_un_implemento/numero_implementos:label">
+            <value>Número de implementos utilizados:</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/mas_de_un_implemento/implemento_utilizado:label">
+            <value>Implemento utilizado (s):</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/mas_de_un_implemento/implemento_utilizado:option0">
+            <value>Gaudaña</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/mas_de_un_implemento/implemento_utilizado:option1">
+            <value>Machete</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/mas_de_un_implemento/implemento_utilizado:option2">
+            <value>Hoz</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/mas_de_un_implemento/implemento_utilizado:option3">
+            <value>Cuchillo</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/mas_de_un_implemento/implemento_utilizado:option4">
+            <value>Otro</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/jornal:label">
+            <value>Jornal</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/jornal/numero_personas_participaron:label">
+            <value>Número de personas que participaron en la labor:</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/jornal/costo_dia:label">
+            <value>Costo del jornal por dia (S/.): </value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/jornal/jornadas_utilizadas:label">
+            <value>Jornadas utilizadas:</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/jornal/duracion:label">
+            <value>Duración del jornal/dia (hr):</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/jornal/tipo_costo:label">
+            <value>Tipo de costo:</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/jornal/tipo_costo:option0">
+            <value>Pagado</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/jornal/tipo_costo:option1">
+            <value>Estimado</value>
+          </text>
+          <text id="/data/cosecha_manual/actividad1/descripcion1:label">
+            <value>Descripción:</value>
+          </text>
+          <text id="/data/cosecha_mecanica:label">
+            <value>Cosecha mecánica:</value>
+          </text>
+          <text id="/data/cosecha_mecanica/no_cosecha_motorizada:label">
+            <value>Si efectuó actividades de cosecha motorizada. Indique el número de actividades realizadas:</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad:label">
+            <value>Actividad motorizada:</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/actividad2:label">
+            <value>Actividad motorizada:</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/actividad2/realizo:label">
+            <value>¿Realizó esta actividad de cosecha motorizada para este cultivo?:</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/actividad2/realizo:option0">
+            <value>Si</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/actividad2/realizo:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/actividad2/fecha_m:label">
+            <value>Fecha en que realizó la actividad:</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/actividad_realizada:label">
+            <value>Actividad realizada:</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/actividad_realizada:option0">
+            <value>Aplicación de desecante</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/actividad_realizada:option1">
+            <value>Corte</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/actividad_realizada:option2">
+            <value>Empacado</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/actividad_realizada:option3">
+            <value>Manejo de rastrojo</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/actividad_realizada:option4">
+            <value>Trilla</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/actividad_realizada:option5">
+            <value>Otro (especifique)</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/otra:label">
+            <value>Especifique otra actividad realizada:</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/implemento_utilizado1:label">
+            <value>Implemento utilizado:</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/implemento_utilizado1:option0">
+            <value>Cosechadora estacionaria</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/implemento_utilizado1:option1">
+            <value>Cosechadora autopropulsada</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/implemento_utilizado1:option2">
+            <value>Cosechadora de arrastre (accionada por tractor)</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/tractor:label">
+            <value>Tractor</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/tractor/tipo_tractor:label">
+            <value>Tipo de tractor:</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/tractor/tipo_tractor:option0">
+            <value>Tractor de 2 ruedas</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/tractor/tipo_tractor:option1">
+            <value>Tractor de 4 ruedas</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/tractor/tipo_tractor:option2">
+            <value>Motor eléctrico</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/tractor/caballos_fuerza:label">
+            <value>Caballos de fuerza:</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/implemento:label">
+            <value>Implemento motorizado:</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/implemento/implemento_es:label">
+            <value>El implemento es:</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/implemento/implemento_es:option0">
+            <value>Propio</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/implemento/implemento_es:option1">
+            <value>Prestado (sin costo)</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/implemento/implemento_es:option2">
+            <value>Arrendado-Maquila</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/implemento/implemento_es:option3">
+            <value>CIMMYT</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/implemento/modelo_implemento:label">
+            <value>Modelo del implemento:</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/implemento/horas_actividad:label">
+            <value>Horas en que se completo la actividad (hr):</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/propio:label">
+            <value>Propio:</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/propio/costo_total_actividad:label">
+            <value>Si es propio, indique el costo total de la actividad (costo estimado en Soles/ha):</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/propio/quien_realiza_operacion:label">
+            <value>¿Quién realiza la operación?:</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/propio/quien_realiza_operacion:option0">
+            <value>Operado por el agricultor</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/propio/quien_realiza_operacion:option1">
+            <value>Pago la actividad para realizar</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/propio/antiguedad:label">
+            <value>Antiguedad del implemento (años):</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/prestado:label">
+            <value>Prestado:</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/prestado/costo_total1:label">
+            <value>Si es prestado y no incluye la operación del implemento. Indique el costo total de la actividad (costo estimado Soles/ha):</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/prestado/tipo_costo2:label">
+            <value>Tipo de costo:</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/prestado/tipo_costo2:option0">
+            <value>Pagado</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/prestado/tipo_costo2:option1">
+            <value>Estimado</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/arrendado:label">
+            <value>Arrendado:</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/arrendado/costo1:label">
+            <value>Si es arrendado, indique el costo total de la actividad (Soles/ha)</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/arrendado/costo_total:label">
+            <value>Si el costo de renta no incluye la operación del implemento, indique el costo total de la actividad (costo estimado Soles/ha): </value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/arrendado/tipo_costo1:label">
+            <value>Tipo de costo:</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/arrendado/tipo_costo1:hint">
+            <value></value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/arrendado/tipo_costo1:option0">
+            <value>Pagado</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/arrendado/tipo_costo1:option1">
+            <value>Estimado</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/combustible:label">
+            <value>Costo de combustible:</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/combustible/costo:label">
+            <value>Costo de combustible (Soles/litro) (dato de referencia):</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/combustible/consumo:label">
+            <value>Consumo de combustible (Litros/ha) (dato de referencia):</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/combustible/tipo_costo3:label">
+            <value>Tipo de costo:</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/combustible/tipo_costo3:option0">
+            <value>Pagado</value>
+          </text>
+          <text id="/data/cosecha_mecanica/actividad/combustible/tipo_costo3:option1">
+            <value>Estimado</value>
+          </text>
+          <text id="/data/cosecha_mecanica/descripcion2:label">
+            <value>Descripción:</value>
+          </text>
+        </translation>
+      </itext>
+      <bind nodeset="/data/meta/instanceID" type="string" readonly="true()" jr:preload="uid"/>
+      <submission method="form-data-post" action="https://docs.google.com/spreadsheets/d/1BlQFzegmrPcw1tLV-n5oRu9pp547k87gwndQAAiKj88/edit?usp=sharing"/>
+      <bind nodeset="/data/id" type="string" jr:preload="property" jr:preloadParams="deviceid"/>
+      <bind nodeset="/data/date" type="dateTime" jr:preload="timestamp" jr:preloadParams="start"/>
+      <bind nodeset="/data/extensionista" type="select1" required="true()"/>
+      <bind nodeset="/data/otro_extensionista" type="string" relevant="(selected(/data/extensionista, 'otro'))"/>
+      <bind nodeset="/data/informacion/agricultor" type="string" required="true()"/>
+      <bind nodeset="/data/informacion/nombre_parcela" type="string"/>
+      <bind nodeset="/data/informacion/superficie" type="select1"/>
+      <bind nodeset="/data/cultivo1/nombre_act/cultivo2" type="string"/>
+      <bind nodeset="/data/cultivo1/nombre_act/trabajo_comunal" type="select"/>
+      <bind nodeset="/data/cultivo1/obtuvo_producto" type="select1" required="true()"/>
+      <bind nodeset="/data/cultivo1/factores_no_cosecha/se_debio" type="select1" required="true()" relevant="(selected(/data/cultivo1/obtuvo_producto, 'no'))"/>
+      <bind nodeset="/data/cultivo1/factores_no_cosecha/otro_factor" type="string" relevant="(selected(/data/cultivo1/obtuvo_producto, 'no')) and (selected(/data/cultivo1/factores_no_cosecha/se_debio, 'otro'))"/>
+      <bind nodeset="/data/cultivo1/factores_no_cosecha/factores_ambientales" type="select" relevant="(selected(/data/cultivo1/obtuvo_producto, 'no'))"/>
+      <bind nodeset="/data/cultivo1/factores_no_cosecha/otro_factor_ambiental" type="string" relevant="(selected(/data/cultivo1/obtuvo_producto, 'no')) and (selected(/data/cultivo1/factores_no_cosecha/factores_ambientales, 'otro_factor_ambiental'))"/>
+      <bind nodeset="/data/cultivo1/factores_no_cosecha/factores_manejo" type="select" relevant="(selected(/data/cultivo1/obtuvo_producto, 'no'))"/>
+      <bind nodeset="/data/cultivo1/factores_no_cosecha/otro_factor_manejo" type="string" relevant="(selected(/data/cultivo1/obtuvo_producto, 'no')) and (selected(/data/cultivo1/factores_no_cosecha/factores_manejo, 'otro_factor_manejo'))"/>
+      <bind nodeset="/data/cultivo1/fecha_cosecha/inicio" type="date"/>
+      <bind nodeset="/data/cultivo1/fecha_cosecha/termino" type="date"/>
+      <bind nodeset="/data/cultivo1/momento_cosecha" type="select1" required="true()"/>
+      <bind nodeset="/data/cultivo1/especifique_momento_cosecha" type="string" relevant="(selected(/data/cultivo1/momento_cosecha, 'metodo_tradicional_local'))"/>
+      <bind nodeset="/data/cultivo1/foto_cosecha" type="binary"/>
+      <bind nodeset="/data/cosecha/metodo_cosecha" type="select1" required="true()" jr:requiredMsg="jr:itext('/data/cosecha/metodo_cosecha:requiredMsg')"/>
+      <bind nodeset="/data/cosecha/porcentaje_rastrojo" type="decimal"/>
+      <bind nodeset="/data/cosecha/descripcion" type="string"/>
+      <bind nodeset="/data/cosecha_manual/numero" type="int" required="true()" constraint="(. &gt;= '1') and (. &lt;= '8')" jr:constraintMsg="Value must be between 1 and 8"/>
+      <bind nodeset="/data/cosecha_manual/actividad1/informacion_m/cultivo" type="string"/>
+      <bind nodeset="/data/cosecha_manual/actividad1/informacion_m/realizo_actividad" type="select1"/>
+      <bind nodeset="/data/cosecha_manual/actividad1/informacion_m/fecha" type="date"/>
+      <bind nodeset="/data/cosecha_manual/actividad1/realizada" type="select1" required="true()"/>
+      <bind nodeset="/data/cosecha_manual/actividad1/otra_actividad" type="string" relevant="(selected(/data/cosecha_manual/actividad1/realizada, 'otro'))"/>
+      <bind nodeset="/data/cosecha_manual/actividad1/utilizo_implemento" type="select1" required="true()"/>
+      <bind nodeset="/data/cosecha_manual/actividad1/mas_de_un_implemento/numero_implementos" type="int" required="true()" relevant="(selected(/data/cosecha_manual/actividad1/utilizo_implemento, 'si'))" constraint="(. &gt;= '1') and (. &lt;= '6')" jr:constraintMsg="Value must be between 1 and 6"/>
+      <bind nodeset="/data/cosecha_manual/actividad1/mas_de_un_implemento/implemento_utilizado" type="select" relevant="(selected(/data/cosecha_manual/actividad1/utilizo_implemento, 'si'))"/>
+      <bind nodeset="/data/cosecha_manual/actividad1/jornal/numero_personas_participaron" type="int" required="true()"/>
+      <bind nodeset="/data/cosecha_manual/actividad1/jornal/costo_dia" type="decimal"/>
+      <bind nodeset="/data/cosecha_manual/actividad1/jornal/jornadas_utilizadas" type="decimal"/>
+      <bind nodeset="/data/cosecha_manual/actividad1/jornal/duracion" type="decimal"/>
+      <bind nodeset="/data/cosecha_manual/actividad1/jornal/tipo_costo" type="select1"/>
+      <bind nodeset="/data/cosecha_manual/actividad1/descripcion1" type="string"/>
+      <bind nodeset="/data/cosecha_mecanica/no_cosecha_motorizada" type="int"/>
+      <bind nodeset="/data/cosecha_mecanica/actividad/actividad2/realizo" type="select1"/>
+      <bind nodeset="/data/cosecha_mecanica/actividad/actividad2/fecha_m" type="date"/>
+      <bind nodeset="/data/cosecha_mecanica/actividad/actividad_realizada" type="select1"/>
+      <bind nodeset="/data/cosecha_mecanica/actividad/otra" type="string" relevant="(selected(/data/cosecha_mecanica/actividad/actividad_realizada, 'otro'))"/>
+      <bind nodeset="/data/cosecha_mecanica/actividad/implemento_utilizado1" type="select1"/>
+      <bind nodeset="/data/cosecha_mecanica/actividad/tractor/tipo_tractor" type="select1" relevant="(selected(/data/cosecha_mecanica/actividad/implemento_utilizado1, 'cosechadora_arrastre'))"/>
+      <bind nodeset="/data/cosecha_mecanica/actividad/tractor/caballos_fuerza" type="decimal" relevant="(selected(/data/cosecha_mecanica/actividad/implemento_utilizado1, 'cosechadora_arrastre'))"/>
+      <bind nodeset="/data/cosecha_mecanica/actividad/implemento/implemento_es" type="select1"/>
+      <bind nodeset="/data/cosecha_mecanica/actividad/implemento/modelo_implemento" type="string"/>
+      <bind nodeset="/data/cosecha_mecanica/actividad/implemento/horas_actividad" type="decimal"/>
+      <bind nodeset="/data/cosecha_mecanica/actividad/propio/costo_total_actividad" type="decimal"/>
+      <bind nodeset="/data/cosecha_mecanica/actividad/propio/quien_realiza_operacion" type="select1"/>
+      <bind nodeset="/data/cosecha_mecanica/actividad/propio/antiguedad" type="int"/>
+      <bind nodeset="/data/cosecha_mecanica/actividad/prestado/costo_total1" type="decimal"/>
+      <bind nodeset="/data/cosecha_mecanica/actividad/prestado/tipo_costo2" type="select1"/>
+      <bind nodeset="/data/cosecha_mecanica/actividad/arrendado/costo1" type="decimal"/>
+      <bind nodeset="/data/cosecha_mecanica/actividad/arrendado/costo_total" type="decimal"/>
+      <bind nodeset="/data/cosecha_mecanica/actividad/arrendado/tipo_costo1" type="select1"/>
+      <bind nodeset="/data/cosecha_mecanica/actividad/combustible/costo" type="decimal"/>
+      <bind nodeset="/data/cosecha_mecanica/actividad/combustible/consumo" type="decimal"/>
+      <bind nodeset="/data/cosecha_mecanica/actividad/combustible/tipo_costo3" type="select1"/>
+      <bind nodeset="/data/cosecha_mecanica/descripcion2" type="string"/>
+    </model>
+  </h:head>
+  <h:body>
+    <select1 ref="/data/extensionista">
+      <label ref="jr:itext('/data/extensionista:label')"/>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option0')"/>
+        <value>alex_roncal</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option1')"/>
+        <value>alex_villanueva</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option2')"/>
+        <value>cristian_villanueva</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option3')"/>
+        <value>demetrio_flores</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option4')"/>
+        <value>edgar_sevillano</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option5')"/>
+        <value>eli_diaz</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option6')"/>
+        <value>enner_arias</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option7')"/>
+        <value>jose_cieza</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option8')"/>
+        <value>william_huamanchay</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option9')"/>
+        <value>wilson_mendoza</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option10')"/>
+        <value>otro</value>
+      </item>
+    </select1>
+    <input ref="/data/otro_extensionista">
+      <label ref="jr:itext('/data/otro_extensionista:label')"/>
+    </input>
+    <group ref="/data/informacion" appearance="field-list">
+      <label ref="jr:itext('/data/informacion:label')"/>
+      <input ref="/data/informacion/agricultor">
+        <label ref="jr:itext('/data/informacion/agricultor:label')"/>
+      </input>
+      <input ref="/data/informacion/nombre_parcela">
+        <label ref="jr:itext('/data/informacion/nombre_parcela:label')"/>
+      </input>
+      <select1 ref="/data/informacion/superficie">
+        <label ref="jr:itext('/data/informacion/superficie:label')"/>
+        <item>
+          <label ref="jr:itext('/data/informacion/superficie:option0')"/>
+          <value>testigo</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/informacion/superficie:option1')"/>
+          <value>innovacion</value>
+        </item>
+      </select1>
+    </group>
+    <group ref="/data/cultivo1">
+      <label ref="jr:itext('/data/cultivo1:label')"/>
+      <group ref="/data/cultivo1/nombre_act" appearance="field-list">
+        <label ref="jr:itext('/data/cultivo1/nombre_act:label')"/>
+        <input ref="/data/cultivo1/nombre_act/cultivo2">
+          <label ref="jr:itext('/data/cultivo1/nombre_act/cultivo2:label')"/>
+        </input>
+        <select ref="/data/cultivo1/nombre_act/trabajo_comunal">
+          <label ref="jr:itext('/data/cultivo1/nombre_act/trabajo_comunal:label')"/>
+          <item>
+            <label ref="jr:itext('/data/cultivo1/nombre_act/trabajo_comunal:option0')"/>
+            <value>preparacion_terreno</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/data/cultivo1/nombre_act/trabajo_comunal:option1')"/>
+            <value>siembra</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/data/cultivo1/nombre_act/trabajo_comunal:option2')"/>
+            <value>cosecha</value>
+          </item>
+        </select>
+      </group>
+      <select1 ref="/data/cultivo1/obtuvo_producto">
+        <label ref="jr:itext('/data/cultivo1/obtuvo_producto:label')"/>
+        <item>
+          <label ref="jr:itext('/data/cultivo1/obtuvo_producto:option0')"/>
+          <value>si</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/cultivo1/obtuvo_producto:option1')"/>
+          <value>no</value>
+        </item>
+      </select1>
+      <group ref="/data/cultivo1/factores_no_cosecha">
+        <label ref="jr:itext('/data/cultivo1/factores_no_cosecha:label')"/>
+        <select1 ref="/data/cultivo1/factores_no_cosecha/se_debio">
+          <label ref="jr:itext('/data/cultivo1/factores_no_cosecha/se_debio:label')"/>
+          <item>
+            <label ref="jr:itext('/data/cultivo1/factores_no_cosecha/se_debio:option0')"/>
+            <value>factores_ambientales</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/data/cultivo1/factores_no_cosecha/se_debio:option1')"/>
+            <value>factores_manejo</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/data/cultivo1/factores_no_cosecha/se_debio:option2')"/>
+            <value>otro</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/data/cultivo1/factores_no_cosecha/se_debio:option3')"/>
+            <value>todas</value>
+          </item>
+        </select1>
+        <input ref="/data/cultivo1/factores_no_cosecha/otro_factor">
+          <label ref="jr:itext('/data/cultivo1/factores_no_cosecha/otro_factor:label')"/>
+        </input>
+        <select ref="/data/cultivo1/factores_no_cosecha/factores_ambientales">
+          <label ref="jr:itext('/data/cultivo1/factores_no_cosecha/factores_ambientales:label')"/>
+          <item>
+            <label ref="jr:itext('/data/cultivo1/factores_no_cosecha/factores_ambientales:option0')"/>
+            <value>heladas</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/data/cultivo1/factores_no_cosecha/factores_ambientales:option1')"/>
+            <value>granizo</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/data/cultivo1/factores_no_cosecha/factores_ambientales:option2')"/>
+            <value>sequia</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/data/cultivo1/factores_no_cosecha/factores_ambientales:option3')"/>
+            <value>vientos</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/data/cultivo1/factores_no_cosecha/factores_ambientales:option4')"/>
+            <value>inundacion</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/data/cultivo1/factores_no_cosecha/factores_ambientales:option5')"/>
+            <value>otro_factor_ambiental</value>
+          </item>
+        </select>
+        <input ref="/data/cultivo1/factores_no_cosecha/otro_factor_ambiental">
+          <label ref="jr:itext('/data/cultivo1/factores_no_cosecha/otro_factor_ambiental:label')"/>
+        </input>
+        <select ref="/data/cultivo1/factores_no_cosecha/factores_manejo">
+          <label ref="jr:itext('/data/cultivo1/factores_no_cosecha/factores_manejo:label')"/>
+          <item>
+            <label ref="jr:itext('/data/cultivo1/factores_no_cosecha/factores_manejo:option0')"/>
+            <value>establecimiento</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/data/cultivo1/factores_no_cosecha/factores_manejo:option1')"/>
+            <value>manejo_malezas</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/data/cultivo1/factores_no_cosecha/factores_manejo:option2')"/>
+            <value>control_plagas_enfermedades</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/data/cultivo1/factores_no_cosecha/factores_manejo:option3')"/>
+            <value>fertilizacion</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/data/cultivo1/factores_no_cosecha/factores_manejo:option4')"/>
+            <value>riego</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/data/cultivo1/factores_no_cosecha/factores_manejo:option5')"/>
+            <value>otro_factor_manejo</value>
+          </item>
+        </select>
+        <input ref="/data/cultivo1/factores_no_cosecha/otro_factor_manejo">
+          <label ref="jr:itext('/data/cultivo1/factores_no_cosecha/otro_factor_manejo:label')"/>
+        </input>
+      </group>
+      <group ref="/data/cultivo1/fecha_cosecha" appearance="field-list">
+        <label ref="jr:itext('/data/cultivo1/fecha_cosecha:label')"/>
+        <input ref="/data/cultivo1/fecha_cosecha/inicio">
+          <label ref="jr:itext('/data/cultivo1/fecha_cosecha/inicio:label')"/>
+        </input>
+        <input ref="/data/cultivo1/fecha_cosecha/termino">
+          <label ref="jr:itext('/data/cultivo1/fecha_cosecha/termino:label')"/>
+        </input>
+      </group>
+      <select1 ref="/data/cultivo1/momento_cosecha">
+        <label ref="jr:itext('/data/cultivo1/momento_cosecha:label')"/>
+        <item>
+          <label ref="jr:itext('/data/cultivo1/momento_cosecha:option0')"/>
+          <value>ciclo_lunar</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/cultivo1/momento_cosecha:option1')"/>
+          <value>demanda_mercado</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/cultivo1/momento_cosecha:option2')"/>
+          <value>disponibilidad_recursos</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/cultivo1/momento_cosecha:option3')"/>
+          <value>plagas_enfermedades</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/cultivo1/momento_cosecha:option4')"/>
+          <value>condiciones_agroclimaticas</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/cultivo1/momento_cosecha:option5')"/>
+          <value>madurez_comercial</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/cultivo1/momento_cosecha:option6')"/>
+          <value>madurez_fisiologica</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/cultivo1/momento_cosecha:option7')"/>
+          <value>tradicional_local</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/cultivo1/momento_cosecha:option8')"/>
+          <value>sonido</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/cultivo1/momento_cosecha:option9')"/>
+          <value>variedad</value>
+        </item>
+      </select1>
+      <input ref="/data/cultivo1/especifique_momento_cosecha">
+        <label ref="jr:itext('/data/cultivo1/especifique_momento_cosecha:label')"/>
+      </input>
+      <upload ref="/data/cultivo1/foto_cosecha" mediatype="image/*">
+        <label ref="jr:itext('/data/cultivo1/foto_cosecha:label')"/>
+      </upload>
+    </group>
+    <group ref="/data/cosecha" appearance="field-list">
+      <label ref="jr:itext('/data/cosecha:label')"/>
+      <select1 ref="/data/cosecha/metodo_cosecha">
+        <label ref="jr:itext('/data/cosecha/metodo_cosecha:label')"/>
+        <item>
+          <label ref="jr:itext('/data/cosecha/metodo_cosecha:option0')"/>
+          <value>manual</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/cosecha/metodo_cosecha:option1')"/>
+          <value>mecanica</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/cosecha/metodo_cosecha:option2')"/>
+          <value>ambas</value>
+        </item>
+      </select1>
+      <input ref="/data/cosecha/porcentaje_rastrojo">
+        <label ref="jr:itext('/data/cosecha/porcentaje_rastrojo:label')"/>
+      </input>
+      <input ref="/data/cosecha/descripcion">
+        <label ref="jr:itext('/data/cosecha/descripcion:label')"/>
+      </input>
+    </group>
+    <group ref="/data/cosecha_manual">
+      <label ref="jr:itext('/data/cosecha_manual:label')"/>
+      <input ref="/data/cosecha_manual/numero">
+        <label ref="jr:itext('/data/cosecha_manual/numero:label')"/>
+      </input>
+      <group ref="/data/cosecha_manual/actividad1">
+        <label ref="jr:itext('/data/cosecha_manual/actividad1:label')"/>
+        <repeat nodeset="/data/cosecha_manual/actividad1">
+          <group ref="/data/cosecha_manual/actividad1/informacion_m" appearance="field-list">
+            <label ref="jr:itext('/data/cosecha_manual/actividad1/informacion_m:label')"/>
+            <input ref="/data/cosecha_manual/actividad1/informacion_m/cultivo">
+              <label ref="jr:itext('/data/cosecha_manual/actividad1/informacion_m/cultivo:label')"/>
+            </input>
+            <select1 ref="/data/cosecha_manual/actividad1/informacion_m/realizo_actividad">
+              <label ref="jr:itext('/data/cosecha_manual/actividad1/informacion_m/realizo_actividad:label')"/>
+              <item>
+                <label ref="jr:itext('/data/cosecha_manual/actividad1/informacion_m/realizo_actividad:option0')"/>
+                <value>si</value>
+              </item>
+              <item>
+                <label ref="jr:itext('/data/cosecha_manual/actividad1/informacion_m/realizo_actividad:option1')"/>
+                <value>no</value>
+              </item>
+            </select1>
+            <input ref="/data/cosecha_manual/actividad1/informacion_m/fecha">
+              <label ref="jr:itext('/data/cosecha_manual/actividad1/informacion_m/fecha:label')"/>
+            </input>
+          </group>
+          <select1 ref="/data/cosecha_manual/actividad1/realizada">
+            <label ref="jr:itext('/data/cosecha_manual/actividad1/realizada:label')"/>
+            <item>
+              <label ref="jr:itext('/data/cosecha_manual/actividad1/realizada:option0')"/>
+              <value>cosecha</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/data/cosecha_manual/actividad1/realizada:option1')"/>
+              <value>acarreo</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/data/cosecha_manual/actividad1/realizada:option2')"/>
+              <value>corte_follaje</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/data/cosecha_manual/actividad1/realizada:option3')"/>
+              <value>dobla</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/data/cosecha_manual/actividad1/realizada:option4')"/>
+              <value>hilerado_aborregado</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/data/cosecha_manual/actividad1/realizada:option5')"/>
+              <value>limpieza</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/data/cosecha_manual/actividad1/realizada:option6')"/>
+              <value>manejo_rastrojo</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/data/cosecha_manual/actividad1/realizada:option7')"/>
+              <value>otro</value>
+            </item>
+          </select1>
+          <input ref="/data/cosecha_manual/actividad1/otra_actividad">
+            <label ref="jr:itext('/data/cosecha_manual/actividad1/otra_actividad:label')"/>
+          </input>
+          <select1 ref="/data/cosecha_manual/actividad1/utilizo_implemento">
+            <label ref="jr:itext('/data/cosecha_manual/actividad1/utilizo_implemento:label')"/>
+            <item>
+              <label ref="jr:itext('/data/cosecha_manual/actividad1/utilizo_implemento:option0')"/>
+              <value>si</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/data/cosecha_manual/actividad1/utilizo_implemento:option1')"/>
+              <value>no</value>
+            </item>
+          </select1>
+          <group ref="/data/cosecha_manual/actividad1/mas_de_un_implemento" appearance="field-list">
+            <label ref="jr:itext('/data/cosecha_manual/actividad1/mas_de_un_implemento:label')"/>
+            <input ref="/data/cosecha_manual/actividad1/mas_de_un_implemento/numero_implementos">
+              <label ref="jr:itext('/data/cosecha_manual/actividad1/mas_de_un_implemento/numero_implementos:label')"/>
+            </input>
+            <select ref="/data/cosecha_manual/actividad1/mas_de_un_implemento/implemento_utilizado">
+              <label ref="jr:itext('/data/cosecha_manual/actividad1/mas_de_un_implemento/implemento_utilizado:label')"/>
+              <item>
+                <label ref="jr:itext('/data/cosecha_manual/actividad1/mas_de_un_implemento/implemento_utilizado:option0')"/>
+                <value>gaudana</value>
+              </item>
+              <item>
+                <label ref="jr:itext('/data/cosecha_manual/actividad1/mas_de_un_implemento/implemento_utilizado:option1')"/>
+                <value>machete</value>
+              </item>
+              <item>
+                <label ref="jr:itext('/data/cosecha_manual/actividad1/mas_de_un_implemento/implemento_utilizado:option2')"/>
+                <value>hoz</value>
+              </item>
+              <item>
+                <label ref="jr:itext('/data/cosecha_manual/actividad1/mas_de_un_implemento/implemento_utilizado:option3')"/>
+                <value>cuchillo</value>
+              </item>
+              <item>
+                <label ref="jr:itext('/data/cosecha_manual/actividad1/mas_de_un_implemento/implemento_utilizado:option4')"/>
+                <value>otro</value>
+              </item>
+            </select>
+          </group>
+          <group ref="/data/cosecha_manual/actividad1/jornal" appearance="field-list">
+            <label ref="jr:itext('/data/cosecha_manual/actividad1/jornal:label')"/>
+            <input ref="/data/cosecha_manual/actividad1/jornal/numero_personas_participaron">
+              <label ref="jr:itext('/data/cosecha_manual/actividad1/jornal/numero_personas_participaron:label')"/>
+            </input>
+            <input ref="/data/cosecha_manual/actividad1/jornal/costo_dia">
+              <label ref="jr:itext('/data/cosecha_manual/actividad1/jornal/costo_dia:label')"/>
+            </input>
+            <input ref="/data/cosecha_manual/actividad1/jornal/jornadas_utilizadas">
+              <label ref="jr:itext('/data/cosecha_manual/actividad1/jornal/jornadas_utilizadas:label')"/>
+            </input>
+            <input ref="/data/cosecha_manual/actividad1/jornal/duracion">
+              <label ref="jr:itext('/data/cosecha_manual/actividad1/jornal/duracion:label')"/>
+            </input>
+            <select1 ref="/data/cosecha_manual/actividad1/jornal/tipo_costo">
+              <label ref="jr:itext('/data/cosecha_manual/actividad1/jornal/tipo_costo:label')"/>
+              <item>
+                <label ref="jr:itext('/data/cosecha_manual/actividad1/jornal/tipo_costo:option0')"/>
+                <value>pagado</value>
+              </item>
+              <item>
+                <label ref="jr:itext('/data/cosecha_manual/actividad1/jornal/tipo_costo:option1')"/>
+                <value>estimado</value>
+              </item>
+            </select1>
+          </group>
+          <input ref="/data/cosecha_manual/actividad1/descripcion1">
+            <label ref="jr:itext('/data/cosecha_manual/actividad1/descripcion1:label')"/>
+          </input>
+        </repeat>
+      </group>
+    </group>
+    <group ref="/data/cosecha_mecanica">
+      <label ref="jr:itext('/data/cosecha_mecanica:label')"/>
+      <input ref="/data/cosecha_mecanica/no_cosecha_motorizada">
+        <label ref="jr:itext('/data/cosecha_mecanica/no_cosecha_motorizada:label')"/>
+      </input>
+      <group ref="/data/cosecha_mecanica/actividad">
+        <label ref="jr:itext('/data/cosecha_mecanica/actividad:label')"/>
+        <group ref="/data/cosecha_mecanica/actividad/actividad2" appearance="field-list">
+          <label ref="jr:itext('/data/cosecha_mecanica/actividad/actividad2:label')"/>
+          <select1 ref="/data/cosecha_mecanica/actividad/actividad2/realizo">
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/actividad2/realizo:label')"/>
+            <item>
+              <label ref="jr:itext('/data/cosecha_mecanica/actividad/actividad2/realizo:option0')"/>
+              <value>si</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/data/cosecha_mecanica/actividad/actividad2/realizo:option1')"/>
+              <value>no</value>
+            </item>
+          </select1>
+          <input ref="/data/cosecha_mecanica/actividad/actividad2/fecha_m">
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/actividad2/fecha_m:label')"/>
+          </input>
+        </group>
+        <select1 ref="/data/cosecha_mecanica/actividad/actividad_realizada">
+          <label ref="jr:itext('/data/cosecha_mecanica/actividad/actividad_realizada:label')"/>
+          <item>
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/actividad_realizada:option0')"/>
+            <value>aplicacion_desecante</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/actividad_realizada:option1')"/>
+            <value>corte</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/actividad_realizada:option2')"/>
+            <value>empacado</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/actividad_realizada:option3')"/>
+            <value>manejo_rastrojo</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/actividad_realizada:option4')"/>
+            <value>trilla</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/actividad_realizada:option5')"/>
+            <value>otro</value>
+          </item>
+        </select1>
+        <input ref="/data/cosecha_mecanica/actividad/otra">
+          <label ref="jr:itext('/data/cosecha_mecanica/actividad/otra:label')"/>
+        </input>
+        <select1 ref="/data/cosecha_mecanica/actividad/implemento_utilizado1">
+          <label ref="jr:itext('/data/cosecha_mecanica/actividad/implemento_utilizado1:label')"/>
+          <item>
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/implemento_utilizado1:option0')"/>
+            <value>cosechadora_estacionaria</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/implemento_utilizado1:option1')"/>
+            <value>cosechadora_autopropulsada</value>
+          </item>
+          <item>
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/implemento_utilizado1:option2')"/>
+            <value>cosechadora_arrastre</value>
+          </item>
+        </select1>
+        <group ref="/data/cosecha_mecanica/actividad/tractor" appearance="field-list">
+          <label ref="jr:itext('/data/cosecha_mecanica/actividad/tractor:label')"/>
+          <select1 ref="/data/cosecha_mecanica/actividad/tractor/tipo_tractor">
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/tractor/tipo_tractor:label')"/>
+            <item>
+              <label ref="jr:itext('/data/cosecha_mecanica/actividad/tractor/tipo_tractor:option0')"/>
+              <value>dos_ruedas</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/data/cosecha_mecanica/actividad/tractor/tipo_tractor:option1')"/>
+              <value>cuatro_ruedas</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/data/cosecha_mecanica/actividad/tractor/tipo_tractor:option2')"/>
+              <value>motor_electrico</value>
+            </item>
+          </select1>
+          <input ref="/data/cosecha_mecanica/actividad/tractor/caballos_fuerza">
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/tractor/caballos_fuerza:label')"/>
+          </input>
+        </group>
+        <group ref="/data/cosecha_mecanica/actividad/implemento" appearance="field-list">
+          <label ref="jr:itext('/data/cosecha_mecanica/actividad/implemento:label')"/>
+          <select1 ref="/data/cosecha_mecanica/actividad/implemento/implemento_es">
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/implemento/implemento_es:label')"/>
+            <item>
+              <label ref="jr:itext('/data/cosecha_mecanica/actividad/implemento/implemento_es:option0')"/>
+              <value>propio</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/data/cosecha_mecanica/actividad/implemento/implemento_es:option1')"/>
+              <value>prestado_sin_costo</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/data/cosecha_mecanica/actividad/implemento/implemento_es:option2')"/>
+              <value>arrendado-maquila</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/data/cosecha_mecanica/actividad/implemento/implemento_es:option3')"/>
+              <value>CIMMYT</value>
+            </item>
+          </select1>
+          <input ref="/data/cosecha_mecanica/actividad/implemento/modelo_implemento">
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/implemento/modelo_implemento:label')"/>
+          </input>
+          <input ref="/data/cosecha_mecanica/actividad/implemento/horas_actividad">
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/implemento/horas_actividad:label')"/>
+          </input>
+        </group>
+        <group ref="/data/cosecha_mecanica/actividad/propio" appearance="field-list">
+          <label ref="jr:itext('/data/cosecha_mecanica/actividad/propio:label')"/>
+          <input ref="/data/cosecha_mecanica/actividad/propio/costo_total_actividad">
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/propio/costo_total_actividad:label')"/>
+          </input>
+          <select1 ref="/data/cosecha_mecanica/actividad/propio/quien_realiza_operacion">
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/propio/quien_realiza_operacion:label')"/>
+            <item>
+              <label ref="jr:itext('/data/cosecha_mecanica/actividad/propio/quien_realiza_operacion:option0')"/>
+              <value>productor</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/data/cosecha_mecanica/actividad/propio/quien_realiza_operacion:option1')"/>
+              <value>pagado</value>
+            </item>
+          </select1>
+          <input ref="/data/cosecha_mecanica/actividad/propio/antiguedad">
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/propio/antiguedad:label')"/>
+          </input>
+        </group>
+        <group ref="/data/cosecha_mecanica/actividad/prestado" appearance="field-list">
+          <label ref="jr:itext('/data/cosecha_mecanica/actividad/prestado:label')"/>
+          <input ref="/data/cosecha_mecanica/actividad/prestado/costo_total1">
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/prestado/costo_total1:label')"/>
+          </input>
+          <select1 ref="/data/cosecha_mecanica/actividad/prestado/tipo_costo2">
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/prestado/tipo_costo2:label')"/>
+            <item>
+              <label ref="jr:itext('/data/cosecha_mecanica/actividad/prestado/tipo_costo2:option0')"/>
+              <value>pagado</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/data/cosecha_mecanica/actividad/prestado/tipo_costo2:option1')"/>
+              <value>estimado</value>
+            </item>
+          </select1>
+        </group>
+        <group ref="/data/cosecha_mecanica/actividad/arrendado" appearance="field-list">
+          <label ref="jr:itext('/data/cosecha_mecanica/actividad/arrendado:label')"/>
+          <input ref="/data/cosecha_mecanica/actividad/arrendado/costo1">
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/arrendado/costo1:label')"/>
+          </input>
+          <input ref="/data/cosecha_mecanica/actividad/arrendado/costo_total">
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/arrendado/costo_total:label')"/>
+          </input>
+          <select1 ref="/data/cosecha_mecanica/actividad/arrendado/tipo_costo1">
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/arrendado/tipo_costo1:label')"/>
+            <hint ref="jr:itext('/data/cosecha_mecanica/actividad/arrendado/tipo_costo1:hint')"/>
+            <item>
+              <label ref="jr:itext('/data/cosecha_mecanica/actividad/arrendado/tipo_costo1:option0')"/>
+              <value>pagado</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/data/cosecha_mecanica/actividad/arrendado/tipo_costo1:option1')"/>
+              <value>estimado</value>
+            </item>
+          </select1>
+        </group>
+        <group ref="/data/cosecha_mecanica/actividad/combustible" appearance="field-list">
+          <label ref="jr:itext('/data/cosecha_mecanica/actividad/combustible:label')"/>
+          <input ref="/data/cosecha_mecanica/actividad/combustible/costo">
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/combustible/costo:label')"/>
+          </input>
+          <input ref="/data/cosecha_mecanica/actividad/combustible/consumo">
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/combustible/consumo:label')"/>
+          </input>
+          <select1 ref="/data/cosecha_mecanica/actividad/combustible/tipo_costo3">
+            <label ref="jr:itext('/data/cosecha_mecanica/actividad/combustible/tipo_costo3:label')"/>
+            <item>
+              <label ref="jr:itext('/data/cosecha_mecanica/actividad/combustible/tipo_costo3:option0')"/>
+              <value>Pagado</value>
+            </item>
+            <item>
+              <label ref="jr:itext('/data/cosecha_mecanica/actividad/combustible/tipo_costo3:option1')"/>
+              <value>estimado</value>
+            </item>
+          </select1>
+        </group>
+      </group>
+      <input ref="/data/cosecha_mecanica/descripcion2">
+        <label ref="jr:itext('/data/cosecha_mecanica/descripcion2:label')"/>
+      </input>
+    </group>
+  </h:body>
+</h:html>

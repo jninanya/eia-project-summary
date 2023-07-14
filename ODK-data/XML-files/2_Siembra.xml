@@ -1,0 +1,1140 @@
+<h:html xmlns="http://www.w3.org/2002/xforms" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:jr="http://openrosa.org/javarosa" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:odk="http://www.opendatakit.org/xforms">
+  <h:head>
+    <h:title>2_Siembra</h:title>
+    <model>
+      <instance>
+        <data id="2-Siembra" version="1645301568">
+          <meta>
+            <instanceID/>
+          </meta>
+          <device_id/>
+          <date/>
+          <extensionista/>
+          <otro_extensionista/>
+          <propietario/>
+          <actividad_realizar>
+            siembra
+          </actividad_realizar>
+          <cultivo_antes_siembra/>
+          <otro_cultivo_previa_siembra/>
+          <superficie_sembrada/>
+          <como_registra_costos>
+            cultivos_juntos
+          </como_registra_costos>
+          <momento_siembra/>
+          <especifique_metodo_tadicional/>
+          <como_realizo_siembra/>
+          <fecha_siembra/>
+          <sembrado_en>
+            surco
+          </sembrado_en>
+          <siembra>
+            <arreglo>
+              hilera
+            </arreglo>
+            <considero_pendiente>
+              si
+            </considero_pendiente>
+            <parte_surco>
+              inferior
+            </parte_surco>
+            <densidad/>
+            <plantas_mata>
+              1
+            </plantas_mata>
+            <distan_entre_plantas/>
+            <distancia_entre_surcos/>
+          </siembra>
+          <metodo_siembra/>
+          <implemento_manual>
+            <numero_utilizados>
+              1
+            </numero_utilizados>
+            <implemento_usado/>
+            <otro_especifique/>
+            <otro/>
+            <jornales>
+              <numero_personas/>
+              <costo_/>
+              <utilizadas/>
+              <duracion/>
+            </jornales>
+          </implemento_manual>
+          <animal>
+            <tipo>
+              bueyes
+            </tipo>
+            <otro_tipo/>
+            <costo/>
+            <horas_actividad/>
+            <implemento>
+              arado
+            </implemento>
+            <otro_implemento/>
+            <implemento_es/>
+          </animal>
+          <implemento_motorizado>
+            <especifique/>
+            <especifique_otro/>
+            <tipo_tractor/>
+            <caballos_fueza/>
+            <es/>
+            <costo_renta_incluye_operacion/>
+            <modelo/>
+            <horas/>
+            <costo_actividad/>
+            <quien_realiza/>
+            <antiguedad/>
+            <costo_combustible/>
+            <consumo_combustible/>
+          </implemento_motorizado>
+        </data>
+      </instance>
+      <itext>
+        <translation lang="English">
+          <text id="/data/extensionista:label">
+            <value>Nombre de la persona responsable del registro:</value>
+          </text>
+          <text id="/data/extensionista:option0">
+            <value>Alex Roncal</value>
+          </text>
+          <text id="/data/extensionista:option1">
+            <value>Alex Villanueva</value>
+          </text>
+          <text id="/data/extensionista:option2">
+            <value>Cristian Villanueva</value>
+          </text>
+          <text id="/data/extensionista:option3">
+            <value>Demetrio Flores</value>
+          </text>
+          <text id="/data/extensionista:option4">
+            <value>Edgar Sevillano</value>
+          </text>
+          <text id="/data/extensionista:option5">
+            <value>Elí Diaz</value>
+          </text>
+          <text id="/data/extensionista:option6">
+            <value>Enner Arias</value>
+          </text>
+          <text id="/data/extensionista:option7">
+            <value>Jose Cieza</value>
+          </text>
+          <text id="/data/extensionista:option8">
+            <value>Willian Huamanchay</value>
+          </text>
+          <text id="/data/extensionista:option9">
+            <value>Wilson Mendoza</value>
+          </text>
+          <text id="/data/extensionista:option10">
+            <value>Otro</value>
+          </text>
+          <text id="/data/otro_extensionista:label">
+            <value>Nombre de otra persona responsable del registro:</value>
+          </text>
+          <text id="/data/propietario:label">
+            <value>Nombre y apellidos del agricultor:</value>
+          </text>
+          <text id="/data/actividad_realizar:label">
+            <value>Actividad a realizar:</value>
+          </text>
+          <text id="/data/actividad_realizar:option0">
+            <value>Siembra</value>
+          </text>
+          <text id="/data/actividad_realizar:option1">
+            <value>Resiembra</value>
+          </text>
+          <text id="/data/cultivo_antes_siembra:label">
+            <value>Previa a la siembra/resiembra que cultivo hubo antes en la parcela:</value>
+          </text>
+          <text id="/data/cultivo_antes_siembra:option0">
+            <value>Barbecho</value>
+          </text>
+          <text id="/data/cultivo_antes_siembra:option1">
+            <value>Papa</value>
+          </text>
+          <text id="/data/cultivo_antes_siembra:option2">
+            <value>Terreno vírgen</value>
+          </text>
+          <text id="/data/cultivo_antes_siembra:option3">
+            <value>Avena</value>
+          </text>
+          <text id="/data/cultivo_antes_siembra:option4">
+            <value>Pasturas</value>
+          </text>
+          <text id="/data/cultivo_antes_siembra:option5">
+            <value>Arveja</value>
+          </text>
+          <text id="/data/cultivo_antes_siembra:option6">
+            <value>Cebada</value>
+          </text>
+          <text id="/data/cultivo_antes_siembra:option7">
+            <value>Haba</value>
+          </text>
+          <text id="/data/cultivo_antes_siembra:option8">
+            <value>Tarwi</value>
+          </text>
+          <text id="/data/cultivo_antes_siembra:option9">
+            <value>Otro</value>
+          </text>
+          <text id="/data/otro_cultivo_previa_siembra:label">
+            <value>Otro cultivo previa a la siembra:</value>
+          </text>
+          <text id="/data/superficie_sembrada:label">
+            <value>Superficie total sembrada, para mas de un cultivo escriba solo una vez la superficie total (ha): </value>
+          </text>
+          <text id="/data/como_registra_costos:label">
+            <value>¿Cómo registrara costos y actividades de siembra de los cultivos?:</value>
+          </text>
+          <text id="/data/como_registra_costos:option0">
+            <value>Costo y actividadades por todos los cultivos juntos</value>
+          </text>
+          <text id="/data/como_registra_costos:option1">
+            <value>Costo y actividadades por cada cultivo</value>
+          </text>
+          <text id="/data/momento_siembra:label">
+            <value>¿Cómo determinó el momento de la siembra?: </value>
+          </text>
+          <text id="/data/momento_siembra:option0">
+            <value>Condiciones agroclimáticas</value>
+          </text>
+          <text id="/data/momento_siembra:option1">
+            <value>Ciclo lunar</value>
+          </text>
+          <text id="/data/momento_siembra:option2">
+            <value>Incidencia de plagas ó enfermedades</value>
+          </text>
+          <text id="/data/momento_siembra:option3">
+            <value>Demanda de mercado</value>
+          </text>
+          <text id="/data/momento_siembra:option4">
+            <value>Disponibilidad de recursos</value>
+          </text>
+          <text id="/data/momento_siembra:option5">
+            <value>Madurez comercial</value>
+          </text>
+          <text id="/data/momento_siembra:option6">
+            <value>Madurez fisiológica</value>
+          </text>
+          <text id="/data/momento_siembra:option7">
+            <value>Por el contenido de humedad en el grano</value>
+          </text>
+          <text id="/data/momento_siembra:option8">
+            <value>Por algún método tradicional local (Especifique)</value>
+          </text>
+          <text id="/data/momento_siembra:option9">
+            <value>Sonido</value>
+          </text>
+          <text id="/data/momento_siembra:option10">
+            <value>Variedad</value>
+          </text>
+          <text id="/data/especifique_metodo_tadicional:label">
+            <value>Especifique el metodo tradicional local usado:</value>
+          </text>
+          <text id="/data/como_realizo_siembra:label">
+            <value>¿Cómo realizó la siembra?: </value>
+          </text>
+          <text id="/data/como_realizo_siembra:option0">
+            <value>Realizada por el agricultor y su familia</value>
+          </text>
+          <text id="/data/como_realizo_siembra:option1">
+            <value>Contrato personal/Pago por jornales</value>
+          </text>
+          <text id="/data/como_realizo_siembra:option2">
+            <value>Realizada con ayuda de personas de su comunidad (sin pago)</value>
+          </text>
+          <text id="/data/como_realizo_siembra:option3">
+            <value>Agricultor</value>
+          </text>
+          <text id="/data/fecha_siembra:label">
+            <value>Fecha de siembra del cultivo: </value>
+          </text>
+          <text id="/data/sembrado_en:label">
+            <value>Cultivo sembrado en:</value>
+          </text>
+          <text id="/data/sembrado_en:option0">
+            <value>Surco</value>
+          </text>
+          <text id="/data/sembrado_en:option1">
+            <value>Plano</value>
+          </text>
+          <text id="/data/sembrado_en:option2">
+            <value>Cama</value>
+          </text>
+          <text id="/data/siembra:label">
+            <value>Información específica de la siembra:</value>
+          </text>
+          <text id="/data/siembra/arreglo:label">
+            <value>Arreglo de siembra: 	 	  	</value>
+          </text>
+          <text id="/data/siembra/arreglo:option0">
+            <value>Hilera</value>
+          </text>
+          <text id="/data/siembra/arreglo:option1">
+            <value>Doble hilera</value>
+          </text>
+          <text id="/data/siembra/arreglo:option2">
+            <value>Triple hilera</value>
+          </text>
+          <text id="/data/siembra/arreglo:option3">
+            <value>Al voleo/desparramado</value>
+          </text>
+          <text id="/data/siembra/arreglo:option4">
+            <value>Mateado</value>
+          </text>
+          <text id="/data/siembra/considero_pendiente:label">
+            <value>¿Consideró la pendiente del terreno para el trazado de los surcos?:</value>
+          </text>
+          <text id="/data/siembra/considero_pendiente:option0">
+            <value>Si</value>
+          </text>
+          <text id="/data/siembra/considero_pendiente:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/siembra/parte_surco:label">
+            <value>Parte del surco ó cama donde se establecio el cultivo:</value>
+          </text>
+          <text id="/data/siembra/parte_surco:option0">
+            <value>Superior</value>
+          </text>
+          <text id="/data/siembra/parte_surco:option1">
+            <value>Inferior</value>
+          </text>
+          <text id="/data/siembra/parte_surco:option2">
+            <value>Ambas</value>
+          </text>
+          <text id="/data/siembra/densidad:label">
+            <value>Densidad de siembra (Plantas/ha): </value>
+          </text>
+          <text id="/data/siembra/plantas_mata:label">
+            <value>Plantas por mata:</value>
+          </text>
+          <text id="/data/siembra/distan_entre_plantas:label">
+            <value>Distancia entre plantas en la misma hilera (cm):</value>
+          </text>
+          <text id="/data/siembra/distancia_entre_surcos:label">
+            <value>Distancia entre surcos (cm):</value>
+          </text>
+          <text id="/data/metodo_siembra:label">
+            <value>Método de siembra (Fuente de poder)</value>
+          </text>
+          <text id="/data/metodo_siembra:option0">
+            <value>Manual</value>
+          </text>
+          <text id="/data/metodo_siembra:option1">
+            <value>Animal</value>
+          </text>
+          <text id="/data/metodo_siembra:option2">
+            <value>Motorizado</value>
+          </text>
+          <text id="/data/implemento_manual:label">
+            <value>Implemento manual:</value>
+          </text>
+          <text id="/data/implemento_manual/numero_utilizados:label">
+            <value>Número de implementos manuales utilizados: </value>
+          </text>
+          <text id="/data/implemento_manual/numero_utilizados:option0">
+            <value>1</value>
+          </text>
+          <text id="/data/implemento_manual/numero_utilizados:option1">
+            <value>2</value>
+          </text>
+          <text id="/data/implemento_manual/numero_utilizados:option2">
+            <value>3</value>
+          </text>
+          <text id="/data/implemento_manual/implemento_usado:label">
+            <value>Implemento manual usado: </value>
+          </text>
+          <text id="/data/implemento_manual/implemento_usado:hint">
+            <value></value>
+          </text>
+          <text id="/data/implemento_manual/implemento_usado:option0">
+            <value>Lampilla</value>
+          </text>
+          <text id="/data/implemento_manual/implemento_usado:option1">
+            <value>Pala</value>
+          </text>
+          <text id="/data/implemento_manual/implemento_usado:option2">
+            <value>Picota</value>
+          </text>
+          <text id="/data/implemento_manual/implemento_usado:option3">
+            <value>Arado</value>
+          </text>
+          <text id="/data/implemento_manual/implemento_usado:option4">
+            <value>Otro</value>
+          </text>
+          <text id="/data/implemento_manual/otro_especifique:label">
+            <value>Especifique otro implemento manual usado:</value>
+          </text>
+          <text id="/data/implemento_manual/otro:label">
+            <value>Si hubiera usado mas de 1 implemento manual, especifique:</value>
+          </text>
+          <text id="/data/implemento_manual/jornales:label">
+            <value>Jornales</value>
+          </text>
+          <text id="/data/implemento_manual/jornales/numero_personas:label">
+            <value>Número de personas que participaron en la labor (personas/ha): </value>
+          </text>
+          <text id="/data/implemento_manual/jornales/costo_:label">
+            <value>Costo del jornal por dia (S/.)</value>
+          </text>
+          <text id="/data/implemento_manual/jornales/utilizadas:label">
+            <value>Jornadas utilizadas: </value>
+          </text>
+          <text id="/data/implemento_manual/jornales/duracion:label">
+            <value>Duración del jornal/dia (hr/ha): </value>
+          </text>
+          <text id="/data/animal:label">
+            <value>Animal:</value>
+          </text>
+          <text id="/data/animal/tipo:label">
+            <value>¿Que tipo de animal utiliza?:</value>
+          </text>
+          <text id="/data/animal/tipo:option0">
+            <value>Caballo</value>
+          </text>
+          <text id="/data/animal/tipo:option1">
+            <value>Mula</value>
+          </text>
+          <text id="/data/animal/tipo:option2">
+            <value>Bueyes</value>
+          </text>
+          <text id="/data/animal/tipo:option3">
+            <value>Burro</value>
+          </text>
+          <text id="/data/animal/tipo:option4">
+            <value>Otro(indique)</value>
+          </text>
+          <text id="/data/animal/otro_tipo:label">
+            <value>Indique otro tipo de animal usado:</value>
+          </text>
+          <text id="/data/animal/costo:label">
+            <value>Costo de la actividad animal (Soles/ha):</value>
+          </text>
+          <text id="/data/animal/horas_actividad:label">
+            <value>Horas en que se completo la actividad animal (hr/ha): </value>
+          </text>
+          <text id="/data/animal/implemento:label">
+            <value>Implemento animal utilizado:</value>
+          </text>
+          <text id="/data/animal/implemento:option0">
+            <value>Arado</value>
+          </text>
+          <text id="/data/animal/implemento:option1">
+            <value>Sembradora de tiro animal (Disco inclinado)</value>
+          </text>
+          <text id="/data/animal/implemento:option2">
+            <value>Sembradora de tiro animal (Disco horizontal)</value>
+          </text>
+          <text id="/data/animal/implemento:option3">
+            <value>Sembradora de tiro animal (disco vertical)</value>
+          </text>
+          <text id="/data/animal/implemento:option4">
+            <value>Otro</value>
+          </text>
+          <text id="/data/animal/otro_implemento:label">
+            <value>Otro implemento usado:</value>
+          </text>
+          <text id="/data/animal/implemento_es:label">
+            <value>El implemento animal usado es:</value>
+          </text>
+          <text id="/data/animal/implemento_es:option0">
+            <value>Propio</value>
+          </text>
+          <text id="/data/animal/implemento_es:option1">
+            <value>Prestado (sin costo)</value>
+          </text>
+          <text id="/data/animal/implemento_es:option2">
+            <value>Arrendado-maquila</value>
+          </text>
+          <text id="/data/implemento_motorizado:label">
+            <value>Implemento motorizado:</value>
+          </text>
+          <text id="/data/implemento_motorizado/especifique:label">
+            <value>Si uso implemento motorizado, especifique:</value>
+          </text>
+          <text id="/data/implemento_motorizado/especifique:option0">
+            <value>Sembrado mecanica (plato horizontal)</value>
+          </text>
+          <text id="/data/implemento_motorizado/especifique:option1">
+            <value>Sembrado mecanica (plato vertical)</value>
+          </text>
+          <text id="/data/implemento_motorizado/especifique:option2">
+            <value>Sembrado mecanica (plato inclinado)</value>
+          </text>
+          <text id="/data/implemento_motorizado/especifique:option3">
+            <value>Sembradora de semi-precisión</value>
+          </text>
+          <text id="/data/implemento_motorizado/especifique:option4">
+            <value>Sembradora de semi-precisión neumatica</value>
+          </text>
+          <text id="/data/implemento_motorizado/especifique:option5">
+            <value>Sembradora de semi-precisión hidraulica</value>
+          </text>
+          <text id="/data/implemento_motorizado/especifique:option6">
+            <value>Otro</value>
+          </text>
+          <text id="/data/implemento_motorizado/especifique_otro:label">
+            <value>Especifique otro:</value>
+          </text>
+          <text id="/data/implemento_motorizado/tipo_tractor:label">
+            <value>Tipo de tractor:</value>
+          </text>
+          <text id="/data/implemento_motorizado/tipo_tractor:option0">
+            <value>Tracto de 2 ruedas</value>
+          </text>
+          <text id="/data/implemento_motorizado/tipo_tractor:option1">
+            <value>Tracto de 4 ruedas</value>
+          </text>
+          <text id="/data/implemento_motorizado/tipo_tractor:option2">
+            <value>Motor eléctrico</value>
+          </text>
+          <text id="/data/implemento_motorizado/caballos_fueza:label">
+            <value>Caballos de fuerza:</value>
+          </text>
+          <text id="/data/implemento_motorizado/es:label">
+            <value>El implemento motorizado es:</value>
+          </text>
+          <text id="/data/implemento_motorizado/es:option0">
+            <value>Propio</value>
+          </text>
+          <text id="/data/implemento_motorizado/es:option1">
+            <value>Prestado (sin costo)</value>
+          </text>
+          <text id="/data/implemento_motorizado/es:option2">
+            <value>Arrendado</value>
+          </text>
+          <text id="/data/implemento_motorizado/costo_renta_incluye_operacion:label">
+            <value>Si fuera arrendado, ¿El costo de renta incluye la operación del implemento?: </value>
+          </text>
+          <text id="/data/implemento_motorizado/costo_renta_incluye_operacion:option0">
+            <value>Si</value>
+          </text>
+          <text id="/data/implemento_motorizado/costo_renta_incluye_operacion:option1">
+            <value>No</value>
+          </text>
+          <text id="/data/implemento_motorizado/modelo:label">
+            <value>Modelo: </value>
+          </text>
+          <text id="/data/implemento_motorizado/horas:label">
+            <value>Horas en que se completo la actividad motorizado (hr/ha): </value>
+          </text>
+          <text id="/data/implemento_motorizado/costo_actividad:label">
+            <value>Costo total de la actividad (Soles/ha):</value>
+          </text>
+          <text id="/data/implemento_motorizado/quien_realiza:label">
+            <value>¿Quién realiza la operación?:</value>
+          </text>
+          <text id="/data/implemento_motorizado/quien_realiza:option0">
+            <value>Operada por el productor</value>
+          </text>
+          <text id="/data/implemento_motorizado/quien_realiza:option1">
+            <value>Pago para realizar la actividad</value>
+          </text>
+          <text id="/data/implemento_motorizado/antiguedad:label">
+            <value>Antiguedad del implemento (años):</value>
+          </text>
+          <text id="/data/implemento_motorizado/costo_combustible:label">
+            <value>Costo de combustible (Soles/litro) (dato de referencia):</value>
+          </text>
+          <text id="/data/implemento_motorizado/consumo_combustible:label">
+            <value>Consumo de combustible (Litros/ha) (dato de referencia): </value>
+          </text>
+        </translation>
+      </itext>
+      <bind nodeset="/data/meta/instanceID" type="string" readonly="true()" jr:preload="uid"/>
+      <submission method="form-data-post" action="https://docs.google.com/spreadsheets/d/10KrYH0IjJvYqffNK13zHtNQU3vgQZTyXcHIfsy0vFJc/edit?usp=sharing"/>
+      <bind nodeset="/data/device_id" type="string" jr:preload="property" jr:preloadParams="deviceid"/>
+      <bind nodeset="/data/date" type="dateTime" jr:preload="timestamp" jr:preloadParams="start"/>
+      <bind nodeset="/data/extensionista" type="select1" required="true()"/>
+      <bind nodeset="/data/otro_extensionista" type="string" relevant="(selected(/data/extensionista, 'otro'))"/>
+      <bind nodeset="/data/propietario" type="string" required="true()"/>
+      <bind nodeset="/data/actividad_realizar" type="select1"/>
+      <bind nodeset="/data/cultivo_antes_siembra" type="select1"/>
+      <bind nodeset="/data/otro_cultivo_previa_siembra" type="string" relevant="(selected(/data/cultivo_antes_siembra, 'otro'))"/>
+      <bind nodeset="/data/superficie_sembrada" type="decimal"/>
+      <bind nodeset="/data/como_registra_costos" type="select1"/>
+      <bind nodeset="/data/momento_siembra" type="select1"/>
+      <bind nodeset="/data/especifique_metodo_tadicional" type="string" relevant="(selected(/data/momento_siembra, 'metodo_tradicional_local'))"/>
+      <bind nodeset="/data/como_realizo_siembra" type="select1"/>
+      <bind nodeset="/data/fecha_siembra" type="date"/>
+      <bind nodeset="/data/sembrado_en" type="select1"/>
+      <bind nodeset="/data/siembra/arreglo" type="select1"/>
+      <bind nodeset="/data/siembra/considero_pendiente" type="select1"/>
+      <bind nodeset="/data/siembra/parte_surco" type="select1"/>
+      <bind nodeset="/data/siembra/densidad" type="int" constraint="(. &gt; '21000') and (. &lt; '41000')" jr:constraintMsg="Value must be between 21000 and 41000"/>
+      <bind nodeset="/data/siembra/plantas_mata" type="int" constraint="(. &gt; '0') and (. &lt; '3')" jr:constraintMsg="Value must be between 0 and 3"/>
+      <bind nodeset="/data/siembra/distan_entre_plantas" type="decimal" constraint="(. &gt;= '25') and (. &lt;= '50')" jr:constraintMsg="Value must be between 25 and 50"/>
+      <bind nodeset="/data/siembra/distancia_entre_surcos" type="int" constraint="(. &gt;= '60') and (. &lt;= '120')" jr:constraintMsg="Value must be between 60 and 120"/>
+      <bind nodeset="/data/metodo_siembra" type="select"/>
+      <bind nodeset="/data/implemento_manual/numero_utilizados" type="select1"/>
+      <bind nodeset="/data/implemento_manual/implemento_usado" type="select1"/>
+      <bind nodeset="/data/implemento_manual/otro_especifique" type="string" relevant="(selected(/data/implemento_manual/implemento_usado, 'otro'))"/>
+      <bind nodeset="/data/implemento_manual/otro" type="string"/>
+      <bind nodeset="/data/implemento_manual/jornales/numero_personas" type="int"/>
+      <bind nodeset="/data/implemento_manual/jornales/costo_" type="decimal"/>
+      <bind nodeset="/data/implemento_manual/jornales/utilizadas" type="decimal"/>
+      <bind nodeset="/data/implemento_manual/jornales/duracion" type="decimal"/>
+      <bind nodeset="/data/animal/tipo" type="select1"/>
+      <bind nodeset="/data/animal/otro_tipo" type="string" relevant="(selected(/data/animal/tipo, 'otro'))"/>
+      <bind nodeset="/data/animal/costo" type="decimal"/>
+      <bind nodeset="/data/animal/horas_actividad" type="int"/>
+      <bind nodeset="/data/animal/implemento" type="select1"/>
+      <bind nodeset="/data/animal/otro_implemento" type="string" relevant="(selected(/data/animal/implemento, 'disco_vertical'))"/>
+      <bind nodeset="/data/animal/implemento_es" type="select1"/>
+      <bind nodeset="/data/implemento_motorizado/especifique" type="select1"/>
+      <bind nodeset="/data/implemento_motorizado/especifique_otro" type="string" relevant="(selected(/data/implemento_motorizado/especifique, 'otro'))"/>
+      <bind nodeset="/data/implemento_motorizado/tipo_tractor" type="select1"/>
+      <bind nodeset="/data/implemento_motorizado/caballos_fueza" type="int"/>
+      <bind nodeset="/data/implemento_motorizado/es" type="select1"/>
+      <bind nodeset="/data/implemento_motorizado/costo_renta_incluye_operacion" type="select1" relevant="(selected(/data/implemento_motorizado/es, 'arrendado'))"/>
+      <bind nodeset="/data/implemento_motorizado/modelo" type="string"/>
+      <bind nodeset="/data/implemento_motorizado/horas" type="decimal"/>
+      <bind nodeset="/data/implemento_motorizado/costo_actividad" type="decimal"/>
+      <bind nodeset="/data/implemento_motorizado/quien_realiza" type="select1"/>
+      <bind nodeset="/data/implemento_motorizado/antiguedad" type="int"/>
+      <bind nodeset="/data/implemento_motorizado/costo_combustible" type="decimal"/>
+      <bind nodeset="/data/implemento_motorizado/consumo_combustible" type="decimal"/>
+    </model>
+  </h:head>
+  <h:body>
+    <select1 ref="/data/extensionista">
+      <label ref="jr:itext('/data/extensionista:label')"/>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option0')"/>
+        <value>alex_roncal</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option1')"/>
+        <value>alex_villanueva</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option2')"/>
+        <value>cristian_villanueva</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option3')"/>
+        <value>demetrio_flores</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option4')"/>
+        <value>edgar_sevillano</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option5')"/>
+        <value>eli_diaz</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option6')"/>
+        <value>enner_arias</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option7')"/>
+        <value>jose_cieza</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option8')"/>
+        <value>william_huamanchay</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option9')"/>
+        <value>wilson_mendoza</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/extensionista:option10')"/>
+        <value>otro</value>
+      </item>
+    </select1>
+    <input ref="/data/otro_extensionista">
+      <label ref="jr:itext('/data/otro_extensionista:label')"/>
+    </input>
+    <input ref="/data/propietario">
+      <label ref="jr:itext('/data/propietario:label')"/>
+    </input>
+    <select1 ref="/data/actividad_realizar">
+      <label ref="jr:itext('/data/actividad_realizar:label')"/>
+      <item>
+        <label ref="jr:itext('/data/actividad_realizar:option0')"/>
+        <value>siembra</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/actividad_realizar:option1')"/>
+        <value>resiembra</value>
+      </item>
+    </select1>
+    <select1 ref="/data/cultivo_antes_siembra">
+      <label ref="jr:itext('/data/cultivo_antes_siembra:label')"/>
+      <item>
+        <label ref="jr:itext('/data/cultivo_antes_siembra:option0')"/>
+        <value>barbecho</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/cultivo_antes_siembra:option1')"/>
+        <value>papa</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/cultivo_antes_siembra:option2')"/>
+        <value>terreno_virgen</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/cultivo_antes_siembra:option3')"/>
+        <value>avena</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/cultivo_antes_siembra:option4')"/>
+        <value>pasturas</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/cultivo_antes_siembra:option5')"/>
+        <value>arveja</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/cultivo_antes_siembra:option6')"/>
+        <value>cebada</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/cultivo_antes_siembra:option7')"/>
+        <value>haba</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/cultivo_antes_siembra:option8')"/>
+        <value>tarwi</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/cultivo_antes_siembra:option9')"/>
+        <value>otro</value>
+      </item>
+    </select1>
+    <input ref="/data/otro_cultivo_previa_siembra">
+      <label ref="jr:itext('/data/otro_cultivo_previa_siembra:label')"/>
+    </input>
+    <input ref="/data/superficie_sembrada">
+      <label ref="jr:itext('/data/superficie_sembrada:label')"/>
+    </input>
+    <select1 ref="/data/como_registra_costos">
+      <label ref="jr:itext('/data/como_registra_costos:label')"/>
+      <item>
+        <label ref="jr:itext('/data/como_registra_costos:option0')"/>
+        <value>cultivos_juntos</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/como_registra_costos:option1')"/>
+        <value>cada_cultivo</value>
+      </item>
+    </select1>
+    <select1 ref="/data/momento_siembra">
+      <label ref="jr:itext('/data/momento_siembra:label')"/>
+      <item>
+        <label ref="jr:itext('/data/momento_siembra:option0')"/>
+        <value>condiciones_agroclimaticas</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/momento_siembra:option1')"/>
+        <value>ciclo_lunar</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/momento_siembra:option2')"/>
+        <value>plagas_o_enfermedades</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/momento_siembra:option3')"/>
+        <value>demanda_mercado</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/momento_siembra:option4')"/>
+        <value>disponibilidad_recursos</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/momento_siembra:option5')"/>
+        <value>madurez_comercial</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/momento_siembra:option6')"/>
+        <value>madurez_fisiologica</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/momento_siembra:option7')"/>
+        <value>contenido_humedad_grano</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/momento_siembra:option8')"/>
+        <value>metodo_tradicional_local</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/momento_siembra:option9')"/>
+        <value>sonido</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/momento_siembra:option10')"/>
+        <value>variedad</value>
+      </item>
+    </select1>
+    <input ref="/data/especifique_metodo_tadicional">
+      <label ref="jr:itext('/data/especifique_metodo_tadicional:label')"/>
+    </input>
+    <select1 ref="/data/como_realizo_siembra">
+      <label ref="jr:itext('/data/como_realizo_siembra:label')"/>
+      <item>
+        <label ref="jr:itext('/data/como_realizo_siembra:option0')"/>
+        <value>agricultor_familia</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/como_realizo_siembra:option1')"/>
+        <value>por_jornales</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/como_realizo_siembra:option2')"/>
+        <value>comunidad_sin_pago</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/como_realizo_siembra:option3')"/>
+        <value>agricultor</value>
+      </item>
+    </select1>
+    <input ref="/data/fecha_siembra">
+      <label ref="jr:itext('/data/fecha_siembra:label')"/>
+    </input>
+    <select1 ref="/data/sembrado_en">
+      <label ref="jr:itext('/data/sembrado_en:label')"/>
+      <item>
+        <label ref="jr:itext('/data/sembrado_en:option0')"/>
+        <value>surco</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/sembrado_en:option1')"/>
+        <value>plano</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/sembrado_en:option2')"/>
+        <value>cama</value>
+      </item>
+    </select1>
+    <group ref="/data/siembra" appearance="field-list">
+      <label ref="jr:itext('/data/siembra:label')"/>
+      <select1 ref="/data/siembra/arreglo">
+        <label ref="jr:itext('/data/siembra/arreglo:label')"/>
+        <item>
+          <label ref="jr:itext('/data/siembra/arreglo:option0')"/>
+          <value>hilera</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/siembra/arreglo:option1')"/>
+          <value>doble_hilera</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/siembra/arreglo:option2')"/>
+          <value>triple_hilera</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/siembra/arreglo:option3')"/>
+          <value>voleo_desparramado</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/siembra/arreglo:option4')"/>
+          <value>mateado</value>
+        </item>
+      </select1>
+      <select1 ref="/data/siembra/considero_pendiente" appearance="minimal">
+        <label ref="jr:itext('/data/siembra/considero_pendiente:label')"/>
+        <item>
+          <label ref="jr:itext('/data/siembra/considero_pendiente:option0')"/>
+          <value>si</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/siembra/considero_pendiente:option1')"/>
+          <value>no</value>
+        </item>
+      </select1>
+      <select1 ref="/data/siembra/parte_surco" appearance="minimal">
+        <label ref="jr:itext('/data/siembra/parte_surco:label')"/>
+        <item>
+          <label ref="jr:itext('/data/siembra/parte_surco:option0')"/>
+          <value>superior</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/siembra/parte_surco:option1')"/>
+          <value>inferior</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/siembra/parte_surco:option2')"/>
+          <value>ambas</value>
+        </item>
+      </select1>
+      <input ref="/data/siembra/densidad">
+        <label ref="jr:itext('/data/siembra/densidad:label')"/>
+      </input>
+      <input ref="/data/siembra/plantas_mata">
+        <label ref="jr:itext('/data/siembra/plantas_mata:label')"/>
+      </input>
+      <input ref="/data/siembra/distan_entre_plantas">
+        <label ref="jr:itext('/data/siembra/distan_entre_plantas:label')"/>
+      </input>
+      <input ref="/data/siembra/distancia_entre_surcos">
+        <label ref="jr:itext('/data/siembra/distancia_entre_surcos:label')"/>
+      </input>
+    </group>
+    <select ref="/data/metodo_siembra">
+      <label ref="jr:itext('/data/metodo_siembra:label')"/>
+      <item>
+        <label ref="jr:itext('/data/metodo_siembra:option0')"/>
+        <value>manual</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/metodo_siembra:option1')"/>
+        <value>animal</value>
+      </item>
+      <item>
+        <label ref="jr:itext('/data/metodo_siembra:option2')"/>
+        <value>motorizado</value>
+      </item>
+    </select>
+    <group ref="/data/implemento_manual">
+      <label ref="jr:itext('/data/implemento_manual:label')"/>
+      <select1 ref="/data/implemento_manual/numero_utilizados">
+        <label ref="jr:itext('/data/implemento_manual/numero_utilizados:label')"/>
+        <item>
+          <label ref="jr:itext('/data/implemento_manual/numero_utilizados:option0')"/>
+          <value>1</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/implemento_manual/numero_utilizados:option1')"/>
+          <value>2</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/implemento_manual/numero_utilizados:option2')"/>
+          <value>3</value>
+        </item>
+      </select1>
+      <select1 ref="/data/implemento_manual/implemento_usado">
+        <label ref="jr:itext('/data/implemento_manual/implemento_usado:label')"/>
+        <hint ref="jr:itext('/data/implemento_manual/implemento_usado:hint')"/>
+        <item>
+          <label ref="jr:itext('/data/implemento_manual/implemento_usado:option0')"/>
+          <value>lampilla</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/implemento_manual/implemento_usado:option1')"/>
+          <value>pala</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/implemento_manual/implemento_usado:option2')"/>
+          <value>picota</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/implemento_manual/implemento_usado:option3')"/>
+          <value>arado</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/implemento_manual/implemento_usado:option4')"/>
+          <value>otro</value>
+        </item>
+      </select1>
+      <input ref="/data/implemento_manual/otro_especifique">
+        <label ref="jr:itext('/data/implemento_manual/otro_especifique:label')"/>
+      </input>
+      <input ref="/data/implemento_manual/otro">
+        <label ref="jr:itext('/data/implemento_manual/otro:label')"/>
+      </input>
+      <group ref="/data/implemento_manual/jornales" appearance="field-list">
+        <label ref="jr:itext('/data/implemento_manual/jornales:label')"/>
+        <input ref="/data/implemento_manual/jornales/numero_personas">
+          <label ref="jr:itext('/data/implemento_manual/jornales/numero_personas:label')"/>
+        </input>
+        <input ref="/data/implemento_manual/jornales/costo_">
+          <label ref="jr:itext('/data/implemento_manual/jornales/costo_:label')"/>
+        </input>
+        <input ref="/data/implemento_manual/jornales/utilizadas">
+          <label ref="jr:itext('/data/implemento_manual/jornales/utilizadas:label')"/>
+        </input>
+        <input ref="/data/implemento_manual/jornales/duracion">
+          <label ref="jr:itext('/data/implemento_manual/jornales/duracion:label')"/>
+        </input>
+      </group>
+    </group>
+    <group ref="/data/animal">
+      <label ref="jr:itext('/data/animal:label')"/>
+      <select1 ref="/data/animal/tipo">
+        <label ref="jr:itext('/data/animal/tipo:label')"/>
+        <item>
+          <label ref="jr:itext('/data/animal/tipo:option0')"/>
+          <value>caballo</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/animal/tipo:option1')"/>
+          <value>mula</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/animal/tipo:option2')"/>
+          <value>bueyes</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/animal/tipo:option3')"/>
+          <value>burro</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/animal/tipo:option4')"/>
+          <value>otro</value>
+        </item>
+      </select1>
+      <input ref="/data/animal/otro_tipo">
+        <label ref="jr:itext('/data/animal/otro_tipo:label')"/>
+      </input>
+      <input ref="/data/animal/costo">
+        <label ref="jr:itext('/data/animal/costo:label')"/>
+      </input>
+      <input ref="/data/animal/horas_actividad">
+        <label ref="jr:itext('/data/animal/horas_actividad:label')"/>
+      </input>
+      <select1 ref="/data/animal/implemento">
+        <label ref="jr:itext('/data/animal/implemento:label')"/>
+        <item>
+          <label ref="jr:itext('/data/animal/implemento:option0')"/>
+          <value>arado</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/animal/implemento:option1')"/>
+          <value>disco_inclinado</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/animal/implemento:option2')"/>
+          <value>disco_horizontal</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/animal/implemento:option3')"/>
+          <value>disco_vertical</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/animal/implemento:option4')"/>
+          <value>otro</value>
+        </item>
+      </select1>
+      <input ref="/data/animal/otro_implemento">
+        <label ref="jr:itext('/data/animal/otro_implemento:label')"/>
+      </input>
+      <select1 ref="/data/animal/implemento_es">
+        <label ref="jr:itext('/data/animal/implemento_es:label')"/>
+        <item>
+          <label ref="jr:itext('/data/animal/implemento_es:option0')"/>
+          <value>propio</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/animal/implemento_es:option1')"/>
+          <value>prestado_sin_costo</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/animal/implemento_es:option2')"/>
+          <value>arrendado</value>
+        </item>
+      </select1>
+    </group>
+    <group ref="/data/implemento_motorizado">
+      <label ref="jr:itext('/data/implemento_motorizado:label')"/>
+      <select1 ref="/data/implemento_motorizado/especifique">
+        <label ref="jr:itext('/data/implemento_motorizado/especifique:label')"/>
+        <item>
+          <label ref="jr:itext('/data/implemento_motorizado/especifique:option0')"/>
+          <value>plato_horizontal</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/implemento_motorizado/especifique:option1')"/>
+          <value>plato_vertical</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/implemento_motorizado/especifique:option2')"/>
+          <value>plato_inclinado</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/implemento_motorizado/especifique:option3')"/>
+          <value>semi-precision</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/implemento_motorizado/especifique:option4')"/>
+          <value>neumatica</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/implemento_motorizado/especifique:option5')"/>
+          <value>hidraulica</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/implemento_motorizado/especifique:option6')"/>
+          <value>otro</value>
+        </item>
+      </select1>
+      <input ref="/data/implemento_motorizado/especifique_otro">
+        <label ref="jr:itext('/data/implemento_motorizado/especifique_otro:label')"/>
+      </input>
+      <select1 ref="/data/implemento_motorizado/tipo_tractor">
+        <label ref="jr:itext('/data/implemento_motorizado/tipo_tractor:label')"/>
+        <item>
+          <label ref="jr:itext('/data/implemento_motorizado/tipo_tractor:option0')"/>
+          <value>2_ruedas</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/implemento_motorizado/tipo_tractor:option1')"/>
+          <value>4_ruedas</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/implemento_motorizado/tipo_tractor:option2')"/>
+          <value>motor_electrico</value>
+        </item>
+      </select1>
+      <input ref="/data/implemento_motorizado/caballos_fueza">
+        <label ref="jr:itext('/data/implemento_motorizado/caballos_fueza:label')"/>
+      </input>
+      <select1 ref="/data/implemento_motorizado/es">
+        <label ref="jr:itext('/data/implemento_motorizado/es:label')"/>
+        <item>
+          <label ref="jr:itext('/data/implemento_motorizado/es:option0')"/>
+          <value>propio</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/implemento_motorizado/es:option1')"/>
+          <value>prestado_sin_costo</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/implemento_motorizado/es:option2')"/>
+          <value>arrendado</value>
+        </item>
+      </select1>
+      <select1 ref="/data/implemento_motorizado/costo_renta_incluye_operacion">
+        <label ref="jr:itext('/data/implemento_motorizado/costo_renta_incluye_operacion:label')"/>
+        <item>
+          <label ref="jr:itext('/data/implemento_motorizado/costo_renta_incluye_operacion:option0')"/>
+          <value>si</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/implemento_motorizado/costo_renta_incluye_operacion:option1')"/>
+          <value>no</value>
+        </item>
+      </select1>
+      <input ref="/data/implemento_motorizado/modelo">
+        <label ref="jr:itext('/data/implemento_motorizado/modelo:label')"/>
+      </input>
+      <input ref="/data/implemento_motorizado/horas">
+        <label ref="jr:itext('/data/implemento_motorizado/horas:label')"/>
+      </input>
+      <input ref="/data/implemento_motorizado/costo_actividad">
+        <label ref="jr:itext('/data/implemento_motorizado/costo_actividad:label')"/>
+      </input>
+      <select1 ref="/data/implemento_motorizado/quien_realiza">
+        <label ref="jr:itext('/data/implemento_motorizado/quien_realiza:label')"/>
+        <item>
+          <label ref="jr:itext('/data/implemento_motorizado/quien_realiza:option0')"/>
+          <value>productor</value>
+        </item>
+        <item>
+          <label ref="jr:itext('/data/implemento_motorizado/quien_realiza:option1')"/>
+          <value>pago_actividad</value>
+        </item>
+      </select1>
+      <input ref="/data/implemento_motorizado/antiguedad">
+        <label ref="jr:itext('/data/implemento_motorizado/antiguedad:label')"/>
+      </input>
+      <input ref="/data/implemento_motorizado/costo_combustible">
+        <label ref="jr:itext('/data/implemento_motorizado/costo_combustible:label')"/>
+      </input>
+      <input ref="/data/implemento_motorizado/consumo_combustible">
+        <label ref="jr:itext('/data/implemento_motorizado/consumo_combustible:label')"/>
+      </input>
+    </group>
+  </h:body>
+</h:html>
