@@ -1,0 +1,34 @@
+# Remote sensing tools
+
+## Introduction
+
+xx
+
+## Tools
+
+xx
+
+## etc
+
+# GrADS Analysis Script Example
+
+This is a short example of a GrADS script written in GCL for analyzing and visualizing temperature data.
+
+## Prerequisites
+- GrADS software installed
+- Data file "datafile.nc" with 2-meter temperature variable available
+
+## How to Use
+1. Make sure you have GrADS installed on your system.
+2. Place the provided data file "datafile.nc" in the same directory as this script.
+3. Open a terminal or command prompt and navigate to the script directory.
+4. Run the script using the following command:
+
+```grads
+'open datafile.nc'
+'set lon 0 360'
+'set lat -90 90'
+'d set time 1'
+'d t2m'
+'draw t2m'
+```
