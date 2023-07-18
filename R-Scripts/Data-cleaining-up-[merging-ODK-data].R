@@ -1,28 +1,5 @@
-
-# Agronomic data digitization
-
-xx
-
-## e-Agrology platform
-
-The e-Agrology platform (<https://e-agrology.org/>) is being used to collect general/relevant data about farmers, sowing events, used crops/varieties, technical visits to farmers' plots, harvest events, and productivity (each of these is a log module of the e-Agrology). This platform has been developed by the CIMMYT team and it basically consists of well-thinking designed by experts surveys to obtain information directly from farmers. We plan to complete the records of the six previously mentioned modules (farmer, sowing, crop, visit, harvest, and productivity) for about 600 farmers. Currently, most modules are almost 100% done, with just the harvest and productivity modules being just at ~60% done. Since information related to inputs used by farmers (use of manure, fertilizers, etc.) is necessary for the stochastic frontiers analysis (see below), we plan to start recording data also in the inputs module of the e-Agrology.
-
-```{r, echo=FALSE, fig.align='center', out.width = "85%", fig.cap='Figure: Login window of the e-Agrology platform.'}
-knitr::include_graphics("https://github.com/jninanya/eia-project-summary/blob/cb012242f1f906eb82e99b505dd79a92229200a3/R-Bookdown/Figures/L1-e-Agrology-login-windonw.jpg")
-```
-
-
-## Data collection
-
-xx
-
-## Data cleaning up
-
-Here we . Raw data can be download [here](https://github.com/jninanya), however the final dataset ready for any analysis (as result of this cleaning up process) can be downolad [here](https://github.com/jninanya). To see the R chunk code click on `code`.
-
-```{r class.source='fold-hide', collapse=TRUE, message=FALSE, results='hide', warning=FALSE}
 # clean R environment
-# rm(list = ls())
+rm(list = ls())
 
 # loading libraries
 library(openxlsx)
@@ -175,11 +152,77 @@ p2$seed_transportation_cost <- as.numeric(p2$seed_transportation_cost)
 p1$seed_time <- as.numeric(p1$seed_time)
 p2$seed_time <- as.numeric(p2$seed_time)
 
-# final data frame for farmer log
+# final dataframe for farmer log
 L1 = full_join(p1, p2)
 LOG[[1]] <- L1
 names(LOG)[1] <- "farmer_log"
-```
+
+
+################################################################################
+# 2 - MERGING SOWING LOGS
+################################################################################
+# read data
+part1 <- "https://raw.githubusercontent.com/jninanya/eia-project-summary/main/CSVs/sowing-log-p1.csv"
+part2 <- "https://raw.githubusercontent.com/jninanya/eia-project-summary/main/CSVs/sowing-log-p2.csv"
+
+p1 <- read.csv(url(part1))
+p2 <- read.csv(url(part2))
+
+colnames(p1) <- correct_colnames(colnames(p1), omit.str = "data_")
+colnames(p2) <- correct_colnames(colnames(p2), omit.str = "data_")
+
+# This part is a bit manual
+# Here we have to homogenize/rename different colnames of the same variable 
+# Lets run the next code line and see how its output change every running
+check_colnames_df(colnames(p1), colnames(p2))
+
+# after run 1: "x" in p2 is "meta_instanceid"
+colnames(p2)[1] <- "meta_instanceid"
+
+# after run 2: renaming some col names
+colnames(p1)[6] <- colnames(p2)[3] <- "owner"
+colnames(p1)[7] <- colnames(p2)[4] <- "activity"
+colnames(p1)[8] <- colnames(p2)[5] <- "previous_crop"
+colnames(p1)[9] <- colnames(p2)[6] <- "other_previous_crop"
+colnames(p1)[10] <- colnames(p2)[7] <- "sowed_area"
+colnames(p1)[11] <- colnames(p2)[8] <- "cost_registration_method"
+colnames(p1)[12] <- colnames(p2)[9] <- "sowing_timing-factors"
+colnames(p1)[13] <- colnames(p2)[10] <- "traditional_method"
+colnames(p1)[14] <- colnames(p2)[11] <- "how_sowing_was_done"
+colnames(p1)[15] <- colnames(p2)[12] <- "sowing_date"
+colnames(p1)[16] <- colnames(p2)[13] <- "sowing_in"
+colnames(p1)[17] <- colnames(p2)[14] <- "sowing_arrangement"
+colnames(p1)[18] <- colnames(p2)[15] <- "was_slope_considered"
+colnames(p1)[19] <- colnames(p2)[16] <- "furrow_side"
+colnames(p1)[20] <- colnames(p2)[17] <- "plant_density"
+colnames(p1)[21] <- colnames(p2)[18] <- "plants_per_sowing_point"
+colnames(p1)[22] <- colnames(p2)[19] <- "plant_distance"
+colnames(p1)[23] <- colnames(p2)[20] <- "row_distance"
+colnames(p1)[24] <- colnames(p2)[21] <- "sowing_method"
+colnames(p1)[] <- colnames(p2)[] <- ""
+colnames(p1)[] <- colnames(p2)[] <- ""
+colnames(p1)[] <- colnames(p2)[] <- ""
+colnames(p1)[] <- colnames(p2)[] <- ""
+colnames(p1)[] <- colnames(p2)[] <- ""
+
+
+
+colnames(p1)[] <- colnames(p2)[] <- ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
