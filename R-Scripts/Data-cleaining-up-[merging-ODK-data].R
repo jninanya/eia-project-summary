@@ -199,11 +199,24 @@ colnames(p1)[21] <- colnames(p2)[18] <- "plants_per_sowing_point"
 colnames(p1)[22] <- colnames(p2)[19] <- "plant_distance"
 colnames(p1)[23] <- colnames(p2)[20] <- "row_distance"
 colnames(p1)[24] <- colnames(p2)[21] <- "sowing_method"
+colnames(p1)[25] <- colnames(p2)[22] <- "number_of_sowing_tools_used"
+colnames(p1)[26] <- colnames(p2)[23] <- "sowing_tool_used"
+colnames(p1)[27] <- colnames(p2)[24] <- "other_sowing_tool_used"
+colnames(p1)[28] <- colnames(p2)[25] <- "other2_sowing_tool_used"
 colnames(p1)[] <- colnames(p2)[] <- ""
 colnames(p1)[] <- colnames(p2)[] <- ""
 colnames(p1)[] <- colnames(p2)[] <- ""
 colnames(p1)[] <- colnames(p2)[] <- ""
 colnames(p1)[] <- colnames(p2)[] <- ""
+colnames(p1)[] <- colnames(p2)[] <- ""
+colnames(p1)[] <- colnames(p2)[] <- ""
+colnames(p1)[] <- colnames(p2)[] <- ""
+colnames(p1)[] <- colnames(p2)[] <- ""
+colnames(p1)[] <- colnames(p2)[] <- ""
+colnames(p1)[] <- colnames(p2)[] <- ""
+colnames(p1)[] <- colnames(p2)[] <- ""
+colnames(p1)[] <- colnames(p2)[] <- ""
+colnames(p1)[] <- colnames(p2)[] <- "" 
 
 
 
@@ -215,9 +228,8 @@ colnames(p1)[] <- colnames(p2)[] <- ""
 
 
 
-
-
-
+#rfun <- "https://raw.githubusercontent.com/jninanya/eia-project-summary/main/R-Scripts/test_function.R"
+#source(url(rfun))
 
 
 
