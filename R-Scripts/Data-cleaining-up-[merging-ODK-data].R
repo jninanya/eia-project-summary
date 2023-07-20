@@ -180,7 +180,7 @@ check_colnames_df(colnames(p1), colnames(p2))
 colnames(p2)[1] <- "meta_instanceid"
 
 # after run 2: renaming some col names
-colnames(p1)[6] <- colnames(p2)[3] <- "owner"
+colnames(p1)[6] <- colnames(p2)[3] <- "plot_owner"
 colnames(p1)[7] <- colnames(p2)[4] <- "activity"
 colnames(p1)[8] <- colnames(p2)[5] <- "previous_crop"
 colnames(p1)[9] <- colnames(p2)[6] <- "other_previous_crop"
@@ -203,24 +203,55 @@ colnames(p1)[25] <- colnames(p2)[22] <- "number_of_sowing_tools_used"
 colnames(p1)[26] <- colnames(p2)[23] <- "sowing_tool_used"
 colnames(p1)[27] <- colnames(p2)[24] <- "other_sowing_tool_used"
 colnames(p1)[28] <- colnames(p2)[25] <- "other2_sowing_tool_used"
-colnames(p1)[] <- colnames(p2)[] <- ""
-colnames(p1)[] <- colnames(p2)[] <- ""
-colnames(p1)[] <- colnames(p2)[] <- ""
-colnames(p1)[] <- colnames(p2)[] <- ""
-colnames(p1)[] <- colnames(p2)[] <- ""
-colnames(p1)[] <- colnames(p2)[] <- ""
-colnames(p1)[] <- colnames(p2)[] <- ""
-colnames(p1)[] <- colnames(p2)[] <- ""
-colnames(p1)[] <- colnames(p2)[] <- ""
-colnames(p1)[] <- colnames(p2)[] <- ""
-colnames(p1)[] <- colnames(p2)[] <- ""
-colnames(p1)[] <- colnames(p2)[] <- ""
-colnames(p1)[] <- colnames(p2)[] <- ""
-colnames(p1)[] <- colnames(p2)[] <- "" 
+colnames(p1)[29] <- colnames(p2)[26] <- "person_per_labor"
+colnames(p1)[30] <- colnames(p2)[27] <- "person_labor_cost"
+colnames(p1)[31] <- colnames(p2)[28] <- "person_labor_amount"
+colnames(p1)[32] <- colnames(p2)[29] <- "hours_of_person_labor"
+colnames(p1)[33] <- colnames(p2)[30] <- "animal_type"
+colnames(p1)[34] <- colnames(p2)[31] <- "other_animal_type"
+colnames(p1)[35] <- colnames(p2)[32] <- "animal_labor_cost"
+colnames(p1)[36] <- colnames(p2)[33] <- "hours_of_animal_labor"
+colnames(p1)[37] <- colnames(p2)[34] <- "tool_animal_labor"
+colnames(p1)[38] <- colnames(p2)[35] <- "other_tool_animal_labor"
+colnames(p1)[39] <- colnames(p2)[36] <- "is_animal_labor_tool_own"
+
+# after run 3
+colnames(p1) <- correct_colnames(colnames(p1), omit.str = "implemento_motorizado_")
+colnames(p2) <- correct_colnames(colnames(p2), omit.str = "implemento_motorizado_")
+
+# final colnames
+check_colnames_df(colnames(p1), colnames(p2))
+ccdf <- check_colnames_df(colnames(p1), colnames(p2))
+cnames <- ccdf$cnames[ccdf$in.both]
+
+# select final data frames
+p1 <- p1[, cnames]
+p2 <- p2[, cnames]
+#full_join(p1, p2)
+
+# changing type of variables (see results of full_join(p1, p2))
+p1$hours_of_animal_labor <- as.numeric(p1$hours_of_animal_labor)
+p2$hours_of_animal_labor <- as.numeric(p2$hours_of_animal_labor)
+
+# final dataframe for farmer log
+L2 = full_join(p1, p2)
+LOG[[2]] <- L2
+names(LOG)[2] <- "sowing_log"
 
 
 
-colnames(p1)[] <- colnames(p2)[] <- ""
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -1,0 +1,1479 @@
+data-meta-instanceID,data-id,data-date,data-extensionista,data-otro_extensionista,data-informacion_general-productor,data-informacion_general-nombre_parcela,data-informacion_general-superficie,data-productividad-cultivo,data-productividad-relacion_anno_anterior,data-productividad-factores,data-productividad-otro_factor1,data-productividad-factor_ambiental,data-productividad-otro_factor_ambiental,data-productividad-factor_manejo,data-productividad-otro_facto_manejo,data-productividad-cuantos_productor_cosecho,data-productividad-producto,KEY
+uuid:81a8f770-0479-4bac-9940-86bd98bae1b0,collect:JthEaSZPvOl57aDK,18/05/22 20:41,wilson_mendoza, ,Heber Chirado Acosta,PA- 1,innovacion,Papa,no_sembro,factores_ambientales, ,sequia, ,riego, ,1,data-productividad-producto,uuid:81a8f770-0479-4bac-9940-86bd98bae1b0
+uuid:8f4c8cc3-f877-4f71-90e3-e314d8f907c7,collect:x0pmfLv6AGoCj3zt,03/05/22 12:13,jose_cieza, ,Flavio Flores Sicce,TA-9,innovacion,Papa,menor,factores_ambientales, ,otro,Fuertes lluvias, , ,3,data-productividad-producto,uuid:8f4c8cc3-f877-4f71-90e3-e314d8f907c7
+uuid:93fa1983-2c67-48d4-84d3-77b1f2ffc3e9,collect:x0pmfLv6AGoCj3zt,18/05/22 22:12,jose_cieza, ,Eulalia Medina Sixe,TA-8,innovacion,Papa,menor,factores_manejo, , , ,control_plagas_enfermedades, ,2,data-productividad-producto,uuid:93fa1983-2c67-48d4-84d3-77b1f2ffc3e9
+uuid:35685a35-426e-4f72-a2da-169dfbfa3aa8,collect:x0pmfLv6AGoCj3zt,18/05/22 22:50,jose_cieza, ,Lidia Campos Quiroz,TA-5,innovacion,Papa,menor,factores_manejo, , , ,control_plagas_enfermedades, ,3,data-productividad-producto,uuid:35685a35-426e-4f72-a2da-169dfbfa3aa8
+uuid:3142450a-8d8e-45a0-ace5-b43bb6c9109c,collect:x0pmfLv6AGoCj3zt,03/06/22 12:30,jose_cieza, ,Abelino Herrera Quiroz,TA-7,innovacion,Papa,menor,factores_manejo, , , ,control_plagas_enfermedades, ,2,data-productividad-producto,uuid:3142450a-8d8e-45a0-ace5-b43bb6c9109c
+uuid:d36a7762-c7ca-41fe-ae3e-146d9961767b,collect:hmZom2t2hFIm35t9,18/05/22 11:56,enner_arias, ,Isabel Lozano Flores,Gaguiragra,innovacion,Papa,mayor,factores_manejo, , , ,fertilizacion, ,4,data-productividad-producto,uuid:d36a7762-c7ca-41fe-ae3e-146d9961767b
+uuid:51c8665b-c661-46e3-b23a-6b7b04def800,collect:hmZom2t2hFIm35t9,19/05/22 00:00,enner_arias, ,Gregorio Flores Mendoza,Nuevo Saire,innovacion,Papa,mayor,factores_manejo, , , ,fertilizacion, ,3,data-productividad-producto,uuid:51c8665b-c661-46e3-b23a-6b7b04def800
+uuid:a1897e4a-df01-457c-8c99-33f3eb10183c,collect:hmZom2t2hFIm35t9,26/05/22 23:23,enner_arias, ,Nelber Iparraguirre Carlos,Llamacancha,innovacion,Papa,menor,factores_ambientales, ,sequia, ,establecimiento, ,4,data-productividad-producto,uuid:a1897e4a-df01-457c-8c99-33f3eb10183c
+uuid:e10910f8-4680-47d4-af1f-83ab04283715,collect:hmZom2t2hFIm35t9,26/05/22 23:40,enner_arias, ,Ernesto Bustamante Iparraguirre,Los Pinos,innovacion,Papa,mayor,factores_manejo, , , ,fertilizacion, ,4,data-productividad-producto,uuid:e10910f8-4680-47d4-af1f-83ab04283715
+uuid:874d6e52-1bf6-48ab-ba5a-81e38fc9ce09,collect:hmZom2t2hFIm35t9,03/06/22 09:51,enner_arias, ,Felista Sixe Flores,TA-10,innovacion,Papa,menor,factores_manejo, , , ,control_plagas_enfermedades, ,3,data-productividad-producto,uuid:874d6e52-1bf6-48ab-ba5a-81e38fc9ce09
+uuid:d0ed020c-5952-46a9-b01b-b55b00e94de6,collect:hmZom2t2hFIm35t9,26/05/22 13:49,enner_arias, ,Noemí Bustamante Iparraguirre,TA-11,innovacion,Papa,igual, , , , , , ,3,data-productividad-producto,uuid:d0ed020c-5952-46a9-b01b-b55b00e94de6
+uuid:02d8a958-a01a-4830-9cc7-7ee727b6b73c,collect:hmZom2t2hFIm35t9,20/05/22 08:50,enner_arias, ,Óscar Sopán Quiroz,TA-12,innovacion,Papa,igual, , , , , , ,4,data-productividad-producto,uuid:02d8a958-a01a-4830-9cc7-7ee727b6b73c
+uuid:6ddc9ff0-3c0d-4059-8203-3d059bf4d5c9,collect:hmZom2t2hFIm35t9,19/05/22 10:36,enner_arias, ,Monge Sopán Muñoz,TA-4,innovacion,Papa,mayor,factores_manejo, , , ,"control_plagas_enfermedades, fertilizacion", ,4,data-productividad-producto,uuid:6ddc9ff0-3c0d-4059-8203-3d059bf4d5c9
+uuid:ea76fb09-0e3f-46f1-a61f-2b2eec6eee1c,collect:hmZom2t2hFIm35t9,13/05/22 11:14,enner_arias, ,Flaviana Quiroz Iparraguirre,TA-14,innovacion,Papa,mayor,factores_manejo, , , ,fertilizacion, ,4,data-productividad-producto,uuid:ea76fb09-0e3f-46f1-a61f-2b2eec6eee1c
+uuid:c5672a30-780d-4a1a-aad7-419b09b52dfe,collect:hmZom2t2hFIm35t9,04/06/22 08:55,enner_arias, ,Monge Sopán Muñoz,TA-13,innovacion,Papa,igual, , , , , , ,4,data-productividad-producto,uuid:c5672a30-780d-4a1a-aad7-419b09b52dfe
+uuid:5fff7e1c-f277-4817-9db9-688780d88b05,collect:VHYfuVnvFfA0m4ra,21/02/22 15:35,eli_diaz, ,Asunción Esteban Gomez, ,innovacion,Papa,no_sembro, , , , , , ,3,data-productividad-producto,uuid:5fff7e1c-f277-4817-9db9-688780d88b05
+uuid:1033dfb5-db40-4d58-8a22-c6656f2387e8,collect:VHYfuVnvFfA0m4ra,21/02/22 16:07,eli_diaz, ,Martin Vasquez Vidal, ,innovacion,Papa,no_sembro, , , , , , ,3,data-productividad-producto,uuid:1033dfb5-db40-4d58-8a22-c6656f2387e8
+uuid:624ea885-98ea-4b5b-a317-8c50bf51f30e,collect:VHYfuVnvFfA0m4ra,21/02/22 16:33,eli_diaz, ,Juan Robles Sandobal, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:624ea885-98ea-4b5b-a317-8c50bf51f30e
+uuid:87494211-794a-4333-9f29-77610ecda159,collect:VHYfuVnvFfA0m4ra,21/02/22 16:44,eli_diaz,,Patrocinio Robles Garcia, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:87494211-794a-4333-9f29-77610ecda159
+uuid:12fd2117-d758-4273-9468-8376305cb661,collect:VHYfuVnvFfA0m4ra,21/02/22 19:15,eli_diaz,,Gaspar Briceño Ruiz, ,innovacion,Papa,no_sembro, , , , , , ,2,data-productividad-producto,uuid:12fd2117-d758-4273-9468-8376305cb661
+uuid:0a86d401-c1c4-41f8-b226-b4567e35509f,collect:VHYfuVnvFfA0m4ra,21/02/22 20:52,eli_diaz,,Jaime Carranza Fabian, ,innovacion,Papa,no_sembro, , , , , , ,2,data-productividad-producto,uuid:0a86d401-c1c4-41f8-b226-b4567e35509f
+uuid:e329184b-48cd-43e0-a581-4bff57cb1cb6,collect:VHYfuVnvFfA0m4ra,21/02/22 21:08,eli_diaz,,Bulmer Chacon Rodriguez, ,innovacion,Papa,no_sembro, , , , , , ,2,data-productividad-producto,uuid:e329184b-48cd-43e0-a581-4bff57cb1cb6
+uuid:52e9198d-96eb-4013-b4fe-04c5e4bad861,collect:VHYfuVnvFfA0m4ra,21/02/22 21:16,eli_diaz,,Santos Antero Polo Castillo, ,innovacion,Papa,no_sembro, , , , , , ,2,data-productividad-producto,uuid:52e9198d-96eb-4013-b4fe-04c5e4bad861
+uuid:c7ff79f6-4356-4296-8102-423344c46e3d,collect:VHYfuVnvFfA0m4ra,21/02/22 21:21,eli_diaz,,Isaac Joguer Jalca Campos, ,innovacion,Papa,no_sembro, , , , , , ,2,data-productividad-producto,uuid:c7ff79f6-4356-4296-8102-423344c46e3d
+uuid:6e86f185-0b9d-4a6b-b19c-ee7f4f907f6e,collect:VHYfuVnvFfA0m4ra,25/02/22 16:00,eli_diaz,,Audocio Contreras Otiniano, ,innovacion,Papa,no_sembro, , , , , , ,3,data-productividad-producto,uuid:6e86f185-0b9d-4a6b-b19c-ee7f4f907f6e
+uuid:113fed24-2eac-435d-b04d-fd7d27d805f7,collect:VHYfuVnvFfA0m4ra,25/02/22 17:51,eli_diaz,,Justiniano Murga Arce, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:113fed24-2eac-435d-b04d-fd7d27d805f7
+uuid:5a51eb6b-6a53-45fb-ad85-e58ddffb1b81,collect:VHYfuVnvFfA0m4ra,25/02/22 18:14,eli_diaz,,Milagros Ruiz Carranza, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:5a51eb6b-6a53-45fb-ad85-e58ddffb1b81
+uuid:1678725e-6743-4d2a-bc6a-8b5d59e3a02d,collect:VHYfuVnvFfA0m4ra,25/02/22 18:27,eli_diaz,,Modesto Murga Campos, ,innovacion,Papa,no_sembro, , , , , , ,3,data-productividad-producto,uuid:1678725e-6743-4d2a-bc6a-8b5d59e3a02d
+uuid:aabc66a5-85ff-4ee1-a319-b7785bc0e3c5,collect:VHYfuVnvFfA0m4ra,25/02/22 18:40,eli_diaz,,Ethelvil Vazques Marquina, ,innovacion,Papa,no_sembro, , , , , , ,3,data-productividad-producto,uuid:aabc66a5-85ff-4ee1-a319-b7785bc0e3c5
+uuid:a4c1912a-b530-42f5-840b-8e8c47e2bd7b,collect:VHYfuVnvFfA0m4ra,25/02/22 19:06,eli_diaz,,Fabio Villalobos Laiza, ,innovacion,Papa,no_sembro, , , , , , ,3,data-productividad-producto,uuid:a4c1912a-b530-42f5-840b-8e8c47e2bd7b
+uuid:48023a39-279a-48f4-9d48-564b36d060dc,collect:VHYfuVnvFfA0m4ra,02/03/22 15:59,eli_diaz,,Genara Esteban Flores, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:48023a39-279a-48f4-9d48-564b36d060dc
+uuid:aba58b54-3587-4208-9800-41f9dc98463e,collect:VHYfuVnvFfA0m4ra,04/03/22 14:31,eli_diaz,,Victor Esteban Flores, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:aba58b54-3587-4208-9800-41f9dc98463e
+uuid:186b7cff-bb13-4f85-86a7-8ba6642448af,collect:VHYfuVnvFfA0m4ra,04/03/22 15:00,eli_diaz,,Yoselin Araujo Rivera, ,innovacion,Papa,no_sembro, , , , , , ,2,data-productividad-producto,uuid:186b7cff-bb13-4f85-86a7-8ba6642448af
+uuid:2347241d-1481-4258-9f1d-0779967eda90,collect:VHYfuVnvFfA0m4ra,05/03/22 15:15,eli_diaz,,Deyman Araujo Rivera, ,innovacion,Papa,menor,factores_ambientales, ,sequia, , , ,1,data-productividad-producto,uuid:2347241d-1481-4258-9f1d-0779967eda90
+uuid:5487fe65-532e-4a85-a806-9c9313412c29,collect:VHYfuVnvFfA0m4ra,08/03/22 11:08,eli_diaz,,Manuel Mauricio Segura, ,innovacion,Papa,no_sembro,factores_ambientales, ,otro,,"control_plagas_enfermedades, fertilizacion", ,1,data-productividad-producto,uuid:5487fe65-532e-4a85-a806-9c9313412c29
+uuid:c89889f5-67ba-4f6e-ab9d-fd48c159e07b,collect:VHYfuVnvFfA0m4ra,08/03/22 11:15,eli_diaz,,Corpus Rios Mauricio, ,innovacion,Papa,no_sembro, , , , , , ,3,data-productividad-producto,uuid:c89889f5-67ba-4f6e-ab9d-fd48c159e07b
+uuid:26607052-d09f-4d40-92cc-70cb39a7bb3d,collect:VHYfuVnvFfA0m4ra,08/03/22 11:23,eli_diaz,,Luis Owaldo Vaca Rios, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:26607052-d09f-4d40-92cc-70cb39a7bb3d
+uuid:8cf0bf05-3fc4-4ec8-a2a3-e426b90120c7,collect:VHYfuVnvFfA0m4ra,08/03/22 11:26,eli_diaz,,Juan Ever Marcelo Cruzado, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:8cf0bf05-3fc4-4ec8-a2a3-e426b90120c7
+uuid:f6fc78df-16fe-42a9-8881-dc1769a31d0b,collect:VHYfuVnvFfA0m4ra,08/03/22 11:28,eli_diaz,,Luis Cruzado Otiniano, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:f6fc78df-16fe-42a9-8881-dc1769a31d0b
+uuid:aafc8890-327f-4d87-9e5e-6ee9b98121d4,collect:VHYfuVnvFfA0m4ra,08/03/22 14:40,eli_diaz,,Felix Alfaro Chacón, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:aafc8890-327f-4d87-9e5e-6ee9b98121d4
+uuid:19aede03-1b6c-4e57-829b-7571555f2d66,collect:VHYfuVnvFfA0m4ra,08/03/22 14:44,eli_diaz,,Edgar Robinson Cruzado Rodríguez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:19aede03-1b6c-4e57-829b-7571555f2d66
+uuid:622ec538-ae90-4ec4-be36-7cc4762a988c,collect:VHYfuVnvFfA0m4ra,08/03/22 14:52,eli_diaz,,Miuler Ruperto Guevara Briseño, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:622ec538-ae90-4ec4-be36-7cc4762a988c
+uuid:a06d542a-b2d6-4fde-8df4-138bf955682c,collect:VHYfuVnvFfA0m4ra,08/03/22 14:54,eli_diaz,,Leonardo Otiniano Alfaro, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:a06d542a-b2d6-4fde-8df4-138bf955682c
+uuid:85788f37-d32e-4f74-8f35-b9600dabf7c3,collect:VHYfuVnvFfA0m4ra,08/03/22 14:58,eli_diaz,,Genaro Salinas Villalobos, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:85788f37-d32e-4f74-8f35-b9600dabf7c3
+uuid:815623ac-f22a-4708-b015-d858a4a1a5fa,collect:VHYfuVnvFfA0m4ra,08/03/22 15:05,eli_diaz,,Santiago Santos Alfaro Moya, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:815623ac-f22a-4708-b015-d858a4a1a5fa
+uuid:75a1c19a-d156-4ad3-887f-2ee4320dcc00,collect:VHYfuVnvFfA0m4ra,08/03/22 15:09,eli_diaz,,Catalina Cornelio Lopez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:75a1c19a-d156-4ad3-887f-2ee4320dcc00
+uuid:dfb9553a-dad2-40c1-83b9-c7d663219f5c,collect:VHYfuVnvFfA0m4ra,08/03/22 15:15,eli_diaz,,Juan Romero Pereda, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:dfb9553a-dad2-40c1-83b9-c7d663219f5c
+uuid:9860377d-5c5a-44ae-a4a4-b44e7095efe3,collect:VHYfuVnvFfA0m4ra,08/03/22 15:21,eli_diaz,,Griselda Bertabel Cruzado Rodríguez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:9860377d-5c5a-44ae-a4a4-b44e7095efe3
+uuid:8fc8e260-17e2-49d5-9d05-8b4a93391f4e,collect:VHYfuVnvFfA0m4ra,08/03/22 15:24,eli_diaz, ,Flor Emerita Cruz Guzman, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:8fc8e260-17e2-49d5-9d05-8b4a93391f4e
+uuid:a3d2530c-4f63-4969-bd65-5dcda8d6e149,collect:VHYfuVnvFfA0m4ra,10/03/22 19:16,eli_diaz, ,Santos Eusebio Perez Polo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:a3d2530c-4f63-4969-bd65-5dcda8d6e149
+uuid:6b7ceadb-848a-4684-a024-d41ea51a3954,collect:VHYfuVnvFfA0m4ra,10/03/22 19:19,eli_diaz, ,Cornelio Ruiz Briceño, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:6b7ceadb-848a-4684-a024-d41ea51a3954
+uuid:a1b739c0-be0e-4fb8-a1c9-4a29542eed67,collect:VHYfuVnvFfA0m4ra,10/03/22 19:22,eli_diaz, ,Jesus Ruiz Briceño, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:a1b739c0-be0e-4fb8-a1c9-4a29542eed67
+uuid:c9c687a6-fcd8-429b-96d9-dd3eeba4c34d,collect:VHYfuVnvFfA0m4ra,10/03/22 19:27,eli_diaz, ,Santos Meza Rodríguez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:c9c687a6-fcd8-429b-96d9-dd3eeba4c34d
+uuid:990a73b9-ae91-4df2-b0a5-d4974091e1eb,collect:VHYfuVnvFfA0m4ra,10/03/22 19:33,eli_diaz, ,Genara Marcelo Cruzado, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:990a73b9-ae91-4df2-b0a5-d4974091e1eb
+uuid:d8a8790c-c329-493b-a8ca-2b5f3c1caf33,collect:VHYfuVnvFfA0m4ra,12/03/22 13:04,eli_diaz, ,Teodora Blas Reyes, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:d8a8790c-c329-493b-a8ca-2b5f3c1caf33
+uuid:5e6423d7-0020-4393-a102-a4be489f91a0,collect:VHYfuVnvFfA0m4ra,12/03/22 13:10,eli_diaz, ,Santos Chacon Avila, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:5e6423d7-0020-4393-a102-a4be489f91a0
+uuid:148fe5fa-b515-467f-a92d-bf979e740e03,collect:VHYfuVnvFfA0m4ra,12/03/22 13:14,eli_diaz, ,Teodocio Marquina Rodríguez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:148fe5fa-b515-467f-a92d-bf979e740e03
+uuid:d55a912b-927a-41e4-bedf-77404808ad24,collect:VHYfuVnvFfA0m4ra,12/03/22 13:24,eli_diaz, ,Helqui Marquina Briceño, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:d55a912b-927a-41e4-bedf-77404808ad24
+uuid:1fc7183e-fd3b-4b9e-9161-10d8b5f9ec88,collect:VHYfuVnvFfA0m4ra,12/03/22 13:28,eli_diaz, ,Corali Carbajal Marquina, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:1fc7183e-fd3b-4b9e-9161-10d8b5f9ec88
+uuid:23b7a049-67d3-448d-a999-18cd4dbbfe38,collect:VHYfuVnvFfA0m4ra,12/03/22 13:56,eli_diaz, ,Osmer Humberto Marquina Carbajal, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:23b7a049-67d3-448d-a999-18cd4dbbfe38
+uuid:b39034c0-d34f-40ca-8a3c-447965009d27,collect:VHYfuVnvFfA0m4ra,12/03/22 14:00,eli_diaz, ,Victor Marquina Cruz, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:b39034c0-d34f-40ca-8a3c-447965009d27
+uuid:6e4b3095-e06d-4454-a108-f8bc82a20257,collect:VHYfuVnvFfA0m4ra,12/03/22 14:12,eli_diaz, ,Ermenegildo Wilberto Marquina Cruz, ,innovacion,Papa,no_sembro, , , , , , ,3,data-productividad-producto,uuid:6e4b3095-e06d-4454-a108-f8bc82a20257
+uuid:4c375e85-1d1f-4375-bc25-93b0b903ca0b,collect:VHYfuVnvFfA0m4ra,12/03/22 14:49,eli_diaz, ,Pablo Elmer Marquina Contreras, ,innovacion,Papa,no_sembro, , , , , , ,3,data-productividad-producto,uuid:4c375e85-1d1f-4375-bc25-93b0b903ca0b
+uuid:cb76adcb-4b85-45a1-af69-581d0f917b0f,collect:VHYfuVnvFfA0m4ra,12/03/22 14:56,eli_diaz, ,Rosali Lara Jara, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:cb76adcb-4b85-45a1-af69-581d0f917b0f
+uuid:0f25b393-378f-4a03-bcb0-eae71f93c689,collect:VHYfuVnvFfA0m4ra,28/03/22 11:48,eli_diaz, ,Roman Emay Ruiz Robles, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:0f25b393-378f-4a03-bcb0-eae71f93c689
+uuid:b2aa569d-3e31-44f8-9051-70777a41ab25,collect:VHYfuVnvFfA0m4ra,28/03/22 12:03,eli_diaz, ,Jose Dolores Segura Revaza, ,innovacion,Papa,no_sembro,otro, , , , , ,1,data-productividad-producto,uuid:b2aa569d-3e31-44f8-9051-70777a41ab25
+uuid:6b35d96a-13f7-43e3-afa1-c8ae7ea1ee97,collect:VHYfuVnvFfA0m4ra,28/03/22 12:09,eli_diaz, ,Lelis Marcial Segura Contreras, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:6b35d96a-13f7-43e3-afa1-c8ae7ea1ee97
+uuid:6330ec87-5b99-4010-b65e-0594fd34d6be,collect:VHYfuVnvFfA0m4ra,30/03/22 09:27,eli_diaz, ,Maximo Chacon Contreras, ,innovacion,Papa,no_sembro,factores_ambientales, ,heladas, ,fertilizacion, ,1,data-productividad-producto,uuid:6330ec87-5b99-4010-b65e-0594fd34d6be
+uuid:0b4d457b-896d-4a94-9033-5735dc1cbcc8,collect:VHYfuVnvFfA0m4ra,30/03/22 09:40,eli_diaz, ,Daniel Castillo Rios, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:0b4d457b-896d-4a94-9033-5735dc1cbcc8
+uuid:1c0ab72b-02c4-455e-99f5-7ab9a8e4227c,collect:VHYfuVnvFfA0m4ra,30/03/22 12:01,eli_diaz, ,Rafael Angel Sare Escobedo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:1c0ab72b-02c4-455e-99f5-7ab9a8e4227c
+uuid:9fe81b71-b30c-49c8-9d1d-0492d9156597,collect:VHYfuVnvFfA0m4ra,30/03/22 11:51,eli_diaz, ,Sixto Sare Pizan, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:9fe81b71-b30c-49c8-9d1d-0492d9156597
+uuid:09021d2a-45a9-4e43-a7d0-95eeaba5883d,collect:VHYfuVnvFfA0m4ra,30/03/22 15:45,eli_diaz, ,Neyder Chacon Contreras, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:09021d2a-45a9-4e43-a7d0-95eeaba5883d
+uuid:27c45fcc-8cab-4470-a86f-caa08a00a67d,collect:VHYfuVnvFfA0m4ra,30/03/22 16:00,eli_diaz, ,Gregorio Fernando Rodríguez Baca, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:27c45fcc-8cab-4470-a86f-caa08a00a67d
+uuid:e6cd8077-d0bd-4ef1-ab5d-ac3a0ca9d630,collect:VHYfuVnvFfA0m4ra,30/03/22 16:08,eli_diaz, ,Ronald Heiner Rodríguez Baca, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:e6cd8077-d0bd-4ef1-ab5d-ac3a0ca9d630
+uuid:fa885491-8678-45e9-806e-c13e1cbd071f,collect:VHYfuVnvFfA0m4ra,30/03/22 16:16,eli_diaz, ,Ermogenes Espejo Sandobal, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:fa885491-8678-45e9-806e-c13e1cbd071f
+uuid:5cf269c0-3199-4307-94c3-09e5aae3761f,collect:VHYfuVnvFfA0m4ra,31/03/22 09:28,eli_diaz, ,Elvia Aranda Laiza, ,innovacion,Papa,no_sembro,, , , , , ,3,data-productividad-producto,uuid:5cf269c0-3199-4307-94c3-09e5aae3761f
+uuid:c1c76aa5-9c2b-4060-b19c-a7d2dcb5523c,collect:VHYfuVnvFfA0m4ra,31/03/22 09:33,eli_diaz, ,Matias Tolentino Aranda, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:c1c76aa5-9c2b-4060-b19c-a7d2dcb5523c
+uuid:6845faf3-4145-4d2d-bdc5-c8fede81f24a,collect:VHYfuVnvFfA0m4ra,31/03/22 09:38,eli_diaz, ,Angel Tolentino Aranda, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:6845faf3-4145-4d2d-bdc5-c8fede81f24a
+uuid:b712f0fb-fbeb-4b54-bc01-45e6a257d2c0,collect:VHYfuVnvFfA0m4ra,31/03/22 10:11,eli_diaz, ,María Cruceña Ticlia Laiza, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:b712f0fb-fbeb-4b54-bc01-45e6a257d2c0
+uuid:08aec76c-c951-4858-bace-e885cea9b5c4,collect:VHYfuVnvFfA0m4ra,01/04/22 08:53,eli_diaz, ,Eusebio Ruiz Orro, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:08aec76c-c951-4858-bace-e885cea9b5c4
+uuid:eca7562b-7fca-4b40-b74b-06998b06276b,collect:VHYfuVnvFfA0m4ra,01/04/22 08:59,eli_diaz, ,Bennigno Lazaro Jara Segura, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:eca7562b-7fca-4b40-b74b-06998b06276b
+uuid:ea43e7f3-fb83-467c-afc1-0fd9c1cbe534,collect:VHYfuVnvFfA0m4ra,01/04/22 09:04,eli_diaz, ,Mario Lezama Salvatierra, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:ea43e7f3-fb83-467c-afc1-0fd9c1cbe534
+uuid:915440c3-d579-46ba-99d7-369b88e5720b,collect:VHYfuVnvFfA0m4ra,01/04/22 09:34,eli_diaz, ,Santiago Rodriguez Contreras, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:915440c3-d579-46ba-99d7-369b88e5720b
+uuid:1e3f40a8-e0c7-4eb4-8b00-5ce76b9ca5d4,collect:VHYfuVnvFfA0m4ra,01/04/22 09:51,eli_diaz, ,Wilmer Baca Ruiz, ,innovacion,Papa,no_sembro, , , , ,control_plagas_enfermedades, ,1,data-productividad-producto,uuid:1e3f40a8-e0c7-4eb4-8b00-5ce76b9ca5d4
+uuid:176b5f4e-cc8b-4f72-b4c7-bd66cf863b5f,collect:VHYfuVnvFfA0m4ra,01/04/22 10:02,eli_diaz, ,Silvia Laiza Flores, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:176b5f4e-cc8b-4f72-b4c7-bd66cf863b5f
+uuid:18757119-a2a4-4664-8944-45981aa0e42a,collect:VHYfuVnvFfA0m4ra,02/04/22 10:11,eli_diaz, ,Ignacio Loyola Yupanqui Chacon, ,innovacion,Papa,no_sembro,otro, , , , , ,1,data-productividad-producto,uuid:18757119-a2a4-4664-8944-45981aa0e42a
+uuid:b52e1326-8440-48dc-ae34-065bb180a775,collect:VHYfuVnvFfA0m4ra,02/04/22 10:16,eli_diaz, ,Ever Cleiver Yupanqui Laiza, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:b52e1326-8440-48dc-ae34-065bb180a775
+uuid:406ce275-fcff-408e-85c3-12968f2f308f,collect:VHYfuVnvFfA0m4ra,02/04/22 10:27,eli_diaz, ,Hilmer Ever Rodríguez Vidal, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:406ce275-fcff-408e-85c3-12968f2f308f
+uuid:5aab9597-dbea-4469-b30c-bbe2bffbdee0,collect:VHYfuVnvFfA0m4ra,02/04/22 10:34,eli_diaz, ,Wilder Laiza Reyes, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:5aab9597-dbea-4469-b30c-bbe2bffbdee0
+uuid:d18a2b40-b67b-43f6-ae58-2211ae2d19e0,collect:VHYfuVnvFfA0m4ra,02/04/22 11:08,eli_diaz, ,Edwar Davir Robles Blas, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:d18a2b40-b67b-43f6-ae58-2211ae2d19e0
+uuid:14a19026-7687-481b-aed0-a30f1d05cfbf,collect:VHYfuVnvFfA0m4ra,02/04/22 12:26,eli_diaz, ,Gilberto Vásquez Chacon, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:14a19026-7687-481b-aed0-a30f1d05cfbf
+uuid:651495cc-ecd5-4da7-a732-93766265110c,collect:VHYfuVnvFfA0m4ra,02/04/22 12:30,eli_diaz, ,Roger Rodríguez Fabián, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:651495cc-ecd5-4da7-a732-93766265110c
+uuid:ec330932-eade-484c-b4df-d4d88b62a62e,collect:VHYfuVnvFfA0m4ra,02/04/22 12:45,eli_diaz, ,Reyes Osmer Rodríguez Vidal, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:ec330932-eade-484c-b4df-d4d88b62a62e
+uuid:e66457c3-94e7-4f7f-b6fe-597542eb7f3e,collect:VHYfuVnvFfA0m4ra,04/04/22 15:30,eli_diaz, ,Lino Briceño Campos, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:e66457c3-94e7-4f7f-b6fe-597542eb7f3e
+uuid:11b9e8c6-0fa4-4f2d-ba0e-1f561ee4307b,collect:VHYfuVnvFfA0m4ra,04/04/22 15:53,eli_diaz, ,Santos Ygnacia Chacon Vaca, ,innovacion,Papa,no_sembro,, , , , , ,1,data-productividad-producto,uuid:11b9e8c6-0fa4-4f2d-ba0e-1f561ee4307b
+uuid:ed4ad513-286b-4cb7-b94b-4a0aadfcd0ae,collect:VHYfuVnvFfA0m4ra,08/04/22 11:04,eli_diaz, ,Daniel Lara Rodríguez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:ed4ad513-286b-4cb7-b94b-4a0aadfcd0ae
+uuid:45ad056e-9e80-4676-bd3a-ea6d9ddf685d,collect:VHYfuVnvFfA0m4ra,08/04/22 11:05,eli_diaz, ,Justo Rios Sandoval, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:45ad056e-9e80-4676-bd3a-ea6d9ddf685d
+uuid:b2063b62-6344-47b8-82c3-5868cf38daa6,collect:VHYfuVnvFfA0m4ra,08/04/22 11:06,eli_diaz, ,Gonzalo Lara Jara, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:b2063b62-6344-47b8-82c3-5868cf38daa6
+uuid:ad87b0c3-0428-4ba4-9342-5d7eb0703987,collect:VHYfuVnvFfA0m4ra,08/04/22 11:07,eli_diaz, ,Nelida Martina Laiza Reyes, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:ad87b0c3-0428-4ba4-9342-5d7eb0703987
+uuid:33176ed6-3746-44ec-b9d9-21eb0fddeb3f,collect:VHYfuVnvFfA0m4ra,08/04/22 11:08,eli_diaz, ,Lorenzo Melder Laiza Reyes, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:33176ed6-3746-44ec-b9d9-21eb0fddeb3f
+uuid:1fcfc730-b989-4144-96da-69d758ebd956,collect:VHYfuVnvFfA0m4ra,08/04/22 11:09,eli_diaz, ,Anastasia Castillo Rios, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:1fcfc730-b989-4144-96da-69d758ebd956
+uuid:10865f0d-f574-4621-8ce1-22ffdd55f53c,collect:VHYfuVnvFfA0m4ra,08/04/22 11:10,eli_diaz, ,Baudelio Juan Daza Rios, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:10865f0d-f574-4621-8ce1-22ffdd55f53c
+uuid:1002ff20-0110-4701-b103-cb702c433e5e,collect:VHYfuVnvFfA0m4ra,08/04/22 11:11,eli_diaz, ,Lelis Melder Marquina Contreras, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:1002ff20-0110-4701-b103-cb702c433e5e
+uuid:e7bc6d0a-cd66-4829-8750-c05f0f214bf0,collect:VHYfuVnvFfA0m4ra,08/04/22 11:12,eli_diaz, ,Diomenes Vera Cruzado, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:e7bc6d0a-cd66-4829-8750-c05f0f214bf0
+uuid:f315adb6-3da1-43ad-be3d-d0cef52adc5e,collect:VHYfuVnvFfA0m4ra,08/04/22 11:13,eli_diaz, ,Cenaida Elvira Laiza Reyes, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:f315adb6-3da1-43ad-be3d-d0cef52adc5e
+uuid:18242f47-8c11-4153-bd75-c94085875698,collect:VHYfuVnvFfA0m4ra,22/04/22 21:39,eli_diaz, ,Ronald Darío Marquina Contreras, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:18242f47-8c11-4153-bd75-c94085875698
+uuid:a84b89f0-ac4e-4c35-93fb-aeb860c2627b,collect:VHYfuVnvFfA0m4ra,27/04/22 12:24,eli_diaz, ,Hilario Mauricio Villanueva, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:a84b89f0-ac4e-4c35-93fb-aeb860c2627b
+uuid:b614447f-47d3-42e1-9f59-fe4090ae1705,collect:VHYfuVnvFfA0m4ra,27/04/22 12:26,eli_diaz, ,Sofia Reyes Rios, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:b614447f-47d3-42e1-9f59-fe4090ae1705
+uuid:d2f575f6-8811-4ba6-89d3-bebde0f1c419,collect:VHYfuVnvFfA0m4ra,28/04/22 15:03,eli_diaz, ,Martires Blas Araujo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:d2f575f6-8811-4ba6-89d3-bebde0f1c419
+uuid:02097872-d54a-4240-97b3-17bd41498e6c,collect:VHYfuVnvFfA0m4ra,28/04/22 15:06,eli_diaz, ,Pedro Faustino Baca Rios, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:02097872-d54a-4240-97b3-17bd41498e6c
+uuid:5807dbcb-c4ca-46f8-902b-f9bb8d655fa3,collect:VHYfuVnvFfA0m4ra,28/04/22 15:11,eli_diaz, ,Amilcar Fabián Villalobos, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:5807dbcb-c4ca-46f8-902b-f9bb8d655fa3
+uuid:a4d6b40e-0094-4586-8c5c-832a500acfbf,collect:VHYfuVnvFfA0m4ra,28/04/22 15:14,eli_diaz, ,Miriam Elida Rodríguez Layza, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:a4d6b40e-0094-4586-8c5c-832a500acfbf
+uuid:da19bcce-ef43-4fcb-89b3-a46c53be5eb9,collect:VHYfuVnvFfA0m4ra,28/04/22 16:17,eli_diaz, ,Genara Monzón Otiniano, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:da19bcce-ef43-4fcb-89b3-a46c53be5eb9
+uuid:0bbe3003-fec0-4d78-bec9-5bf43ebafc68,collect:VHYfuVnvFfA0m4ra,28/04/22 16:21,eli_diaz, ,Arquides Emiliano Rodríguez Segura, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:0bbe3003-fec0-4d78-bec9-5bf43ebafc68
+uuid:70bb2104-8f87-411c-b8f8-f4a2131ec141,collect:VHYfuVnvFfA0m4ra,28/04/22 16:28,eli_diaz, ,Emelsa Galarreta Otiniano, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:70bb2104-8f87-411c-b8f8-f4a2131ec141
+uuid:19d56bbd-8a85-4dcd-aead-997a34c3c62b,collect:VHYfuVnvFfA0m4ra,28/04/22 16:34,eli_diaz, ,Juan Juvencio Otiniano Segura, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:19d56bbd-8a85-4dcd-aead-997a34c3c62b
+uuid:88fc5522-8c80-4aed-b80b-62a5f22d34cf,collect:VHYfuVnvFfA0m4ra,28/04/22 16:37,eli_diaz, ,Rosas Rodríguez Flores, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:88fc5522-8c80-4aed-b80b-62a5f22d34cf
+uuid:f6357e1b-017a-47d4-80d7-900b39e1b1df,collect:VHYfuVnvFfA0m4ra,28/04/22 17:00,eli_diaz, ,Marcial Marquina Rodríguez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:f6357e1b-017a-47d4-80d7-900b39e1b1df
+uuid:028b571a-8394-4876-820c-7b9d084edbd1,collect:VHYfuVnvFfA0m4ra,28/04/22 17:01,eli_diaz, ,Filomena Pereda Polo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:028b571a-8394-4876-820c-7b9d084edbd1
+uuid:2715321d-cc28-4bd4-a6ad-742afbdc034d,collect:VHYfuVnvFfA0m4ra,28/04/22 17:03,eli_diaz, ,Santos Florencio Rodríguez Lopez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:2715321d-cc28-4bd4-a6ad-742afbdc034d
+uuid:466cb6c8-b4be-438c-b505-b28c4f858d86,collect:VHYfuVnvFfA0m4ra,28/04/22 17:04,eli_diaz, ,Ignacia Layza Flores, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:466cb6c8-b4be-438c-b505-b28c4f858d86
+uuid:deb480a4-a9b3-42f7-a039-72541d951948,collect:VHYfuVnvFfA0m4ra,28/04/22 17:07,eli_diaz, ,Dalí Lislin Rodríguez Contreras, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:deb480a4-a9b3-42f7-a039-72541d951948
+uuid:6915fa44-7faa-4226-817d-592c3310256f,collect:VHYfuVnvFfA0m4ra,28/04/22 17:08,eli_diaz, ,Persy Walter Jara Cruzado, ,innovacion,Papa,no_sembro,otro, , , , , ,1,data-productividad-producto,uuid:6915fa44-7faa-4226-817d-592c3310256f
+uuid:2db2aff8-ee8c-4322-aa7e-26d103fe191c,collect:VHYfuVnvFfA0m4ra,28/04/22 17:09,eli_diaz, ,Gerardo Rodríguez Lopez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:2db2aff8-ee8c-4322-aa7e-26d103fe191c
+uuid:9db38c16-8923-456e-9a0a-e9bdcad90eea,collect:VHYfuVnvFfA0m4ra,28/04/22 17:10,eli_diaz, ,Juan Zenon Rodríguez López, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:9db38c16-8923-456e-9a0a-e9bdcad90eea
+uuid:1c1bfd00-d872-4303-9c8f-16bf58099879,collect:VHYfuVnvFfA0m4ra,28/04/22 17:11,eli_diaz, ,Fernando Otiniano Gaytan, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:1c1bfd00-d872-4303-9c8f-16bf58099879
+uuid:757b6187-a316-49e5-a74b-b091a37411e4,collect:VHYfuVnvFfA0m4ra,28/04/22 17:12,eli_diaz, ,Agustín Fabián Otiniano, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:757b6187-a316-49e5-a74b-b091a37411e4
+uuid:8217e0c2-0400-4b9d-908f-11e5c4db98e1,collect:VHYfuVnvFfA0m4ra,01/05/22 07:10,eli_diaz, ,Santos Contreras Cruz, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:8217e0c2-0400-4b9d-908f-11e5c4db98e1
+uuid:adc9bd7d-2b7c-4ba9-96dc-9d7718f03680,collect:VHYfuVnvFfA0m4ra,01/05/22 07:13,eli_diaz, ,Gilberto Adolfo Otiniano Segura, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:adc9bd7d-2b7c-4ba9-96dc-9d7718f03680
+uuid:c70ed012-58f2-4da9-93e5-9c0a55bb33f8,collect:VHYfuVnvFfA0m4ra,01/05/22 07:20,eli_diaz, ,Virgilio Otiniano Lopez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:c70ed012-58f2-4da9-93e5-9c0a55bb33f8
+uuid:07d06110-915c-4545-ac2c-91a6d5184b7f,collect:VHYfuVnvFfA0m4ra,01/05/22 07:25,eli_diaz, ,Julio Otiniano Lopez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:07d06110-915c-4545-ac2c-91a6d5184b7f
+uuid:0bae0332-17d0-4fc8-86ae-ae173a335bb2,collect:VHYfuVnvFfA0m4ra,01/05/22 07:28,eli_diaz, ,Wilder Rodríguez Jara, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:0bae0332-17d0-4fc8-86ae-ae173a335bb2
+uuid:4b2e13b0-ae63-4d3a-a556-856d9420002a,collect:VHYfuVnvFfA0m4ra,01/05/22 07:39,eli_diaz, ,Lila Sandoval Layza, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:4b2e13b0-ae63-4d3a-a556-856d9420002a
+uuid:a9a1610c-37bf-4062-aeba-71a125bf983b,collect:VHYfuVnvFfA0m4ra,01/05/22 07:42,eli_diaz, ,Santiago Artemio Rodríguez Layza, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:a9a1610c-37bf-4062-aeba-71a125bf983b
+uuid:61613523-3814-43db-8c90-96681de3796f,collect:VHYfuVnvFfA0m4ra,01/05/22 07:45,eli_diaz, ,Beltrán Lucio Yupanqui Contreras, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:61613523-3814-43db-8c90-96681de3796f
+uuid:72bd905e-d133-4695-9b4a-5a0201a8d520,collect:VHYfuVnvFfA0m4ra,01/05/22 07:49,eli_diaz, ,Francisco Lázaro Marquina Rodríguez, ,innovacion,Papa,no_sembro,otro, , , , , ,1,data-productividad-producto,uuid:72bd905e-d133-4695-9b4a-5a0201a8d520
+uuid:bacf0da7-473c-4386-a07a-d1f040d0d56e,collect:VHYfuVnvFfA0m4ra,02/05/22 09:29,eli_diaz, ,Gerónimo Vaca Jalca, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:bacf0da7-473c-4386-a07a-d1f040d0d56e
+uuid:ea10f7df-676d-47ea-8782-2fac6f4bae55,collect:VHYfuVnvFfA0m4ra,02/05/22 09:33,eli_diaz, ,Santos Estelina Ramos Chacon, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:ea10f7df-676d-47ea-8782-2fac6f4bae55
+uuid:a7373971-7ac6-4bd1-8e82-6671ab2ef7d9,collect:VHYfuVnvFfA0m4ra,02/05/22 09:42,eli_diaz, ,Ermes Reyes Rios, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:a7373971-7ac6-4bd1-8e82-6671ab2ef7d9
+uuid:b26f81ab-fe61-4cb9-a38d-d6de246c9004,collect:VHYfuVnvFfA0m4ra,02/05/22 09:45,eli_diaz, ,Nestor Juarez Perez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:b26f81ab-fe61-4cb9-a38d-d6de246c9004
+uuid:1c61c71b-ea9b-406c-ac11-0e9ca82aed10,collect:VHYfuVnvFfA0m4ra,02/05/22 09:53,eli_diaz, ,Eusebia Briceño Carranza, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:1c61c71b-ea9b-406c-ac11-0e9ca82aed10
+uuid:918121d4-27d2-4128-aeaa-7352389553c4,collect:VHYfuVnvFfA0m4ra,02/05/22 09:57,eli_diaz, ,Benigno Otiniano Gaytan, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:918121d4-27d2-4128-aeaa-7352389553c4
+uuid:101e6e02-8b4c-419a-88ce-16bf6b74bf98,collect:VHYfuVnvFfA0m4ra,02/05/22 10:16,eli_diaz, ,Aloncio Chacon Juarez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:101e6e02-8b4c-419a-88ce-16bf6b74bf98
+uuid:d331cef8-7eaf-4a91-8dc6-eda3405924ac,collect:VHYfuVnvFfA0m4ra,02/05/22 10:21,eli_diaz, ,Atanasio Robles Honorio, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:d331cef8-7eaf-4a91-8dc6-eda3405924ac
+uuid:7aa03945-21e5-41a5-88e9-9dcbffd1889f,collect:VHYfuVnvFfA0m4ra,02/05/22 10:27,eli_diaz, ,Wilmer Carlos Robles Briceño, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:7aa03945-21e5-41a5-88e9-9dcbffd1889f
+uuid:770dd3bc-299d-4f6f-8d20-3b479868fa0f,collect:VHYfuVnvFfA0m4ra,02/05/22 10:31,eli_diaz, ,Bernardino Jara Alayo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:770dd3bc-299d-4f6f-8d20-3b479868fa0f
+uuid:ef3335db-ab7e-4165-9f04-eea622d9bce4,collect:VHYfuVnvFfA0m4ra,03/05/22 10:21,eli_diaz, ,Jorge Victor Morales Baca, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:ef3335db-ab7e-4165-9f04-eea622d9bce4
+uuid:ac45d8da-99ad-4768-9c5b-ec20a096e2cc,collect:VHYfuVnvFfA0m4ra,03/05/22 10:24,eli_diaz, ,Teodocio Otiniano Briceño, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:ac45d8da-99ad-4768-9c5b-ec20a096e2cc
+uuid:1718f0e2-a037-47fd-8277-e26eda956c34,collect:VHYfuVnvFfA0m4ra,03/05/22 10:27,eli_diaz, ,Isaac Reyes Castillo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:1718f0e2-a037-47fd-8277-e26eda956c34
+uuid:a7f28fec-f3c5-44d1-b16c-127f99eea832,collect:VHYfuVnvFfA0m4ra,03/05/22 10:35,eli_diaz, ,Perciles Jaime Reyes Baca, ,innovacion,Papa,no_sembro,factores_ambientales, , , , , ,1,data-productividad-producto,uuid:a7f28fec-f3c5-44d1-b16c-127f99eea832
+uuid:1a78ff7f-b1cd-4794-b660-6afa9da649fa,collect:VHYfuVnvFfA0m4ra,03/05/22 11:45,eli_diaz, ,Bernardo Lazaro Morales Briceño, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:1a78ff7f-b1cd-4794-b660-6afa9da649fa
+uuid:0d053457-f947-4b43-afc6-766bd0597307,collect:VHYfuVnvFfA0m4ra,03/05/22 11:48,eli_diaz, ,Yonal Briceño Galarreta, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:0d053457-f947-4b43-afc6-766bd0597307
+uuid:91d3b1e3-bbdb-48bc-98d6-7adba61ca44f,collect:VHYfuVnvFfA0m4ra,03/05/22 11:52,eli_diaz, ,Marcionila Reyes Rios, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:91d3b1e3-bbdb-48bc-98d6-7adba61ca44f
+uuid:2c9a2cea-e629-42e3-ab43-e635749a4a01,collect:VHYfuVnvFfA0m4ra,03/05/22 11:57,eli_diaz, ,Amilcar Reyes Rios, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:2c9a2cea-e629-42e3-ab43-e635749a4a01
+uuid:1ab011d9-ac75-43ad-a673-52a58eef188d,collect:VHYfuVnvFfA0m4ra,03/05/22 12:02,eli_diaz, ,Elmer Marquina Mauricio, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:1ab011d9-ac75-43ad-a673-52a58eef188d
+uuid:4ef22e9d-7e29-4548-bf7c-ea4b52bb5403,collect:VHYfuVnvFfA0m4ra,03/05/22 12:05,eli_diaz, ,Ana Galarreta Escobedo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:4ef22e9d-7e29-4548-bf7c-ea4b52bb5403
+uuid:c3b1df57-faf8-47eb-b7c8-200f65addaa0,collect:VHYfuVnvFfA0m4ra,04/05/22 16:47,eli_diaz, ,Eliades Humberto Escobedo Iparraguirre, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:c3b1df57-faf8-47eb-b7c8-200f65addaa0
+uuid:f91d32b7-58fe-49a9-9d95-9511ecf8dd42,collect:VHYfuVnvFfA0m4ra,04/05/22 16:50,eli_diaz, ,Antonio Otiniano Gaytan, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:f91d32b7-58fe-49a9-9d95-9511ecf8dd42
+uuid:341c8924-a133-43e2-8eed-41862432b57a,collect:VHYfuVnvFfA0m4ra,04/05/22 16:53,eli_diaz, ,Elida Francisca Carbajal Ruiz, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:341c8924-a133-43e2-8eed-41862432b57a
+uuid:3abc91ae-dc31-42df-85fc-09725ecd139a,collect:VHYfuVnvFfA0m4ra,04/05/22 17:20,eli_diaz, ,Vandemar Jovo Reyes Vaca, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:3abc91ae-dc31-42df-85fc-09725ecd139a
+uuid:c007c0cb-535b-410a-b679-5cd95e90ad7b,collect:VHYfuVnvFfA0m4ra,04/05/22 17:23,eli_diaz, ,Jeiner Ilder Ruiz Flores, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:c007c0cb-535b-410a-b679-5cd95e90ad7b
+uuid:cca12839-1187-4635-bd2a-815a5158776b,collect:VHYfuVnvFfA0m4ra,04/05/22 17:40,eli_diaz, ,Ricardo Ruiz Alvarado, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:cca12839-1187-4635-bd2a-815a5158776b
+uuid:2a2bff23-370a-4eb4-8663-a63a8daf9fd8,collect:VHYfuVnvFfA0m4ra,04/05/22 17:51,eli_diaz, ,Danilo Ruiz Avarado, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:2a2bff23-370a-4eb4-8663-a63a8daf9fd8
+uuid:7581206c-02e5-4883-8084-7339c3ecff09,collect:VHYfuVnvFfA0m4ra,04/05/22 17:54,eli_diaz, ,Leonila Ruiz Alvarado, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:7581206c-02e5-4883-8084-7339c3ecff09
+uuid:799f53bd-660d-41f4-8366-6026cb059135,collect:VHYfuVnvFfA0m4ra,04/05/22 17:58,eli_diaz, ,Aquiles Ruiz Vasquez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:799f53bd-660d-41f4-8366-6026cb059135
+uuid:2c37e7eb-c25d-4fc6-8986-1a4d1addd855,collect:VHYfuVnvFfA0m4ra,04/05/22 18:01,eli_diaz, ,Esther Deysi Paredes Ruiz, ,innovacion,Papa,no_sembro,otro, , , , , ,1,data-productividad-producto,uuid:2c37e7eb-c25d-4fc6-8986-1a4d1addd855
+uuid:1fbbbec4-d86d-4b63-98d9-20f892a17407,collect:VHYfuVnvFfA0m4ra,05/05/22 07:33,eli_diaz, ,Maria Magdalena Rodriguez Morales, ,innovacion,Papa,no_sembro,otro, , , , , ,1,data-productividad-producto,uuid:1fbbbec4-d86d-4b63-98d9-20f892a17407
+uuid:32dd6e86-0956-46c0-95c3-d80960979fa6,collect:VHYfuVnvFfA0m4ra,05/05/22 07:37,eli_diaz, ,Domitila Saavedra Mauricio, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:32dd6e86-0956-46c0-95c3-d80960979fa6
+uuid:e0caf863-f2f2-4204-99e7-6fe0b69be46c,collect:VHYfuVnvFfA0m4ra,05/05/22 07:39,eli_diaz, ,Rosita Miciel Reyes Lara, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:e0caf863-f2f2-4204-99e7-6fe0b69be46c
+uuid:7194b35e-b19c-4638-ae03-69ac891b8abb,collect:VHYfuVnvFfA0m4ra,05/05/22 07:46,eli_diaz, ,Yanseli Ruiz Baca, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:7194b35e-b19c-4638-ae03-69ac891b8abb
+uuid:32ce436d-f08a-44df-8754-fb0394d8022f,collect:VHYfuVnvFfA0m4ra,05/05/22 07:49,eli_diaz, ,Eugenia Savina Paredes Acosta, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:32ce436d-f08a-44df-8754-fb0394d8022f
+uuid:de9a0118-6cab-4e6d-a1ca-afd6194e5389,collect:VHYfuVnvFfA0m4ra,05/05/22 07:57,eli_diaz, ,Ermes Vaca Jalca, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:de9a0118-6cab-4e6d-a1ca-afd6194e5389
+uuid:c8291806-16bd-467c-a22c-ee103a92d29e,collect:VHYfuVnvFfA0m4ra,05/05/22 08:02,eli_diaz, ,Rosa Marivel Bailon Polo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:c8291806-16bd-467c-a22c-ee103a92d29e
+uuid:8da4a8b9-b4c2-4106-8105-c085bfa01e93,collect:VHYfuVnvFfA0m4ra,05/05/22 08:11,eli_diaz, ,Italo Nestor Alayo Chacon, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:8da4a8b9-b4c2-4106-8105-c085bfa01e93
+uuid:af3c4dac-fb4f-4f89-8ecf-887f7571c3f7,collect:VHYfuVnvFfA0m4ra,05/05/22 08:28,eli_diaz, ,Olman Ana Paredes Ruiz, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:af3c4dac-fb4f-4f89-8ecf-887f7571c3f7
+uuid:8da07ee7-3ff1-482f-a69d-3af3d1444079,collect:VHYfuVnvFfA0m4ra,05/05/22 08:32,eli_diaz, ,Juan Ever Marcelo Cruzado, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:8da07ee7-3ff1-482f-a69d-3af3d1444079
+uuid:becb6d68-0e84-4858-8335-8a5e15066776,collect:VHYfuVnvFfA0m4ra,05/05/22 12:42,eli_diaz, ,Genaro Guevara Gonzales, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:becb6d68-0e84-4858-8335-8a5e15066776
+uuid:793e5c3c-033c-41ed-8de7-306936d0fb9d,collect:VHYfuVnvFfA0m4ra,05/05/22 12:46,eli_diaz, ,Felipe Santiago Segura Yupanqui, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:793e5c3c-033c-41ed-8de7-306936d0fb9d
+uuid:e83b3502-fd46-46ff-b548-13dd0bdaece4,collect:VHYfuVnvFfA0m4ra,05/05/22 12:50,eli_diaz, ,Rosa Chavez Rodriguez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:e83b3502-fd46-46ff-b548-13dd0bdaece4
+uuid:6ff826f3-467d-4755-8aaf-0c38a822a371,collect:VHYfuVnvFfA0m4ra,05/05/22 12:53,eli_diaz, ,Asuncion Indolecio Rodriguez Flores, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:6ff826f3-467d-4755-8aaf-0c38a822a371
+uuid:f198258d-038c-4588-842c-8d4bb57fa0c2,collect:VHYfuVnvFfA0m4ra,05/05/22 12:57,eli_diaz, ,Domingo Andres Robles Vela, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:f198258d-038c-4588-842c-8d4bb57fa0c2
+uuid:b2a9aaaf-1710-4688-87ff-a26b61e2a5ce,collect:VHYfuVnvFfA0m4ra,06/05/22 11:34,eli_diaz, ,Susana Anali Garraleta Murga, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:b2a9aaaf-1710-4688-87ff-a26b61e2a5ce
+uuid:fbd6540f-0d48-43f8-af58-78480c955769,collect:VHYfuVnvFfA0m4ra,06/05/22 11:37,eli_diaz, ,Jose Alayo Otiniano, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:fbd6540f-0d48-43f8-af58-78480c955769
+uuid:bc4340e4-a781-470b-8135-e6968e0daa4d,collect:VHYfuVnvFfA0m4ra,06/05/22 11:41,eli_diaz, ,Rosmeri Garraleta Mendoza, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:bc4340e4-a781-470b-8135-e6968e0daa4d
+uuid:5d69ff0c-7c1f-49a0-ad7a-6daeb51d31f7,collect:VHYfuVnvFfA0m4ra,06/05/22 11:51,eli_diaz, ,Almeyda Garraleta Mendoza, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:5d69ff0c-7c1f-49a0-ad7a-6daeb51d31f7
+uuid:e28a99ed-84d7-477d-9cab-f7c60b038440,collect:VHYfuVnvFfA0m4ra,06/05/22 11:53,eli_diaz, ,Willar Adelmar Alfaro Cruzado, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:e28a99ed-84d7-477d-9cab-f7c60b038440
+uuid:e4eeabe5-39ef-4b99-b2f4-cb10a9135bdc,collect:VHYfuVnvFfA0m4ra,06/05/22 11:57,eli_diaz, ,Santos Guevara Gonzáles, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:e4eeabe5-39ef-4b99-b2f4-cb10a9135bdc
+uuid:5b16fecd-1671-4237-a6b6-08cd05b86d4b,collect:VHYfuVnvFfA0m4ra,06/05/22 12:01,eli_diaz, ,Anastasio Yupanqui Chacón, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:5b16fecd-1671-4237-a6b6-08cd05b86d4b
+uuid:5e585fa4-8a27-4465-bcd7-84e2d7f6f864,collect:VHYfuVnvFfA0m4ra,06/05/22 12:06,eli_diaz, ,Claro Hipolito Yupanqui Castillo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:5e585fa4-8a27-4465-bcd7-84e2d7f6f864
+uuid:fb2a62fa-5f14-41fd-9cf4-1bed4f029252,collect:VHYfuVnvFfA0m4ra,06/05/22 12:10,eli_diaz, ,Santos Diomedes Yupanqui Chacón, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:fb2a62fa-5f14-41fd-9cf4-1bed4f029252
+uuid:2e9410bc-972e-4af5-8eff-e2ae596b5f42,collect:VHYfuVnvFfA0m4ra,06/05/22 12:13,eli_diaz, ,Leyder Edilberto Yupanqui Laiza, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:2e9410bc-972e-4af5-8eff-e2ae596b5f42
+uuid:95577f54-9833-4047-80f3-a3f75a9e39ba,collect:VHYfuVnvFfA0m4ra,09/05/22 11:47,eli_diaz, ,Graciela Esther Robles De la Cruz, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:95577f54-9833-4047-80f3-a3f75a9e39ba
+uuid:9e621a8d-5ff4-43ff-b448-3ad33b520528,collect:VHYfuVnvFfA0m4ra,09/05/22 11:54,eli_diaz, ,Clemente Alfonso Robles Vela, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:9e621a8d-5ff4-43ff-b448-3ad33b520528
+uuid:9c0c4206-af84-409d-9d78-0ab06efbd88d,collect:VHYfuVnvFfA0m4ra,09/05/22 11:57,eli_diaz, ,Benigno Alvarado Gonzales, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:9c0c4206-af84-409d-9d78-0ab06efbd88d
+uuid:34017d79-966a-4a6f-bd65-802f9112d103,collect:VHYfuVnvFfA0m4ra,09/05/22 12:01,eli_diaz, ,Edin Percy Marcelo Marquina, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:34017d79-966a-4a6f-bd65-802f9112d103
+uuid:b6beaa4b-9970-4e80-8607-8964e3f59ba7,collect:VHYfuVnvFfA0m4ra,09/05/22 12:17,eli_diaz, ,Vicente Rodriguez Guzman, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:b6beaa4b-9970-4e80-8607-8964e3f59ba7
+uuid:8e340d05-9ff2-442d-84bc-66b39139aa36,collect:VHYfuVnvFfA0m4ra,09/05/22 12:20,eli_diaz, ,Diómenes Robles Mauricio, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:8e340d05-9ff2-442d-84bc-66b39139aa36
+uuid:a71551e1-dbdc-435d-828f-c59f676eb961,collect:VHYfuVnvFfA0m4ra,09/05/22 12:43,eli_diaz, ,Dante Diomedes Robles Lavado, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:a71551e1-dbdc-435d-828f-c59f676eb961
+uuid:1bd85c19-ff1a-483f-9a4a-8f72ed6e14b4,collect:VHYfuVnvFfA0m4ra,09/05/22 12:46,eli_diaz, ,Catalino Campos Baca, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:1bd85c19-ff1a-483f-9a4a-8f72ed6e14b4
+uuid:21858f08-4b37-4825-824e-128bd381d19c,collect:VHYfuVnvFfA0m4ra,09/05/22 14:26,eli_diaz, ,Roger Pereda Baca, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:21858f08-4b37-4825-824e-128bd381d19c
+uuid:2e473031-baac-4f89-8a96-e0c02c948337,collect:VHYfuVnvFfA0m4ra,09/05/22 14:30,eli_diaz, ,Alex Orlando Yupanqui Lavado, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:2e473031-baac-4f89-8a96-e0c02c948337
+uuid:51bb61c2-3919-4883-9161-df4791760bb8,collect:VHYfuVnvFfA0m4ra,09/05/22 14:43,eli_diaz, ,Santos Teodoro Chacon Vasquez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:51bb61c2-3919-4883-9161-df4791760bb8
+uuid:b5eef60c-d396-4a3f-9c2c-b46e09dc712f,collect:VHYfuVnvFfA0m4ra,09/05/22 14:44,eli_diaz, ,Alcides Pérez Carbajal, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:b5eef60c-d396-4a3f-9c2c-b46e09dc712f
+uuid:f4ae8cd9-afcc-4c32-b569-ee84ebf05d84,collect:VHYfuVnvFfA0m4ra,09/05/22 14:51,eli_diaz, ,Sixto Yupanqui Alva, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:f4ae8cd9-afcc-4c32-b569-ee84ebf05d84
+uuid:ddb040bd-97aa-46bf-a4b9-f43542ede6f2,collect:VHYfuVnvFfA0m4ra,10/05/22 11:28,eli_diaz, ,Juan Chacón Contreras, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:ddb040bd-97aa-46bf-a4b9-f43542ede6f2
+uuid:6430cc9a-36b0-4ddb-bf59-4d52a5bac133,collect:VHYfuVnvFfA0m4ra,10/05/22 11:31,eli_diaz, ,Faustino Marquina Ruiz, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:6430cc9a-36b0-4ddb-bf59-4d52a5bac133
+uuid:ee408656-22de-408a-bc3f-bd919ac0bace,collect:VHYfuVnvFfA0m4ra,10/05/22 11:35,eli_diaz, ,Danilo Vidal Meza, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:ee408656-22de-408a-bc3f-bd919ac0bace
+uuid:e2719100-e800-4527-b2da-7208be49ab82,collect:VHYfuVnvFfA0m4ra,10/05/22 11:59,eli_diaz, ,Jeiber Ramirez Araujo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:e2719100-e800-4527-b2da-7208be49ab82
+uuid:e07df7d3-e769-4e19-bdb8-c16ed07a8c64,collect:VHYfuVnvFfA0m4ra,10/05/22 12:02,eli_diaz, ,Juan Alvarez Crisologo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:e07df7d3-e769-4e19-bdb8-c16ed07a8c64
+uuid:64733008-a366-46fb-a045-60585f61607c,collect:VHYfuVnvFfA0m4ra,10/05/22 12:04,eli_diaz, ,Teresa Sandoval Espejo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:64733008-a366-46fb-a045-60585f61607c
+uuid:7ebf42b0-cbec-43fc-a6b3-e84d6bf0d200,collect:VHYfuVnvFfA0m4ra,10/05/22 12:07,eli_diaz, ,Jose Francisco Sandobal Ruiz, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:7ebf42b0-cbec-43fc-a6b3-e84d6bf0d200
+uuid:316a8a8e-8fba-4679-ba48-bd154463bbd4,collect:VHYfuVnvFfA0m4ra,10/05/22 12:10,eli_diaz, ,Felisa Grimaldina Chacon Contreras, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:316a8a8e-8fba-4679-ba48-bd154463bbd4
+uuid:9047e863-99fb-4e88-a89f-bcd4ba7145cf,collect:VHYfuVnvFfA0m4ra,10/05/22 12:58,eli_diaz, ,Teófilo Chacón Araujo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:9047e863-99fb-4e88-a89f-bcd4ba7145cf
+uuid:accc6d9f-e2c8-4041-accb-9d2fc2868c9a,collect:VHYfuVnvFfA0m4ra,10/05/22 13:03,eli_diaz, ,Milton Reyes Yupanqui, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:accc6d9f-e2c8-4041-accb-9d2fc2868c9a
+uuid:8e9c9a3d-f975-43ed-8e52-7c09cde46c20,collect:VHYfuVnvFfA0m4ra,28/05/22 10:30,eli_diaz, ,Silvestre Rodríguez Mauricio, ,innovacion,Papa,no_sembro,otro, , , , , ,1,data-productividad-producto,uuid:8e9c9a3d-f975-43ed-8e52-7c09cde46c20
+uuid:a799cd8a-1b14-4be7-a091-d05a4b6f7602,collect:VHYfuVnvFfA0m4ra,28/05/22 10:35,eli_diaz, ,Judit Vanesa Chacon Paredes, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:a799cd8a-1b14-4be7-a091-d05a4b6f7602
+uuid:69aa39ad-24ce-40a9-8207-d60233560226,collect:VHYfuVnvFfA0m4ra,28/05/22 10:43,eli_diaz, ,Oswaldo Calderon Segura, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:69aa39ad-24ce-40a9-8207-d60233560226
+uuid:5a5ac0a8-2bcf-45a6-8409-b9ede7eddff5,collect:VHYfuVnvFfA0m4ra,28/05/22 10:57,eli_diaz, ,Damian Alfaro Moya, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:5a5ac0a8-2bcf-45a6-8409-b9ede7eddff5
+uuid:570edf57-a79c-4134-8f26-a1341b7c306a,collect:VHYfuVnvFfA0m4ra,28/05/22 11:00,eli_diaz, ,Wilmer Otiniano Alfaro, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:570edf57-a79c-4134-8f26-a1341b7c306a
+uuid:612cfb68-9b50-4baf-88bb-b156519302cc,collect:VHYfuVnvFfA0m4ra,28/05/22 11:15,eli_diaz, ,Martin Villalobos Cruzado, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:612cfb68-9b50-4baf-88bb-b156519302cc
+uuid:795dd6c2-dd60-4e3f-bf05-194d1de2eec2,collect:VHYfuVnvFfA0m4ra,28/05/22 11:17,eli_diaz, ,Valerio Rodriguez Contreras, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:795dd6c2-dd60-4e3f-bf05-194d1de2eec2
+uuid:ffdc1ebb-bc60-4274-827d-a232b8603002,collect:VHYfuVnvFfA0m4ra,28/05/22 12:17,eli_diaz, ,Leoncio Daza Blas, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:ffdc1ebb-bc60-4274-827d-a232b8603002
+uuid:c5db6f94-8fbe-446b-8fb7-57f2a6e1f8fb,collect:VHYfuVnvFfA0m4ra,28/05/22 12:20,eli_diaz, ,Genaro Infantes Peña, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:c5db6f94-8fbe-446b-8fb7-57f2a6e1f8fb
+uuid:037050ce-6b02-4ecb-9ba5-04be4d037617,collect:VHYfuVnvFfA0m4ra,28/05/22 12:23,eli_diaz, ,Clemente Otiniano Gaytan, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:037050ce-6b02-4ecb-9ba5-04be4d037617
+uuid:cb0de78c-7822-4f7c-a379-500c48205b3a,collect:VHYfuVnvFfA0m4ra,28/05/22 12:26,eli_diaz, ,Francisco Pablo Contreras Peña, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:cb0de78c-7822-4f7c-a379-500c48205b3a
+uuid:dd5d4c2d-e0c7-4297-ab47-bbcaa78e2cff,collect:VHYfuVnvFfA0m4ra,28/05/22 12:29,eli_diaz, ,Jaime Orlando Contreras Peña, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:dd5d4c2d-e0c7-4297-ab47-bbcaa78e2cff
+uuid:b416db00-6246-4710-ad54-f9829c9f998d,collect:VHYfuVnvFfA0m4ra,28/05/22 12:32,eli_diaz, ,Frayn Campos Baca, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:b416db00-6246-4710-ad54-f9829c9f998d
+uuid:73cf0adc-3059-439f-ab75-5f8bfe1a0875,collect:VHYfuVnvFfA0m4ra,29/05/22 20:29,eli_diaz, ,Jose Iparraguirre Altamirano, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:73cf0adc-3059-439f-ab75-5f8bfe1a0875
+uuid:dbe2f5fc-ee6a-4f77-a6f4-2b8227cb7a4f,collect:VHYfuVnvFfA0m4ra,29/05/22 20:33,eli_diaz, ,Leoncio Marquina Ruiz, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:dbe2f5fc-ee6a-4f77-a6f4-2b8227cb7a4f
+uuid:6f39018d-9a4e-4e67-a153-deec20f1ccf1,collect:VHYfuVnvFfA0m4ra,29/05/22 20:36,eli_diaz, ,Lorenzo Justiniano Marquina Cruz, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:6f39018d-9a4e-4e67-a153-deec20f1ccf1
+uuid:a5d0038e-5205-49ef-831f-9ef614c4b972,collect:VHYfuVnvFfA0m4ra,29/05/22 20:40,eli_diaz, ,Nicolas Juares Jalca, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:a5d0038e-5205-49ef-831f-9ef614c4b972
+uuid:400ec80e-16b7-4ca0-9fe0-c70e5837bec8,collect:VHYfuVnvFfA0m4ra,29/05/22 20:48,eli_diaz, ,Raul Rios Contreras, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:400ec80e-16b7-4ca0-9fe0-c70e5837bec8
+uuid:e516b4f4-a35b-4831-82a6-4fa8514378fc,collect:VHYfuVnvFfA0m4ra,29/05/22 20:52,eli_diaz, ,Federico Contreras Peña, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:e516b4f4-a35b-4831-82a6-4fa8514378fc
+uuid:6cd05170-a394-4a13-a692-ac45eeaa569c,collect:VHYfuVnvFfA0m4ra,29/05/22 20:55,eli_diaz, ,Humberto Contreras Peña, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:6cd05170-a394-4a13-a692-ac45eeaa569c
+uuid:34f5de29-0802-4c62-a5d6-ad9d51eb949a,collect:VHYfuVnvFfA0m4ra,29/05/22 21:01,eli_diaz, ,Dionisio Rojas Contreras, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:34f5de29-0802-4c62-a5d6-ad9d51eb949a
+uuid:556270d0-d6c2-4b50-8251-67c8984833be,collect:VHYfuVnvFfA0m4ra,29/05/22 21:04,eli_diaz, ,Santos Adrián Villanueva Yupanqui, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:556270d0-d6c2-4b50-8251-67c8984833be
+uuid:93d146c4-74ed-4161-81b5-7e45f479c0af,collect:VHYfuVnvFfA0m4ra,29/05/22 21:07,eli_diaz, ,Elmer Villanueva Reyes, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:93d146c4-74ed-4161-81b5-7e45f479c0af
+uuid:07ee7b04-7df7-47a7-adab-301e7e5f4535,collect:VHYfuVnvFfA0m4ra,30/05/22 08:52,eli_diaz, ,Lidubina Perez Rodriguez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:07ee7b04-7df7-47a7-adab-301e7e5f4535
+uuid:2f662a9f-0823-44e1-851f-0c500b8f0d5b,collect:VHYfuVnvFfA0m4ra,30/05/22 08:56,eli_diaz, ,Julio Jorge Rodriguez Guevara, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:2f662a9f-0823-44e1-851f-0c500b8f0d5b
+uuid:145c67ff-444e-4218-aeae-86b003e6bd43,collect:VHYfuVnvFfA0m4ra,30/05/22 09:01,eli_diaz, ,Roberto Cruz Campos, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:145c67ff-444e-4218-aeae-86b003e6bd43
+uuid:9330c593-148b-48d7-99ca-c2ddddf18e90,collect:VHYfuVnvFfA0m4ra,30/05/22 09:04,eli_diaz, ,Matilde Carranza Crisólogo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:9330c593-148b-48d7-99ca-c2ddddf18e90
+uuid:bc2d6edb-ecd8-4fb8-ada3-a376c0a79d74,collect:VHYfuVnvFfA0m4ra,30/05/22 09:08,eli_diaz, ,Marita Cruzado Paredes, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:bc2d6edb-ecd8-4fb8-ada3-a376c0a79d74
+uuid:d7456ad2-0a18-45f5-a591-9ff44bf9d0af,collect:VHYfuVnvFfA0m4ra,30/05/22 09:37,eli_diaz, ,Benito Perez Contreras, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:d7456ad2-0a18-45f5-a591-9ff44bf9d0af
+uuid:4859567c-1646-4ccb-8f81-b48b9b4fa194,collect:VHYfuVnvFfA0m4ra,30/05/22 09:39,eli_diaz, ,Sabino Campos Bailon, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:4859567c-1646-4ccb-8f81-b48b9b4fa194
+uuid:a08dea54-d044-4450-b9f0-031c9783fd67,collect:VHYfuVnvFfA0m4ra,31/05/22 16:30,eli_diaz, ,Antia Briceño De castillo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:a08dea54-d044-4450-b9f0-031c9783fd67
+uuid:2ea6d8d7-ca16-43e0-b0ae-5e8373e114d5,collect:VHYfuVnvFfA0m4ra,31/05/22 16:33,eli_diaz, ,Olga Esteban Cruzado, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:2ea6d8d7-ca16-43e0-b0ae-5e8373e114d5
+uuid:1a5b42d1-0693-46df-95a3-9bc2d716a62b,collect:VHYfuVnvFfA0m4ra,31/05/22 16:37,eli_diaz, ,Alexander Campos Mesa, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:1a5b42d1-0693-46df-95a3-9bc2d716a62b
+uuid:ae7e9d29-8000-42bf-a2d8-85cc5bbb941e,collect:VHYfuVnvFfA0m4ra,31/05/22 16:41,eli_diaz, ,Lusmila Lopez Vaca, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:ae7e9d29-8000-42bf-a2d8-85cc5bbb941e
+uuid:5cea880e-024c-40c6-8424-a1b54ee1e517,collect:VHYfuVnvFfA0m4ra,31/05/22 16:52,eli_diaz, ,Margarita Paredes Castillo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:5cea880e-024c-40c6-8424-a1b54ee1e517
+uuid:5c1ba343-c850-4074-b12a-7c99f7a9fe33,collect:VHYfuVnvFfA0m4ra,31/05/22 16:54,eli_diaz, ,Julia Gaytan Pino, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:5c1ba343-c850-4074-b12a-7c99f7a9fe33
+uuid:d05885d9-f525-4efd-afc6-3215c601655d,collect:VHYfuVnvFfA0m4ra,31/05/22 16:57,eli_diaz, ,Porfirio Rodriguez Gomez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:d05885d9-f525-4efd-afc6-3215c601655d
+uuid:3cfd83ef-3899-4e4b-9bcb-1e59eaddc2db,collect:VHYfuVnvFfA0m4ra,31/05/22 17:01,eli_diaz, ,Celso Campos Bailon, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:3cfd83ef-3899-4e4b-9bcb-1e59eaddc2db
+uuid:e459d027-26ac-4052-b598-53d7f3058454,collect:VHYfuVnvFfA0m4ra,31/05/22 17:05,eli_diaz, ,Esmilda Leonila Carranza Polo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:e459d027-26ac-4052-b598-53d7f3058454
+uuid:73fa7570-d2a5-4305-b325-57b33d3ca36e,collect:VHYfuVnvFfA0m4ra,31/05/22 17:08,eli_diaz, ,Angela Carranza Escobedo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:73fa7570-d2a5-4305-b325-57b33d3ca36e
+uuid:4a788e65-5495-471e-bd13-6bce66a51ae5,collect:VHYfuVnvFfA0m4ra,03/06/22 15:16,eli_diaz, ,Santos Eleuterio Briceño Lara, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:4a788e65-5495-471e-bd13-6bce66a51ae5
+uuid:7d328a56-ec19-492f-9e25-503111ef10e5,collect:VHYfuVnvFfA0m4ra,03/06/22 15:19,eli_diaz, ,Zacarias Briceño Chacon, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:7d328a56-ec19-492f-9e25-503111ef10e5
+uuid:ea537d22-cf44-43a8-a574-26cf3eb19f48,collect:VHYfuVnvFfA0m4ra,03/06/22 15:23,eli_diaz, ,Reyna Ysabel Lara Briceño, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:ea537d22-cf44-43a8-a574-26cf3eb19f48
+uuid:3e9afb17-1dbe-404a-95b9-ca73ff547483,collect:VHYfuVnvFfA0m4ra,03/06/22 15:32,eli_diaz, ,Bander Reyes Lara, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:3e9afb17-1dbe-404a-95b9-ca73ff547483
+uuid:a8c972eb-f07e-4760-8efe-3fdca572659a,collect:VHYfuVnvFfA0m4ra,03/06/22 15:39,eli_diaz, ,Atanacia Julca Carranza, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:a8c972eb-f07e-4760-8efe-3fdca572659a
+uuid:9570e4d4-99c8-4912-a481-5c33b1dd2628,collect:VHYfuVnvFfA0m4ra,03/06/22 16:10,eli_diaz, ,Elinda Melina Morales Reyes, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:9570e4d4-99c8-4912-a481-5c33b1dd2628
+uuid:657a611e-8337-4b91-9cdc-b973a8d9f1c5,collect:VHYfuVnvFfA0m4ra,03/06/22 16:12,eli_diaz, ,Flor Anace Ruiz Mallqui, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:657a611e-8337-4b91-9cdc-b973a8d9f1c5
+uuid:a98618ac-1b79-4957-bbe3-451438d260ea,collect:VHYfuVnvFfA0m4ra,03/06/22 16:32,eli_diaz, ,Benito Cirilo Galarreta Jara, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:a98618ac-1b79-4957-bbe3-451438d260ea
+uuid:23238a70-8b78-403f-9153-18a13b441bc1,collect:VHYfuVnvFfA0m4ra,03/06/22 16:35,eli_diaz, ,Wilman Galarreta Escobedo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:23238a70-8b78-403f-9153-18a13b441bc1
+uuid:fcf64057-2331-4c20-8ba7-4b2b34125237,collect:VHYfuVnvFfA0m4ra,03/06/22 16:39,eli_diaz, ,Wilfredo Robles Lavado, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:fcf64057-2331-4c20-8ba7-4b2b34125237
+uuid:ecf31905-f176-45b1-9bc2-7ebe770a2eb1,collect:VHYfuVnvFfA0m4ra,03/06/22 16:41,eli_diaz, ,Rositas Laiza Reyes, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:ecf31905-f176-45b1-9bc2-7ebe770a2eb1
+uuid:8cbd1185-add8-4e0f-a995-fbff8eb7af30,collect:VHYfuVnvFfA0m4ra,03/06/22 16:55,eli_diaz, ,Micael Levin Rodriguez Ruiz, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:8cbd1185-add8-4e0f-a995-fbff8eb7af30
+uuid:29ab224e-736e-4a42-9558-512d485106bf,collect:VHYfuVnvFfA0m4ra,03/06/22 16:57,eli_diaz, ,Carlos Rodriguez Morales, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:29ab224e-736e-4a42-9558-512d485106bf
+uuid:962f3a90-5cf1-4f07-adaf-667ee2e46a2d,collect:VHYfuVnvFfA0m4ra,03/06/22 17:01,eli_diaz, ,Ricardo Otiniano Cruzado, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:962f3a90-5cf1-4f07-adaf-667ee2e46a2d
+uuid:0318dda2-bc0c-4ea3-be73-d91268cbbf44,collect:VHYfuVnvFfA0m4ra,03/06/22 17:03,eli_diaz, ,Jose Santos Baca Briceño, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:0318dda2-bc0c-4ea3-be73-d91268cbbf44
+uuid:1ea46a33-ecbf-4cf9-8b7e-1009e57af70c,collect:VHYfuVnvFfA0m4ra,04/06/22 15:24,eli_diaz, ,Beder Iraldo Reyes Baca, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:1ea46a33-ecbf-4cf9-8b7e-1009e57af70c
+uuid:80646b91-6003-4083-8d4c-e2300a54bfa1,collect:VHYfuVnvFfA0m4ra,04/06/22 15:26,eli_diaz, ,Liliar Galarreta Briceño, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:80646b91-6003-4083-8d4c-e2300a54bfa1
+uuid:fa716fd6-181e-487c-96e3-e1a7875da215,collect:VHYfuVnvFfA0m4ra,04/06/22 15:29,eli_diaz, ,Rober Iban Aranda Araujo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:fa716fd6-181e-487c-96e3-e1a7875da215
+uuid:e6fa0527-f92f-49f4-9f9d-1bb0e099b458,collect:VHYfuVnvFfA0m4ra,04/06/22 15:32,eli_diaz, ,Antonio Marquina Esteban, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:e6fa0527-f92f-49f4-9f9d-1bb0e099b458
+uuid:489c74d8-5728-4704-a485-b572cb00a7c0,collect:VHYfuVnvFfA0m4ra,04/06/22 15:48,eli_diaz, ,Melquiades Briceño Rios, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:489c74d8-5728-4704-a485-b572cb00a7c0
+uuid:cd0f8a2f-7653-428f-9d0c-fa9ac75d5e45,collect:VHYfuVnvFfA0m4ra,04/06/22 15:50,eli_diaz, ,Manuel Infantes Peña, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:cd0f8a2f-7653-428f-9d0c-fa9ac75d5e45
+uuid:45dec0ed-7317-430e-8983-70fe76aeb164,collect:VHYfuVnvFfA0m4ra,04/06/22 15:52,eli_diaz, ,Cirilo Santos Lara Briceño, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:45dec0ed-7317-430e-8983-70fe76aeb164
+uuid:93939fbf-46c6-4a13-8472-8fedb8c221b7,collect:VHYfuVnvFfA0m4ra,04/06/22 15:57,eli_diaz, ,Santos Martin Contreras Peña, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:93939fbf-46c6-4a13-8472-8fedb8c221b7
+uuid:5ad6c782-43cc-414b-8e1b-4707774ca8ec,collect:VHYfuVnvFfA0m4ra,04/06/22 16:00,eli_diaz, ,Albertina Conteras De la Cruz, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:5ad6c782-43cc-414b-8e1b-4707774ca8ec
+uuid:422d219c-7ca0-4829-8df1-7efe6c5836a0,collect:VHYfuVnvFfA0m4ra,04/06/22 16:02,eli_diaz, ,Abel Yupanqui Rodríguez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:422d219c-7ca0-4829-8df1-7efe6c5836a0
+uuid:f8cf0f68-5ba2-473a-9e68-fe7ef73fb736,collect:VHYfuVnvFfA0m4ra,06/06/22 09:14,eli_diaz, ,Leonila Rios Sandoval, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:f8cf0f68-5ba2-473a-9e68-fe7ef73fb736
+uuid:7f7191cd-a7d6-4c25-b6e3-32f5aae593ba,collect:VHYfuVnvFfA0m4ra,06/06/22 09:17,eli_diaz, ,Paulina Alva Segura, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:7f7191cd-a7d6-4c25-b6e3-32f5aae593ba
+uuid:9a960bc7-0f13-4558-ae09-541d7e668b9f,collect:VHYfuVnvFfA0m4ra,06/06/22 09:20,eli_diaz, ,Antonia Vazques Segura, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:9a960bc7-0f13-4558-ae09-541d7e668b9f
+uuid:abcbe278-61ac-4cc5-b8a1-530ef226dbd7,collect:VHYfuVnvFfA0m4ra,06/06/22 09:26,eli_diaz, ,Reinaldo Rodriguez Guevara, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:abcbe278-61ac-4cc5-b8a1-530ef226dbd7
+uuid:618875f6-4c5a-447e-a1b6-58f146e3c525,collect:VHYfuVnvFfA0m4ra,06/06/22 09:29,eli_diaz, ,Justa Garcia Sandoval, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:618875f6-4c5a-447e-a1b6-58f146e3c525
+uuid:396b652d-cf0d-4464-a2da-22605a3bdb10,collect:VHYfuVnvFfA0m4ra,06/06/22 09:32,eli_diaz, ,Marina Guzmán Chávez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:396b652d-cf0d-4464-a2da-22605a3bdb10
+uuid:94462c23-d45c-44d2-897f-0f15abedf467,collect:VHYfuVnvFfA0m4ra,02/07/22 11:46,eli_diaz, ,Ivan Tiznado Vargas, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:94462c23-d45c-44d2-897f-0f15abedf467
+uuid:be551c9d-54a8-481f-9ea6-d19f450a9953,collect:VHYfuVnvFfA0m4ra,02/07/22 11:49,eli_diaz, ,Arcadio Chacon Araujo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:be551c9d-54a8-481f-9ea6-d19f450a9953
+uuid:95c6aef7-f777-414b-877e-20e26c875f53,collect:VHYfuVnvFfA0m4ra,04/07/22 16:22,eli_diaz, ,Confesor Marquina Rios, ,innovacion,Papa,no_sembro,otro, , , , , ,1,data-productividad-producto,uuid:95c6aef7-f777-414b-877e-20e26c875f53
+uuid:d1866038-e0a1-4ee2-9b28-2d35f5abd87c,collect:VHYfuVnvFfA0m4ra,04/07/22 16:25,eli_diaz, ,Jheran Dario Iparraguirre Campos, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:d1866038-e0a1-4ee2-9b28-2d35f5abd87c
+uuid:80588faa-d10f-4347-8529-daa58c2dc3a9,collect:VHYfuVnvFfA0m4ra,04/07/22 16:30,eli_diaz, ,Eleuterio Rodríguez Morales, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:80588faa-d10f-4347-8529-daa58c2dc3a9
+uuid:d120f4ec-666b-4b5c-988b-c53b481f0661,collect:VHYfuVnvFfA0m4ra,04/07/22 16:33,eli_diaz, ,Agustín Ruiz Otiniano, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:d120f4ec-666b-4b5c-988b-c53b481f0661
+uuid:b2fee854-a905-47ab-a30b-8df930aff1a9,collect:VHYfuVnvFfA0m4ra,04/07/22 16:37,eli_diaz, ,Vicenta Castillo Rios, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:b2fee854-a905-47ab-a30b-8df930aff1a9
+uuid:36917e14-212b-4a8d-8d1f-5e9660dc9765,collect:VHYfuVnvFfA0m4ra,04/07/22 16:39,eli_diaz, ,Feliciana Rios Serin, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:36917e14-212b-4a8d-8d1f-5e9660dc9765
+uuid:706d0770-5fc2-4ed7-8aea-5c98286536f5,collect:VHYfuVnvFfA0m4ra,04/07/22 16:44,eli_diaz, ,Aquiles Nilson Briceño Alayo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:706d0770-5fc2-4ed7-8aea-5c98286536f5
+uuid:339102bd-6e98-4727-9cb9-77b0c8ffa129,collect:VHYfuVnvFfA0m4ra,04/07/22 16:47,eli_diaz, ,Rosas Palermo Monzón Otiniano, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:339102bd-6e98-4727-9cb9-77b0c8ffa129
+uuid:f226c385-70d1-469c-ace8-b1d9c28b2aaa,collect:VHYfuVnvFfA0m4ra,04/07/22 16:52,eli_diaz, ,Geiner Alexander Otiniano Gaytan, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:f226c385-70d1-469c-ace8-b1d9c28b2aaa
+uuid:52fc46e2-1955-44db-9188-8d55c1fe93bd,collect:VHYfuVnvFfA0m4ra,04/07/22 16:55,eli_diaz, ,Segundo Cedano Escobedo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:52fc46e2-1955-44db-9188-8d55c1fe93bd
+uuid:e80cb43c-342d-4b25-b48a-b6d651d08e62,collect:VHYfuVnvFfA0m4ra,08/07/22 15:22,eli_diaz, ,Margarita Villalobos Meza, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:e80cb43c-342d-4b25-b48a-b6d651d08e62
+uuid:8026ff55-c25c-44d0-ab0a-84067afed8ff,collect:VHYfuVnvFfA0m4ra,08/07/22 15:34,eli_diaz, ,Hider Edwin Rodríguez Pereda, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:8026ff55-c25c-44d0-ab0a-84067afed8ff
+uuid:191da2ec-f89c-456f-8f37-bd5e9ac032d1,collect:VHYfuVnvFfA0m4ra,08/07/22 15:38,eli_diaz, ,Yesner Yoel Casas Fabian, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:191da2ec-f89c-456f-8f37-bd5e9ac032d1
+uuid:1cca82f3-11d4-4f82-a920-27625635795e,collect:VHYfuVnvFfA0m4ra,08/07/22 16:08,eli_diaz, ,Leónidas Idual Rodríguez Vidal, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:1cca82f3-11d4-4f82-a920-27625635795e
+uuid:ad0dce95-14ba-49c9-908d-18cfe4fbd2c7,collect:VHYfuVnvFfA0m4ra,08/07/22 16:15,eli_diaz, ,María Sirila Rodríguez Lopez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:ad0dce95-14ba-49c9-908d-18cfe4fbd2c7
+uuid:01ce2ffb-9ca8-4eb5-a3b9-a8ec9f20e142,collect:VHYfuVnvFfA0m4ra,08/07/22 16:24,eli_diaz, ,Valdemar Cirilo Rodríguez Layza, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:01ce2ffb-9ca8-4eb5-a3b9-a8ec9f20e142
+uuid:d381cd40-602a-47e2-9d5c-7604f7f60c2b,collect:VHYfuVnvFfA0m4ra,08/07/22 17:12,eli_diaz, ,Jose Fabián Villalobos, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:d381cd40-602a-47e2-9d5c-7604f7f60c2b
+uuid:7dfbd015-f1b9-4a7b-bbfd-34f62004565b,collect:VHYfuVnvFfA0m4ra,08/07/22 17:16,eli_diaz, ,Pablo Rodriguez Morales, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:7dfbd015-f1b9-4a7b-bbfd-34f62004565b
+uuid:79060934-a837-4476-8d8d-497d002de030,collect:VHYfuVnvFfA0m4ra,08/07/22 17:22,eli_diaz, ,Santos Rivera Cruz, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:79060934-a837-4476-8d8d-497d002de030
+uuid:f3d20467-670c-4b7f-aaaf-6913fe03351a,collect:VHYfuVnvFfA0m4ra,08/07/22 17:27,eli_diaz, ,Ana Castillo Valderrama, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:f3d20467-670c-4b7f-aaaf-6913fe03351a
+uuid:5e7cfc04-8609-4f54-9107-985a9ed8134a,collect:VHYfuVnvFfA0m4ra,09/07/22 10:30,eli_diaz, ,Lorenza Polo Vega, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:5e7cfc04-8609-4f54-9107-985a9ed8134a
+uuid:41fdc4ca-8bf4-48f8-b06c-b88b30e3cc59,collect:VHYfuVnvFfA0m4ra,09/07/22 10:40,eli_diaz, ,Kelyn Feliciita Robles Mauricio, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:41fdc4ca-8bf4-48f8-b06c-b88b30e3cc59
+uuid:31b71a37-c336-4fd2-8ea3-fbfec5281515,collect:VHYfuVnvFfA0m4ra,09/07/22 10:49,eli_diaz, ,Reynerio Ediberto Segura Contreras, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:31b71a37-c336-4fd2-8ea3-fbfec5281515
+uuid:562ff356-1129-43e7-b519-9b89b1fe64d6,collect:VHYfuVnvFfA0m4ra,09/07/22 10:54,eli_diaz, ,Ananias Paredes Perez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:562ff356-1129-43e7-b519-9b89b1fe64d6
+uuid:532c3288-8776-443d-8c25-a7b9cb17e26e,collect:VHYfuVnvFfA0m4ra,09/07/22 10:58,eli_diaz, ,Martina Alayo Chacon, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:532c3288-8776-443d-8c25-a7b9cb17e26e
+uuid:28c0dad4-450b-441b-b6c9-42fde10af0da,collect:VHYfuVnvFfA0m4ra,09/07/22 11:05,eli_diaz, ,Maria Andrea Valderrama Araujo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:28c0dad4-450b-441b-b6c9-42fde10af0da
+uuid:97628416-e818-473e-891f-3fde1d394a5a,collect:VHYfuVnvFfA0m4ra,09/07/22 11:08,eli_diaz, ,Elias Carranza Valderrama, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:97628416-e818-473e-891f-3fde1d394a5a
+uuid:50dcc83d-0fee-4a3b-af8a-ee9f11088563,collect:VHYfuVnvFfA0m4ra,09/07/22 11:13,eli_diaz, ,Jose Alejandro Briceño Rios, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:50dcc83d-0fee-4a3b-af8a-ee9f11088563
+uuid:9454f96d-80bc-4add-bd7c-a45b8747cadd,collect:VHYfuVnvFfA0m4ra,09/07/22 11:16,eli_diaz, ,Moisés Briceño Rodríguez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:9454f96d-80bc-4add-bd7c-a45b8747cadd
+uuid:448f9608-fd43-42ef-bd21-7f9d25004b39,collect:VHYfuVnvFfA0m4ra,09/07/22 11:19,eli_diaz, ,Eleuteria Guillen Cruz, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:448f9608-fd43-42ef-bd21-7f9d25004b39
+uuid:5227c84b-281d-4a05-bf6e-e199f89615cf,collect:VHYfuVnvFfA0m4ra,09/07/22 12:19,eli_diaz, ,Rosalia Jara Segura, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:5227c84b-281d-4a05-bf6e-e199f89615cf
+uuid:41806bb5-68b8-4e28-88f2-42c62c9e70e7,collect:VHYfuVnvFfA0m4ra,09/07/22 12:21,eli_diaz, ,Milner Jara Segura, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:41806bb5-68b8-4e28-88f2-42c62c9e70e7
+uuid:3f3665a2-4f17-40d1-9370-e40c309d01b9,collect:VHYfuVnvFfA0m4ra,09/07/22 12:23,eli_diaz, ,Angela Jicaro Robles, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:3f3665a2-4f17-40d1-9370-e40c309d01b9
+uuid:c44dea16-173d-41fe-946a-d59c096aec47,collect:VHYfuVnvFfA0m4ra,10/07/22 10:49,eli_diaz, ,Martha Sandoval Reyes, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:c44dea16-173d-41fe-946a-d59c096aec47
+uuid:0f81db71-e7fe-4358-a32c-289525bcca38,collect:VHYfuVnvFfA0m4ra,10/07/22 10:57,eli_diaz, ,Bulmer Gabriel Segura Contreras, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:0f81db71-e7fe-4358-a32c-289525bcca38
+uuid:0d3a2e3f-178b-454b-a290-3b3e8dc70703,collect:VHYfuVnvFfA0m4ra,10/07/22 11:03,eli_diaz, ,Celinda Acosta Martines, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:0d3a2e3f-178b-454b-a290-3b3e8dc70703
+uuid:a3908714-668c-4f2b-9051-f075822d4b31,collect:VHYfuVnvFfA0m4ra,10/07/22 11:06,eli_diaz, ,Maria Donatila Escobedo Siccha, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:a3908714-668c-4f2b-9051-f075822d4b31
+uuid:a93471ff-c58c-4fd2-90cf-41524d71fbad,collect:VHYfuVnvFfA0m4ra,10/07/22 11:10,eli_diaz, ,Santana Petronila Laiza Flores, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:a93471ff-c58c-4fd2-90cf-41524d71fbad
+uuid:fe5e7fb0-9614-497b-816a-d1a30da09e35,collect:VHYfuVnvFfA0m4ra,12/07/22 14:46,eli_diaz, ,Lucio Olber Ruiz Otiniano, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:fe5e7fb0-9614-497b-816a-d1a30da09e35
+uuid:aee855a8-6824-4812-889f-37e53be5af18,collect:VHYfuVnvFfA0m4ra,12/07/22 14:53,eli_diaz, ,Aquilino Fabián Rondo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:aee855a8-6824-4812-889f-37e53be5af18
+uuid:d7435e07-f545-41d1-a6f5-aef477191ce1,collect:VHYfuVnvFfA0m4ra,12/07/22 14:57,eli_diaz, ,Francisca Crespina Fabian Marquina, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:d7435e07-f545-41d1-a6f5-aef477191ce1
+uuid:4701a8a9-579c-4553-bddd-8e1e24431259,collect:VHYfuVnvFfA0m4ra,12/07/22 14:59,eli_diaz, ,Leonardo Fabian Marquina, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:4701a8a9-579c-4553-bddd-8e1e24431259
+uuid:336808f6-d7e7-4cd2-b7b0-920f5217435a,collect:VHYfuVnvFfA0m4ra,12/07/22 15:04,eli_diaz, ,Aide Ruiz Flores, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:336808f6-d7e7-4cd2-b7b0-920f5217435a
+uuid:e4be5faa-6d37-4230-b652-d784cd71e56b,collect:VHYfuVnvFfA0m4ra,12/07/22 15:07,eli_diaz, ,Nicolás Tandaypan Santos, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:e4be5faa-6d37-4230-b652-d784cd71e56b
+uuid:af7f17c3-c1af-4fa4-9b9a-cd148b04a86b,collect:VHYfuVnvFfA0m4ra,12/07/22 15:44,eli_diaz, ,Wilmer Ricardo Contreras Carbajal, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:af7f17c3-c1af-4fa4-9b9a-cd148b04a86b
+uuid:69fb8db4-2af1-408c-9f82-f2f273396169,collect:VHYfuVnvFfA0m4ra,12/07/22 15:46,eli_diaz, ,Miguel Contreras Carbajal, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:69fb8db4-2af1-408c-9f82-f2f273396169
+uuid:090bf836-9192-46f3-b94f-0bee93735fe7,collect:VHYfuVnvFfA0m4ra,12/07/22 15:49,eli_diaz, ,Cristian Contreras Infantes, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:090bf836-9192-46f3-b94f-0bee93735fe7
+uuid:1f0c01f5-4b8a-49d1-9eee-d0d02f7b5a80,collect:VHYfuVnvFfA0m4ra,03/08/22 14:50,eli_diaz, ,Benjamín Marquina Rodríguez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:1f0c01f5-4b8a-49d1-9eee-d0d02f7b5a80
+uuid:a349fd92-6322-4a27-aa6b-41c824560e07,collect:VHYfuVnvFfA0m4ra,03/08/22 14:57,eli_diaz, ,Oscar Orlando Jara Cruzado, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:a349fd92-6322-4a27-aa6b-41c824560e07
+uuid:e58864d6-7323-47e0-aa31-8b87f0891c65,collect:VHYfuVnvFfA0m4ra,03/08/22 15:08,eli_diaz, ,Francisco Monzón Otiniano, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:e58864d6-7323-47e0-aa31-8b87f0891c65
+uuid:ed172cf8-c91b-4be5-bd5c-9bb6686c8669,collect:VHYfuVnvFfA0m4ra,03/08/22 15:50,eli_diaz, ,Palmira Otiniano Baca, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:ed172cf8-c91b-4be5-bd5c-9bb6686c8669
+uuid:bfc076c8-ca37-4c86-b38c-0edfed1392f8,collect:VHYfuVnvFfA0m4ra,03/08/22 16:27,eli_diaz, ,Corona Flores Peña, ,innovacion,Papa,no_sembro, , ,heladas, , , , ,data-productividad-producto,uuid:bfc076c8-ca37-4c86-b38c-0edfed1392f8
+uuid:3ad649b5-c76b-4936-92a4-dad8f140c317,collect:VHYfuVnvFfA0m4ra,03/08/22 16:49,eli_diaz, ,Edgardo Fabian Rondo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:3ad649b5-c76b-4936-92a4-dad8f140c317
+uuid:b8232e99-b69d-4947-9453-a2cdaf2558f6,collect:VHYfuVnvFfA0m4ra,03/08/22 16:52,eli_diaz, ,Amelia Fanny Fabián Marquina, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:b8232e99-b69d-4947-9453-a2cdaf2558f6
+uuid:f14ca0be-e2df-4212-a8e1-27149d91b1c7,collect:VHYfuVnvFfA0m4ra,03/08/22 16:55,eli_diaz, ,Yaneth Yupanqui Segura, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:f14ca0be-e2df-4212-a8e1-27149d91b1c7
+uuid:1863792b-92fb-4250-b640-d8f2068383cf,collect:VHYfuVnvFfA0m4ra,05/08/22 10:07,eli_diaz, ,Gilber Casas Fabian, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:1863792b-92fb-4250-b640-d8f2068383cf
+uuid:020cf9f6-bf50-4189-b263-558c2ab593fd,collect:VHYfuVnvFfA0m4ra,05/08/22 11:00,eli_diaz, ,Sabina Yupanqui Segura, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:020cf9f6-bf50-4189-b263-558c2ab593fd
+uuid:dc806303-7be0-4a4b-b9bf-ad2abc99c51b,collect:VHYfuVnvFfA0m4ra,05/08/22 11:04,eli_diaz, ,Elsa Leonor Rios Saldoval, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:dc806303-7be0-4a4b-b9bf-ad2abc99c51b
+uuid:15505646-3340-4cdc-b3a8-b07aa3441c8f,collect:VHYfuVnvFfA0m4ra,05/08/22 11:07,eli_diaz, ,Roberto Emerito Rios Sandoval, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:15505646-3340-4cdc-b3a8-b07aa3441c8f
+uuid:f5b193dd-1834-41b4-ad87-c1b0939a96e8,collect:VHYfuVnvFfA0m4ra,05/08/22 11:12,eli_diaz, ,Santos Otiniano Araujo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:f5b193dd-1834-41b4-ad87-c1b0939a96e8
+uuid:e8f9d901-ebeb-4554-a5f5-363e6f8e0447,collect:VHYfuVnvFfA0m4ra,05/08/22 17:19,eli_diaz, ,Genara Paredes Vasquez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:e8f9d901-ebeb-4554-a5f5-363e6f8e0447
+uuid:417589ab-08ae-4f88-a6c0-98d74cc44d94,collect:VHYfuVnvFfA0m4ra,05/08/22 17:22,eli_diaz, ,Martha Araujo Valderrama, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:417589ab-08ae-4f88-a6c0-98d74cc44d94
+uuid:93855176-452e-400c-9ce7-02854b226944,collect:VHYfuVnvFfA0m4ra,05/08/22 17:31,eli_diaz, ,Elmer Yupanqui Segura, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:93855176-452e-400c-9ce7-02854b226944
+uuid:a5f2295f-a910-451d-adf6-dd68b5ab366a,collect:VHYfuVnvFfA0m4ra,05/08/22 17:34,eli_diaz, ,Adrian Paredes Perez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:a5f2295f-a910-451d-adf6-dd68b5ab366a
+uuid:86beb75e-abd4-46c8-b3e7-e11e5bde829f,collect:VHYfuVnvFfA0m4ra,05/08/22 17:37,eli_diaz, ,Francisca Maria Vega Polo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:86beb75e-abd4-46c8-b3e7-e11e5bde829f
+uuid:650c9042-b12c-4330-92e2-e087e973ce26,collect:VHYfuVnvFfA0m4ra,05/08/22 17:43,eli_diaz, ,Irma Rivera Murga, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:650c9042-b12c-4330-92e2-e087e973ce26
+uuid:1b97de22-f9b4-45d8-8acc-1f50bdc63ee5,collect:VHYfuVnvFfA0m4ra,05/08/22 17:52,eli_diaz, ,Santos Vascuence Serin, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:1b97de22-f9b4-45d8-8acc-1f50bdc63ee5
+uuid:c489b767-660c-48ef-af7f-7b7d52830a8e,collect:VHYfuVnvFfA0m4ra,05/08/22 17:57,eli_diaz, ,Melder Arquimines Gamboa Polo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:c489b767-660c-48ef-af7f-7b7d52830a8e
+uuid:fe5970e9-58d6-4fb3-b2cf-69bf0c5876aa,collect:VHYfuVnvFfA0m4ra,05/08/22 18:04,eli_diaz, ,Edilberto Rodriguez Contreras, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:fe5970e9-58d6-4fb3-b2cf-69bf0c5876aa
+uuid:02d1efcc-551c-44e7-8390-9b06aee28a3e,collect:VHYfuVnvFfA0m4ra,05/08/22 18:25,eli_diaz, ,Gelber Yulber Baca Otiniano, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:02d1efcc-551c-44e7-8390-9b06aee28a3e
+uuid:e1434755-a70f-4ffd-98d7-3741d84d7c19,collect:VHYfuVnvFfA0m4ra,12/08/22 17:24,eli_diaz, ,Julio Layza Flores, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:e1434755-a70f-4ffd-98d7-3741d84d7c19
+uuid:85d26290-0820-444a-9ff7-589fc66ee716,collect:VHYfuVnvFfA0m4ra,12/08/22 17:29,eli_diaz, ,Pantaleon Neira Yupanqui, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:85d26290-0820-444a-9ff7-589fc66ee716
+uuid:3ce7e99e-a209-4aef-bfbd-11b8ccc4d40d,collect:QdSIOpsZbgRwWgyU,19/05/22 16:19,demetrio_flores, ,Heber Chirado Acosta,Vista Florida,innovacion,Papa,mayor,factores_manejo, , , ,"establecimiento, manejo_malezas, control_plagas_enfermedades, fertilizacion, riego", ,1,data-productividad-producto,uuid:3ce7e99e-a209-4aef-bfbd-11b8ccc4d40d
+uuid:2dc24011-e430-4039-9b76-055f0c69abda,collect:QdSIOpsZbgRwWgyU,01/09/22 08:23,demetrio_flores, ,Lucas Cruz Rios,Pucusho,innovacion,Papa,mayor,factores_manejo, ,sequia, ,riego, ,4,data-productividad-producto,uuid:2dc24011-e430-4039-9b76-055f0c69abda
+uuid:ea0953dd-013d-470c-8390-b821c9585acf,collect:QdSIOpsZbgRwWgyU,01/09/22 10:40,demetrio_flores, ,Eleodoro Melon Salvador, ,innovacion,Papa,mayor,factores_manejo, ,otro,Prescencia de enfermedades,control_plagas_enfermedades, ,3,data-productividad-producto,uuid:ea0953dd-013d-470c-8390-b821c9585acf
+uuid:74c59911-4eed-4023-88b6-c4d409ab98d7,collect:9amcu0OU0KMXnCw7,04/10/22 11:00,alex_villanueva, ,Jamenes Fabian Marquina,CH-651,innovacion,Papa,igual,ambos, ,heladas, ,control_plagas_enfermedades, ,3,data-productividad-producto,uuid:74c59911-4eed-4023-88b6-c4d409ab98d7
+uuid:6a2af28e-ed67-4183-9866-c8e18f051702,collect:9amcu0OU0KMXnCw7,04/10/22 15:10,alex_villanueva, ,Estalisnao Infante Sandoval,CH-653,innovacion,Papa,igual,ambos, ,"heladas, granizo", ,"establecimiento, control_plagas_enfermedades", ,4,data-productividad-producto,uuid:6a2af28e-ed67-4183-9866-c8e18f051702
+uuid:6df6302a-1d5a-487c-a931-a825457c3218,collect:9amcu0OU0KMXnCw7,04/10/22 15:50,alex_villanueva, ,Gregorio Carvajal Peña,CH-654,innovacion,Papa,igual,factores_ambientales, ,"heladas, granizo", ,"establecimiento, fertilizacion, control_plagas_enfermedades", ,4,data-productividad-producto,uuid:6df6302a-1d5a-487c-a931-a825457c3218
+uuid:1621f44c-398a-4393-b0d3-b1bc23867ddc,collect:9amcu0OU0KMXnCw7,04/10/22 16:18,alex_villanueva, ,Teonila Vaca Briceño,CH-666,innovacion,Papa,mayor,factores_ambientales, ,"heladas, granizo", ,"establecimiento, control_plagas_enfermedades, fertilizacion", ,4,data-productividad-producto,uuid:1621f44c-398a-4393-b0d3-b1bc23867ddc
+uuid:7b0b4595-bcc5-4e17-823e-07de5e4c726e,collect:9amcu0OU0KMXnCw7,04/10/22 16:47,alex_villanueva, ,Edita Floresminda Yupanqui Segura,CH-667,innovacion,Papa,mayor,ambos, , , ,"manejo_malezas, control_plagas_enfermedades", ,3,data-productividad-producto,uuid:7b0b4595-bcc5-4e17-823e-07de5e4c726e
+uuid:17dbacb5-4d07-414c-a0d2-12607e9c76c9,collect:9amcu0OU0KMXnCw7,25/10/22 13:35,alex_villanueva, ,Rositas Loaiza reyes,CH125-2,innovacion,Papa,igual,ambos, , , , , ,2,data-productividad-producto,uuid:17dbacb5-4d07-414c-a0d2-12607e9c76c9
+uuid:ae62bfa9-4c51-4bbf-947f-121cad7c2c4a,collect:9amcu0OU0KMXnCw7,25/10/22 22:09,alex_villanueva, ,Wilder Loayza Reyes,CH670,innovacion,Papa,igual,ambos, , , , , ,3,data-productividad-producto,uuid:ae62bfa9-4c51-4bbf-947f-121cad7c2c4a
+uuid:78e9d89e-afb1-4d9a-98af-68369e23167e,collect:9amcu0OU0KMXnCw7,25/10/22 22:32,alex_villanueva, ,Andudina Flores Campos,CH-670,innovacion,Papa,igual,ambos, , , , , ,4,data-productividad-producto,uuid:78e9d89e-afb1-4d9a-98af-68369e23167e
+uuid:f246d804-4598-48b4-ade3-379a6c292903,collect:9amcu0OU0KMXnCw7,25/10/22 23:26,alex_villanueva, ,Almilcar Marquina Perez,CH671,innovacion,Papa,igual,ambos, , , , , ,3,data-productividad-producto,uuid:f246d804-4598-48b4-ade3-379a6c292903
+uuid:e4287c36-d570-4b54-bf54-560a1bc8b815,collect:9amcu0OU0KMXnCw7,25/10/22 23:39,alex_villanueva, ,Jony Murga Infante,CH672,innovacion,Papa,igual,ambos, , , , , ,2,data-productividad-producto,uuid:e4287c36-d570-4b54-bf54-560a1bc8b815
+uuid:e8ff6f18-bef3-499f-b476-f9819125d86e,collect:9amcu0OU0KMXnCw7,25/10/22 23:59,alex_villanueva, ,Wilmer Rodríguez Marquina,CH-673,innovacion,Papa,igual,ambos, , , , , , ,data-productividad-producto,uuid:e8ff6f18-bef3-499f-b476-f9819125d86e
+uuid:09577d2a-1819-41bc-be17-85cdaad66449,collect:9amcu0OU0KMXnCw7,26/10/22 10:06,alex_villanueva, ,Carlos  Yupanqui Alva,CH -764,innovacion,Papa,igual,ambos, , , , , ,3,data-productividad-producto,uuid:09577d2a-1819-41bc-be17-85cdaad66449
+uuid:417fcb79-b4da-4ae2-8781-5afea68be1c5,collect:9amcu0OU0KMXnCw7,26/10/22 10:21,alex_villanueva, ,Carlos Yauri Murga,CH - 675,innovacion,Papa,igual,ambos, , , , , ,3,data-productividad-producto,uuid:417fcb79-b4da-4ae2-8781-5afea68be1c5
+uuid:b606c34b-cffa-4c9a-9576-bdba5f56e714,collect:9amcu0OU0KMXnCw7,26/10/22 10:42,alex_villanueva, ,Ciro Marquina Rodriguez,CH-695,innovacion,Papa,igual,ambos, , , , , ,4,data-productividad-producto,uuid:b606c34b-cffa-4c9a-9576-bdba5f56e714
+uuid:3743870f-f5e1-4a5d-b5ee-9bca7c88e944,collect:9amcu0OU0KMXnCw7,26/10/22 11:04,alex_villanueva, ,María Magdalena Rodriguez Morales,CH-695,innovacion,Papa,igual,ambos, , , , , , ,data-productividad-producto,uuid:3743870f-f5e1-4a5d-b5ee-9bca7c88e944
+uuid:fe02ea26-7a4a-4698-8f6a-350f5262f523,collect:9amcu0OU0KMXnCw7,26/10/22 11:16,alex_villanueva, ,Dionicio Rojas Contreras,CH-696,innovacion,Papa,igual,ambos, , , , , ,3,data-productividad-producto,uuid:fe02ea26-7a4a-4698-8f6a-350f5262f523
+uuid:485c70bf-86ff-4224-a8d2-cf64d78e8fc2,collect:9amcu0OU0KMXnCw7,26/10/22 11:29,alex_villanueva, ,Sixto Yupanqui Alva,CH-698,innovacion,Papa,igual,ambos, , , , , , ,data-productividad-producto,uuid:485c70bf-86ff-4224-a8d2-cf64d78e8fc2
+uuid:bc0b347b-c8fd-4c1f-820f-67f799fe0061,collect:9amcu0OU0KMXnCw7,26/10/22 15:12,alex_roncal, ,Manuel Milton Briceño Monzón,CH-655,innovacion,Papa,igual,ambos, , , , , ,3,data-productividad-producto,uuid:bc0b347b-c8fd-4c1f-820f-67f799fe0061
+uuid:0106e1b6-77bb-40ab-bc9b-a347b2b76c5a,collect:9amcu0OU0KMXnCw7,26/10/22 15:36,alex_roncal, ,María Infante Peña,CH-6556,innovacion,Papa,igual,ambos, , , , , ,3,data-productividad-producto,uuid:0106e1b6-77bb-40ab-bc9b-a347b2b76c5a
+uuid:e4f5e1b4-51e2-4e74-964f-9214c4876cb6,collect:9amcu0OU0KMXnCw7,26/10/22 15:58,alex_roncal, ,Luisa Melania Chacon Carbajal,CH-657,innovacion,Papa,igual,ambos, , , , , ,3,data-productividad-producto,uuid:e4f5e1b4-51e2-4e74-964f-9214c4876cb6
+uuid:32903af1-6e9f-482b-90fc-9a11c3a58e62,collect:9amcu0OU0KMXnCw7,26/10/22 16:14,alex_roncal, ,Marina Baca Lopez,CH-658,innovacion,Papa,igual,ambos, , , , , ,3,data-productividad-producto,uuid:32903af1-6e9f-482b-90fc-9a11c3a58e62
+uuid:828a6a39-a3c6-4b54-a600-0ce097f93cfc,collect:9amcu0OU0KMXnCw7,26/10/22 16:28,alex_roncal, ,Alejandro Yupanqui Marquina,CH-569,innovacion,Papa,igual,ambos, , , , , ,3,data-productividad-producto,uuid:828a6a39-a3c6-4b54-a600-0ce097f93cfc
+uuid:73cf8839-05c4-44ce-b73f-15ee3f39b515,collect:9amcu0OU0KMXnCw7,26/10/22 16:43,alex_roncal, ,Victor Raul Campos Aguirre,CH-660,innovacion,Papa,igual,ambos, , , , , ,3,data-productividad-producto,uuid:73cf8839-05c4-44ce-b73f-15ee3f39b515
+uuid:6954c565-6008-4f14-8818-b6faf55b720d,collect:9amcu0OU0KMXnCw7,26/10/22 17:07,alex_roncal, ,Hipolito Valles Marquina,CH-661,innovacion,Papa,igual,ambos, , , , , ,3,data-productividad-producto,uuid:6954c565-6008-4f14-8818-b6faf55b720d
+uuid:85f0fb80-7109-4885-843f-86580c1c81f8,collect:QdSIOpsZbgRwWgyU,03/11/22 07:17,demetrio_flores, ,Justino Alcides Cerín Anticona, ,innovacion,Papa,no_sembro, , , , , , ,2,data-productividad-producto,uuid:85f0fb80-7109-4885-843f-86580c1c81f8
+uuid:5549bfad-c18a-41ec-be76-0880c8fd20f0,collect:VHYfuVnvFfA0m4ra,04/11/22 10:46,eli_diaz, ,Hermes Marquina Perez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:5549bfad-c18a-41ec-be76-0880c8fd20f0
+uuid:397e8129-1f4e-4e8a-842a-065465fa5d20,collect:VHYfuVnvFfA0m4ra,04/11/22 10:57,eli_diaz, ,Esmith Cruzado Perez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:397e8129-1f4e-4e8a-842a-065465fa5d20
+uuid:3c5430bf-04b7-4066-910e-39163c62278d,collect:VHYfuVnvFfA0m4ra,04/11/22 11:02,eli_diaz, ,Ermogenes Leonidas Carvajal Bartolo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:3c5430bf-04b7-4066-910e-39163c62278d
+uuid:a7884f86-780f-44ae-b06c-acbbd33c91fb,collect:VHYfuVnvFfA0m4ra,04/11/22 12:24,eli_diaz, ,Irene Marcelo Briceño, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:a7884f86-780f-44ae-b06c-acbbd33c91fb
+uuid:863e407c-e2eb-4cdb-b0a9-1359f0ea878d,collect:VHYfuVnvFfA0m4ra,04/11/22 12:27,eli_diaz, ,Luis Felipe Otiniano Briceño, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:863e407c-e2eb-4cdb-b0a9-1359f0ea878d
+uuid:05f82f60-a0b3-4d60-a193-0a9aa761adbb,collect:VHYfuVnvFfA0m4ra,04/11/22 15:57,eli_diaz, ,Gonzalo Siccha Marcelo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:05f82f60-a0b3-4d60-a193-0a9aa761adbb
+uuid:80d26ae4-618d-4d8f-9436-f2f541975006,collect:VHYfuVnvFfA0m4ra,04/11/22 16:01,eli_diaz, ,Santos Neyra Polo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:80d26ae4-618d-4d8f-9436-f2f541975006
+uuid:f2a415f8-5517-4e35-bebe-2216cecec91a,collect:VHYfuVnvFfA0m4ra,04/11/22 16:06,eli_diaz, ,Angela Vega Polo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:f2a415f8-5517-4e35-bebe-2216cecec91a
+uuid:ce33e68f-7cc5-47fa-bb1d-7884a146584c,collect:VHYfuVnvFfA0m4ra,04/11/22 16:09,eli_diaz, ,Gladis Briceño Vega, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:ce33e68f-7cc5-47fa-bb1d-7884a146584c
+uuid:87cfd93d-fa46-4c11-aedc-0419b692b888,collect:VHYfuVnvFfA0m4ra,04/11/22 16:13,eli_diaz, ,Oscar Sedano Escovedo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:87cfd93d-fa46-4c11-aedc-0419b692b888
+uuid:d7a3be03-30f9-43df-ac98-0bea5b67ac3c,collect:VHYfuVnvFfA0m4ra,05/11/22 16:38,eli_diaz, ,Elsa Carvajal Bartolo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:d7a3be03-30f9-43df-ac98-0bea5b67ac3c
+uuid:bbda0fba-f78c-4e3b-a4ec-20a97047bcd1,collect:VHYfuVnvFfA0m4ra,05/11/22 16:39,eli_diaz, ,Lucio Sandoval Peña, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:bbda0fba-f78c-4e3b-a4ec-20a97047bcd1
+uuid:93b70fbf-b353-4cec-acb1-6772cb07803b,collect:VHYfuVnvFfA0m4ra,05/11/22 16:40,eli_diaz, ,Omar Cruzado Ultima, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:93b70fbf-b353-4cec-acb1-6772cb07803b
+uuid:f967d7ad-bdc6-49e0-87c4-cb618bf2193f,collect:VHYfuVnvFfA0m4ra,05/11/22 16:40,eli_diaz, ,Ismael Vasquez Segura, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:f967d7ad-bdc6-49e0-87c4-cb618bf2193f
+uuid:5e791f9e-ea3c-4cac-817f-4c87bf61c305,collect:VHYfuVnvFfA0m4ra,05/11/22 16:41,eli_diaz, ,Esperanza Paredes Perez, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:5e791f9e-ea3c-4cac-817f-4c87bf61c305
+uuid:de634073-bc9c-4faa-b21d-302553844146,collect:VHYfuVnvFfA0m4ra,05/11/22 16:42,eli_diaz, ,Agustin Cruz Layza, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:de634073-bc9c-4faa-b21d-302553844146
+uuid:c4f8581a-ef9e-4e99-9b08-9161aa3d6357,collect:VHYfuVnvFfA0m4ra,05/11/22 16:43,eli_diaz, ,Francisco Araujo Alvarado, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:c4f8581a-ef9e-4e99-9b08-9161aa3d6357
+uuid:b82f5a2a-4846-42ae-a4b6-4172923b607b,collect:VHYfuVnvFfA0m4ra,05/11/22 16:44,eli_diaz, ,Jesus Chacón Neyra, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:b82f5a2a-4846-42ae-a4b6-4172923b607b
+uuid:29f14066-b84b-4e48-8464-419334d791d0,collect:VHYfuVnvFfA0m4ra,05/11/22 16:45,eli_diaz, ,Talia Yupanqui Cruz , ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:29f14066-b84b-4e48-8464-419334d791d0
+uuid:3572deb2-4227-4138-93cc-9c2ecb867736,collect:VHYfuVnvFfA0m4ra,05/11/22 16:46,eli_diaz, ,Manuel Cristobal Salinas, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:3572deb2-4227-4138-93cc-9c2ecb867736
+uuid:b960a1a7-82b5-4e7e-967f-52239b4b6883,collect:VHYfuVnvFfA0m4ra,07/11/22 10:20,eli_diaz, ,Eulalia Briceño Vaca, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:b960a1a7-82b5-4e7e-967f-52239b4b6883
+uuid:6af6b3c1-78b8-4e9a-8164-ced1cb7c2e39,collect:VHYfuVnvFfA0m4ra,07/11/22 10:48,eli_diaz, ,Lusbinda Lara Briceño, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:6af6b3c1-78b8-4e9a-8164-ced1cb7c2e39
+uuid:10545a18-53d5-443c-b114-d4650c8d5771,collect:VHYfuVnvFfA0m4ra,07/11/22 12:23,eli_diaz, ,Ermelinda Mili Chacon Baca, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:10545a18-53d5-443c-b114-d4650c8d5771
+uuid:9a4195f3-5f5d-4264-98e5-26a8de16ad74,collect:VHYfuVnvFfA0m4ra,07/11/22 12:50,eli_diaz, ,Pedro Carranza Crisologo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:9a4195f3-5f5d-4264-98e5-26a8de16ad74
+uuid:9c717eb0-5644-4a88-b45c-c7cf0e6c3187,collect:VHYfuVnvFfA0m4ra,08/11/22 09:25,eli_diaz, ,Erminda Santos Jara Rios, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:9c717eb0-5644-4a88-b45c-c7cf0e6c3187
+uuid:1f4f3e70-a8cc-4e70-90df-48ad8419cbf8,collect:VHYfuVnvFfA0m4ra,08/11/22 10:35,eli_diaz, ,Reyna Cruz Nontol, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:1f4f3e70-a8cc-4e70-90df-48ad8419cbf8
+uuid:4a662001-75c0-4d46-b83e-5c12dfca0aa2,collect:VHYfuVnvFfA0m4ra,08/11/22 10:58,eli_diaz, ,Eligio Cruz Mendoza, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:4a662001-75c0-4d46-b83e-5c12dfca0aa2
+uuid:397aa35d-99ed-4673-91f7-2e5f770daae3,collect:VHYfuVnvFfA0m4ra,08/11/22 11:37,eli_diaz, ,Filomena Nontol Briceño, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:397aa35d-99ed-4673-91f7-2e5f770daae3
+uuid:fe8d7060-e54c-4ec3-915f-85973a569515,collect:VHYfuVnvFfA0m4ra,08/11/22 12:43,eli_diaz, ,Pedro Chacon Cruz, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:fe8d7060-e54c-4ec3-915f-85973a569515
+uuid:ecdb5718-fd2d-4a0b-b49b-e1ad64197778,collect:VHYfuVnvFfA0m4ra,08/11/22 12:48,eli_diaz, ,Petronila Rosa Yupanqui Guzman, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:ecdb5718-fd2d-4a0b-b49b-e1ad64197778
+uuid:e28855fa-07fe-481d-bbbc-b201143cd721,collect:VHYfuVnvFfA0m4ra,15/11/22 12:54,eli_diaz, ,Eusebio Cruz Carbajal, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:e28855fa-07fe-481d-bbbc-b201143cd721
+uuid:fafcaa42-d9f9-4637-b7fd-ee1be8cb2b37,collect:VHYfuVnvFfA0m4ra,15/11/22 13:01,eli_diaz, ,Leodan Chacon Yupanqui, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:fafcaa42-d9f9-4637-b7fd-ee1be8cb2b37
+uuid:596c87e8-2a98-456e-abdb-3aa258e7c424,collect:VHYfuVnvFfA0m4ra,15/11/22 13:27,eli_diaz, ,Teodora Cruz Carbajal, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:596c87e8-2a98-456e-abdb-3aa258e7c424
+uuid:0089e5d5-0666-4275-be4d-cddd26942366,collect:VHYfuVnvFfA0m4ra,15/11/22 13:33,eli_diaz, ,Pablo Cruz Carbajal, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:0089e5d5-0666-4275-be4d-cddd26942366
+uuid:ce24c188-38e2-40f9-a024-c35b6c14004f,collect:VHYfuVnvFfA0m4ra,15/11/22 15:15,eli_diaz, ,Maria Pilar Salinas Villalobos, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:ce24c188-38e2-40f9-a024-c35b6c14004f
+uuid:11f9cd04-ceb7-4652-8656-ce8c37b08734,collect:VHYfuVnvFfA0m4ra,15/11/22 15:21,eli_diaz, ,Martha Chacon Aranda, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:11f9cd04-ceb7-4652-8656-ce8c37b08734
+uuid:a4901973-7ecc-4535-b324-19ccf39a3b50,collect:VHYfuVnvFfA0m4ra,15/11/22 15:26,eli_diaz, ,Wili Reyes Neyra, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:a4901973-7ecc-4535-b324-19ccf39a3b50
+uuid:ec70f0a2-bfed-4f74-b1df-cc96d168281f,collect:VHYfuVnvFfA0m4ra,15/11/22 15:31,eli_diaz, ,Paulino Vera Rios, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:ec70f0a2-bfed-4f74-b1df-cc96d168281f
+uuid:1f8efc25-9502-4aba-b791-021f3b45872b,collect:VHYfuVnvFfA0m4ra,15/11/22 15:34,eli_diaz, ,Nicolas Segura Rebaza, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:1f8efc25-9502-4aba-b791-021f3b45872b
+uuid:510edb0f-2916-40ad-b6c3-1992d9ee1278,collect:VHYfuVnvFfA0m4ra,15/11/22 15:39,eli_diaz, ,Nilton yober Segura Vera, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:510edb0f-2916-40ad-b6c3-1992d9ee1278
+uuid:f90f57fd-58ac-4ccc-afde-e7e6c71398f0,collect:VHYfuVnvFfA0m4ra,15/11/22 15:47,eli_diaz, ,Faustino Cabrera Reyes, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:f90f57fd-58ac-4ccc-afde-e7e6c71398f0
+uuid:1b3f6a68-72cb-4e8d-b216-8159d0571aed,collect:VHYfuVnvFfA0m4ra,15/11/22 16:10,eli_diaz, ,Marcine Mayrita Cabrera Garcia, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:1b3f6a68-72cb-4e8d-b216-8159d0571aed
+uuid:b8b89de0-481b-4105-84f5-9ac7277e5a37,collect:VHYfuVnvFfA0m4ra,15/11/22 16:25,eli_diaz, ,Jesus Alberto Chacon Ruiz, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:b8b89de0-481b-4105-84f5-9ac7277e5a37
+uuid:0b53cf2d-a687-422a-9ae1-85bc5eaa93fe,collect:VHYfuVnvFfA0m4ra,15/11/22 17:33,eli_diaz, ,Bimael Antoli Neira Rojas, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:0b53cf2d-a687-422a-9ae1-85bc5eaa93fe
+uuid:683f38d3-2dab-4f97-a2db-efc83cb3ff7c,collect:VHYfuVnvFfA0m4ra,16/11/22 07:55,eli_diaz, ,Pedro Valderrama Rodriges, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:683f38d3-2dab-4f97-a2db-efc83cb3ff7c
+uuid:86a1314c-69f0-46f0-88cc-4cc58a52609c,collect:VHYfuVnvFfA0m4ra,16/11/22 08:15,eli_diaz, ,Ana Vilma Mora Caipo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:86a1314c-69f0-46f0-88cc-4cc58a52609c
+uuid:be2b9728-48ce-41bc-98a0-858acbd5de74,collect:VHYfuVnvFfA0m4ra,16/11/22 08:38,eli_diaz, ,Reynaldo Espejo Cantreras, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:be2b9728-48ce-41bc-98a0-858acbd5de74
+uuid:65d0c3c1-de9a-4cdc-a543-7a435a92aca8,collect:VHYfuVnvFfA0m4ra,16/11/22 08:55,eli_diaz, ,Clever Contreras Vasques, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:65d0c3c1-de9a-4cdc-a543-7a435a92aca8
+uuid:779a620f-da17-4f1f-a79e-c37268807e9b,collect:VHYfuVnvFfA0m4ra,16/11/22 09:11,eli_diaz, ,Lener Leodan Reyes Infantes, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:779a620f-da17-4f1f-a79e-c37268807e9b
+uuid:9059a8ed-0581-4e6e-a0ad-0d30d8ecdb0a,collect:VHYfuVnvFfA0m4ra,16/11/22 09:20,eli_diaz, ,Aldo Edu Reyes Infantes, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:9059a8ed-0581-4e6e-a0ad-0d30d8ecdb0a
+uuid:da1d9dc7-f1d4-4dbd-b169-746470f7a9b6,collect:VHYfuVnvFfA0m4ra,26/11/22 09:14,eli_diaz, ,Aniano Cerin Vera, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:da1d9dc7-f1d4-4dbd-b169-746470f7a9b6
+uuid:67fa0510-7b19-4a25-a288-9233a71213d0,collect:VHYfuVnvFfA0m4ra,26/11/22 10:16,eli_diaz, ,Lillana yaquelin Gamboa Polo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:67fa0510-7b19-4a25-a288-9233a71213d0
+uuid:171de4cb-e79a-418a-999e-4aa87f5c638c,collect:VHYfuVnvFfA0m4ra,26/11/22 10:45,eli_diaz, ,Jerman Neira Yupanqui, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:171de4cb-e79a-418a-999e-4aa87f5c638c
+uuid:5e12172b-2816-4999-acc8-300d639ebf73,collect:VHYfuVnvFfA0m4ra,26/11/22 11:21,eli_diaz, ,Yesica maritsa Morales Caipo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:5e12172b-2816-4999-acc8-300d639ebf73
+uuid:72ac0cd5-1485-4380-b190-f21305b1ae8d,collect:VHYfuVnvFfA0m4ra,26/11/22 11:47,eli_diaz, ,Richar Humberto Chacon Valles, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:72ac0cd5-1485-4380-b190-f21305b1ae8d
+uuid:14acb643-075d-4d8a-858e-f5255ea2e08e,collect:VHYfuVnvFfA0m4ra,27/11/22 08:18,eli_diaz, ,Wilson Morales Renjifo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:14acb643-075d-4d8a-858e-f5255ea2e08e
+uuid:0a218370-2da2-4c6d-853c-da4f81989833,collect:VHYfuVnvFfA0m4ra,27/11/22 09:29,eli_diaz, ,Pablo Chacon Neyra, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:0a218370-2da2-4c6d-853c-da4f81989833
+uuid:eea34519-da1e-4415-a2dd-fbfaef095fec,collect:VHYfuVnvFfA0m4ra,27/11/22 10:18,eli_diaz, ,Aurelio Cerin Vera, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:eea34519-da1e-4415-a2dd-fbfaef095fec
+uuid:e89c66e3-092c-40f3-ac50-d187998101b4,collect:VHYfuVnvFfA0m4ra,27/11/22 11:31,eli_diaz, ,Ariet ovita Briseño Caipo, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:e89c66e3-092c-40f3-ac50-d187998101b4
+uuid:a3e06dd6-82cd-4c47-b5fe-b3245cd966d9,collect:VHYfuVnvFfA0m4ra,27/11/22 11:52,eli_diaz, ,Marcos Briseño Mauricio, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:a3e06dd6-82cd-4c47-b5fe-b3245cd966d9
+uuid:6de8c1b2-4119-45c2-9e1f-5c0396f00982,collect:VHYfuVnvFfA0m4ra,28/11/22 09:33,eli_diaz, ,Rosa Onorio Malqui, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:6de8c1b2-4119-45c2-9e1f-5c0396f00982
+uuid:c4d5ed66-adde-439a-9fe4-de14a340c849,collect:VHYfuVnvFfA0m4ra,28/11/22 10:19,eli_diaz, ,Adrian Vasques Ramos, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:c4d5ed66-adde-439a-9fe4-de14a340c849
+uuid:fe126676-753c-4a03-b8d7-29e19341d9e2,collect:VHYfuVnvFfA0m4ra,28/11/22 10:45,eli_diaz, ,Adelmo Fernandez Briceño, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:fe126676-753c-4a03-b8d7-29e19341d9e2
+uuid:ed2c385c-fbfe-4e5c-8270-68538ef222ad,collect:VHYfuVnvFfA0m4ra,28/11/22 11:35,eli_diaz, ,Porfirio Roman Robles, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:ed2c385c-fbfe-4e5c-8270-68538ef222ad
+uuid:de7ff1d1-c67d-4b86-9abc-1d93dda77b72,collect:VHYfuVnvFfA0m4ra,28/11/22 11:56,eli_diaz, ,Jeferson Briceño Layza, ,innovacion,Papa,no_sembro, , , , , , ,1,data-productividad-producto,uuid:de7ff1d1-c67d-4b86-9abc-1d93dda77b72
+uuid:cd064263-8727-4e1f-ab4d-ce707d064e04,collect:QdSIOpsZbgRwWgyU,23/11/22 13:15,demetrio_flores, ,Rosa Alfaro Quijano, ,innovacion,Papa,mayor,factores_manejo, , , ,"control_plagas_enfermedades, fertilizacion", ,2,data-productividad-producto,uuid:cd064263-8727-4e1f-ab4d-ce707d064e04
+uuid:6f9caece-81d0-4aeb-8276-19a1f8a77b15,collect:QdSIOpsZbgRwWgyU,28/11/22 14:41,demetrio_flores, ,Arceño Figueroa Guzmán,Suyubamba,innovacion,Papa,mayor,factores_manejo, , , ,control_plagas_enfermedades, ,2,data-productividad-producto,uuid:6f9caece-81d0-4aeb-8276-19a1f8a77b15
+uuid:ef3c912d-5eab-4644-ac8c-ba2f926660d2,collect:QdSIOpsZbgRwWgyU,24/01/23 08:02,demetrio_flores, ,Dionisio Alonso Valderrama,Sillabamba,innovacion,Papa,mayor,ambos, ,sequia, ,control_plagas_enfermedades, ,2,data-productividad-producto,uuid:ef3c912d-5eab-4644-ac8c-ba2f926660d2
+uuid:05f6db05-531a-4c5c-8fb4-679d4f14f8ba,collect:QdSIOpsZbgRwWgyU,24/01/23 08:05,demetrio_flores, ,Luis Jhoel Chirado Acosta,Sillabamba,innovacion,Papa,no_sembro, , , , ,control_plagas_enfermedades, ,3,data-productividad-producto,uuid:05f6db05-531a-4c5c-8fb4-679d4f14f8ba
+uuid:aa5db73a-358d-4b66-918a-2a06e9ee4571,collect:x0pmfLv6AGoCj3zt,08/02/23 16:37,jose_cieza, ,Juan Ponce Narro,Ampishillón,innovacion,Papa,menor,factores_ambientales, ,sequia, ,riego, ,3,data-productividad-producto,uuid:aa5db73a-358d-4b66-918a-2a06e9ee4571
+uuid:7cf28838-d22c-40c1-be2c-0be400731484,collect:QdSIOpsZbgRwWgyU,22/03/23 15:15,demetrio_flores, ,Norma Torres Mendieta,Pias,innovacion,Papa,igual,factores_manejo, , , ,control_plagas_enfermedades, ,2,data-productividad-producto,uuid:7cf28838-d22c-40c1-be2c-0be400731484
+uuid:65d6923a-7ed2-430c-9774-323ae86be86c,collect:QdSIOpsZbgRwWgyU,22/03/23 15:21,demetrio_flores, ,Leyda Yaneli Huamán Vasquez, ,innovacion,Papa,no_sembro, , , , , , ,2,data-productividad-producto,uuid:65d6923a-7ed2-430c-9774-323ae86be86c
+uuid:42cadf05-26fd-4409-b663-ed8dc78ae2f3,collect:QdSIOpsZbgRwWgyU,22/03/23 15:28,demetrio_flores, ,Dante Leonel Layza Mendoza, ,innovacion,Papa,mayor,factores_manejo, , , ,control_plagas_enfermedades, ,3,data-productividad-producto,uuid:42cadf05-26fd-4409-b663-ed8dc78ae2f3
+uuid:eb6256f5-4133-446e-bf07-b07fcf236b66,collect:QdSIOpsZbgRwWgyU,22/03/23 15:50,demetrio_flores, ,Bacilia Baca Huaman, ,innovacion,Papa,igual, , , , , , ,2,data-productividad-producto,uuid:eb6256f5-4133-446e-bf07-b07fcf236b66
+uuid:97a51f39-4fe9-415f-b4ae-42436562cb46,collect:x0pmfLv6AGoCj3zt,04/04/23 09:38,jose_cieza, ,José Moreno Medina, ,innovacion,Papa,menor,factores_ambientales, ,sequia, ,otro_factor_manejo,Sequía,3,data-productividad-producto,uuid:97a51f39-4fe9-415f-b4ae-42436562cb46
+uuid:a015e15f-c82d-4a9a-9656-fa35234c2017,collect:x0pmfLv6AGoCj3zt,04/04/23 10:11,jose_cieza, ,Timoteo López Quiroz,La quebrada,innovacion,Papa,menor,ambos, ,sequia, ,control_plagas_enfermedades, ,3,data-productividad-producto,uuid:a015e15f-c82d-4a9a-9656-fa35234c2017
+uuid:b1beffde-48d6-49cf-8c39-3a617819afc7,collect:x0pmfLv6AGoCj3zt,06/04/23 15:53,jose_cieza, ,Javier Rodríguez Domínguez,El Eucalipto,innovacion,Papa,menor,factores_ambientales, ,"heladas, sequia", , , ,2,data-productividad-producto,uuid:b1beffde-48d6-49cf-8c39-3a617819afc7
+uuid:f8474f0b-b6cd-48c3-b7bc-a249dda6705f,collect:x0pmfLv6AGoCj3zt,06/04/23 16:17,jose_cieza, ,Marcela López López,La Curva,innovacion,Papa,menor,factores_ambientales, ,"heladas, sequia", , , ,2,data-productividad-producto,uuid:f8474f0b-b6cd-48c3-b7bc-a249dda6705f
+uuid:af6ada6b-b73a-414e-9e51-a1757ef50484,collect:x0pmfLv6AGoCj3zt,08/04/23 13:15,jose_cieza, ,Alejandro Baca Jara,La Chilca,innovacion,Papa,menor,factores_ambientales, ,"heladas, sequia", , , ,3,data-productividad-producto,uuid:af6ada6b-b73a-414e-9e51-a1757ef50484
+uuid:7da2a609-4938-4303-825e-04448b410c1e,collect:x0pmfLv6AGoCj3zt,08/04/23 14:20,jose_cieza, ,Rayando Mendieta Moreno,La quinua,innovacion,Papa,menor,factores_ambientales, ,"heladas, sequia", , , ,3,data-productividad-producto,uuid:7da2a609-4938-4303-825e-04448b410c1e
+uuid:9750a6b8-e85b-44f6-95b4-60a1bb7354df,collect:x0pmfLv6AGoCj3zt,01/05/23 13:18,jose_cieza, ,Jesús Galindos Ponce,La Shiua,innovacion,Papa,menor,factores_ambientales, ,"heladas, sequia", , , ,2,data-productividad-producto,uuid:9750a6b8-e85b-44f6-95b4-60a1bb7354df
+uuid:ec411cff-dbe6-42b9-8c49-95d90a9bd7fa,collect:x0pmfLv6AGoCj3zt,01/05/23 15:39,jose_cieza, ,Dionicio Ponce Muñoz,La peña,innovacion,Papa,menor,factores_ambientales, ,"heladas, sequia", , , ,3,data-productividad-producto,uuid:ec411cff-dbe6-42b9-8c49-95d90a9bd7fa
+uuid:1e018674-a017-44f6-89b1-3eff5e913780,collect:x0pmfLv6AGoCj3zt,01/05/23 16:07,jose_cieza, ,Rufino Medina Haro,El Aliso,innovacion,Papa,menor,factores_ambientales, ,sequia, , , ,3,data-productividad-producto,uuid:1e018674-a017-44f6-89b1-3eff5e913780
+uuid:ebceaf45-c614-473f-b982-d18fcc606cc4,collect:x0pmfLv6AGoCj3zt,09/03/23 11:28,jose_cieza, ,Aresio Villanueva Pantoja,Alisar,innovacion,Papa,menor,ambos, ,sequia, ,control_plagas_enfermedades, ,3,data-productividad-producto,uuid:ebceaf45-c614-473f-b982-d18fcc606cc4
+uuid:c336e218-e51e-45c6-98f2-e51129e75b11,collect:x0pmfLv6AGoCj3zt,10/03/23 11:19,jose_cieza, ,Ilber López Ponce,Cielo Andino,innovacion,Papa,menor,factores_ambientales, ,sequia, , , ,3,data-productividad-producto,uuid:c336e218-e51e-45c6-98f2-e51129e75b11
+uuid:9e4fe456-6251-48cb-89e0-61dba67200f7,collect:x0pmfLv6AGoCj3zt,06/04/23 10:15,jose_cieza, ,Abudemio Yparraguirre Quiroz,La Antena,innovacion,Papa,menor,ambos, ,"heladas, sequia", ,control_plagas_enfermedades, ,3,data-productividad-producto,uuid:9e4fe456-6251-48cb-89e0-61dba67200f7
+uuid:f2de1fa7-ed83-465f-87ee-3d6d13e7a3db,collect:koL3iUlBOk5N9ZiD,02/05/23 15:09,jose_cieza, ,Edith Quiroz Ponce,La Sarza,innovacion,Papa,menor,factores_ambientales, ,"heladas, sequia", , , ,3,data-productividad-producto,uuid:f2de1fa7-ed83-465f-87ee-3d6d13e7a3db
+uuid:0d4aeda2-19ca-44fa-bec0-60b5895ce8e7,collect:koL3iUlBOk5N9ZiD,02/05/23 15:31,jose_cieza, ,Pablo Machuca Ponce,La Loma,innovacion,Papa,menor,factores_ambientales, ,"heladas, sequia", , , ,3,data-productividad-producto,uuid:0d4aeda2-19ca-44fa-bec0-60b5895ce8e7
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
