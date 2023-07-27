@@ -239,17 +239,131 @@ LOG[[2]] <- L2
 names(LOG)[2] <- "sowing_log"
 
 
+################################################################################
+# 3 - MERGING VISIT LOGS
+################################################################################
+# read data
+part1 <- "https://raw.githubusercontent.com/jninanya/eia-project-summary/main/CSVs/visit-log-p1.csv"
+part2 <- "https://raw.githubusercontent.com/jninanya/eia-project-summary/main/CSVs/visit-log-p2.csv"
+
+p1 <- read.csv(url(part1))
+p2 <- read.csv(url(part2))
+
+colnames(p1) <- correct_colnames(colnames(p1), omit.str = "data_")
+colnames(p2) <- correct_colnames(colnames(p2), omit.str = "data_")
+
+# This part is a bit manual
+# Here we have to homogenize/rename different colnames of the same variable 
+# Lets run the next code line and see how its output change every running
+check_colnames_df(colnames(p1), colnames(p2))
+
+# after run 1: "x" in p2 is "meta_instanceid"
+colnames(p2)[1] <- "meta_instanceid"
+
+# after run 2: renaming some col names
+colnames(p1)[6] <- colnames(p2)[3] <- "farmer_full_name"
+colnames(p1)[7] <- colnames(p2)[4] <- "visit_date"
+colnames(p1)[8] <- colnames(p2)[5] <- "crop"
+colnames(p1)[9] <- colnames(p2)[6] <- "other_crop"
+colnames(p1)[10] <- colnames(p2)[7] <- "crop_stage"
+colnames(p1)[11] <- colnames(p2)[8] <- "photo_of_the_plot"
+colnames(p1)[12] <- colnames(p2)[9] <- "notes"
+colnames(p1)[13] <- colnames(p2)[10] <- "issues_found_in_the_plot"
+colnames(p1)[14] <- colnames(p2)[11] <- "establishment_issues"
+colnames(p1)[15] <- colnames(p2)[12] <- "other_establishment_issues"
+colnames(p1)[16] <- colnames(p2)[13] <- "photo_of_establishment_issues"
+colnames(p1)[17] <- colnames(p2)[14] <- "notes_of_establishment_issues"
+colnames(p1)[18] <- colnames(p2)[15] <- "percentage_of_damage_by_establishment_issues"
+colnames(p1)[19] <- colnames(p2)[16] <- "pests_or_diseases_issues"
+colnames(p1)[20] <- colnames(p2)[17] <- "organ_affected_by_pests_or_diseases_issues"
+colnames(p1)[21] <- colnames(p2)[18] <- "percentage_of_severity_by_pests_or_diseases_issues"
+colnames(p1)[22] <- colnames(p2)[19] <- "management_of_pests_or_diseases_issues"
+colnames(p1)[23] <- colnames(p2)[20] <- "reason_for_managing_pests_or_diseases_issues"
+colnames(p1)[24] <- colnames(p2)[21] <- "percentage_of_incidence_of_pests_or_diseases_issues"
+colnames(p1)[25] <- colnames(p2)[22] <- "number_of_pests_or_diseases_issues"
+colnames(p1)[26] <- colnames(p2)[24] <- "name_of_pests_or_diseases_issues"
+colnames(p1)[27] <- colnames(p2)[25] <- "other_name_of_pests_or_diseases_issues"
+colnames(p1)[28] <- colnames(p2)[23] <- "second_pests_or_diseases_issues"
+colnames(p1)[29] <- colnames(p2)[26] <- "reasons_of_weeds_issues"
+colnames(p1)[30] <- colnames(p2)[27] <- "other_reasons_of_weeds_issues"
+colnames(p1)[31] <- colnames(p2)[28] <- "type_of_weeds_issues"
+colnames(p1)[32] <- colnames(p2)[29] <- "management_of_weeds_issues"
+colnames(p1)[33] <- colnames(p2)[30] <- "percentage_of_damaga_by_weeds_issues"
+colnames(p1)[34] <- colnames(p2)[31] <- "photo_of_weeds_issues"
+colnames(p1)[35] <- colnames(p2)[32] <- "notes_of_weeds_issues"
+colnames(p1)[36] <- colnames(p2)[44] <- "weather_issues"
+colnames(p1)[37] <- colnames(p2)[45] <- "other_weather_issues"
+colnames(p1)[38] <- colnames(p2)[46] <- "percentage_of_damage_by_weather_issues"
+colnames(p1)[39] <- colnames(p2)[33] <- "deficiencies_issues"
+colnames(p1)[40] <- colnames(p2)[34] <- "probable_deficiencies_issues"
+colnames(p1)[41] <- colnames(p2)[35] <- "fertilization_for_deficiencies_issues"
+colnames(p1)[42] <- colnames(p2)[36] <- "photo_of_deficiencies_issues"
+colnames(p1)[43] <- colnames(p2)[37] <- "notes_of_deficiencies_issues"
+colnames(p1)[44] <- colnames(p2)[38] <- "percentage_of_damage_by_deficiencies_issues"
+colnames(p1)[45] <- colnames(p2)[39] <- "water_stress_issues"
+colnames(p1)[46] <- colnames(p2)[40] <- "other_water_stress_issues"
+colnames(p1)[47] <- colnames(p2)[41] <- "photo_of_water_stress_issues"
+colnames(p1)[48] <- colnames(p2)[42] <- "notes_of_water_stress_issues"
+colnames(p1)[49] <- colnames(p2)[43] <- "percentage_of_damage_of_water_stress_issues"
+colnames(p1)[50] <- colnames(p2)[47] <- "probable_technologies"
+colnames(p1)[51] <- colnames(p2)[48] <- "other_probable_technologies"
+colnames(p1)[52] <- colnames(p2)[49] <- "general_condition_of_the_plot"
+colnames(p1)[53] <- colnames(p2)[50] <- "reasons_of_visit"
+colnames(p1)[54] <- colnames(p2)[51] <- "other_reasons_of_visit"
+colnames(p1)[55] <- colnames(p2)[52] <- "recommendations"
+colnames(p1)[56] <- colnames(p2)[53] <- "have_smartphone"
+colnames(p1)[57] <- colnames(p2)[54] <- "mobile_operator_service"
+colnames(p1)[58] <- colnames(p2)[55] <- "mobile_signal_condition"
+
+# final colnames
+check_colnames_df(colnames(p1), colnames(p2))
+ccdf <- check_colnames_df(colnames(p1), colnames(p2))
+cnames <- ccdf$cnames[ccdf$in.both]
+
+# select final data frames
+p1 <- p1[, cnames]
+p2 <- p2[, cnames]
+#full_join(p1, p2)
+
+# changing type of variables (see results of full_join(p1, p2))
+p1$percentage_of_damage_by_deficiencies_issues <- as.numeric(p1$percentage_of_damage_by_deficiencies_issues)
+p2$percentage_of_damage_by_deficiencies_issues <- as.numeric(p2$percentage_of_damage_by_deficiencies_issues)
+
+# final dataframe for farmer log
+L3 = full_join(p1, p2)
+LOG[[3]] <- L3
+names(LOG)[3] <- "visit_log"
 
 
+################################################################################
+# 4 - MERGING HARVEST LOGS
+################################################################################
+# read data
+part11 <- "https://raw.githubusercontent.com/jninanya/eia-project-summary/main/CSVs/harvest-log-p1.1.csv"
+part12 <- "https://raw.githubusercontent.com/jninanya/eia-project-summary/main/CSVs/harvest-log-p1.2.csv"
 
+part21 <- "https://raw.githubusercontent.com/jninanya/eia-project-summary/main/CSVs/harvest-log-p2.1.csv"
+part22 <- "https://raw.githubusercontent.com/jninanya/eia-project-summary/main/CSVs/harvest-log-p2.2.csv"
+part23 <- "https://raw.githubusercontent.com/jninanya/eia-project-summary/main/CSVs/harvest-log-p2.3.csv"
 
+p11 <- read.csv(url(part11))
+p12 <- read.csv(url(part12))
 
+p21 <- read.csv(url(part21))
+p22 <- read.csv(url(part22))
+p23 <- read.csv(url(part23))
 
+colnames(p11) <- correct_colnames(colnames(p11), omit.str = "data_")
+colnames(p12) <- correct_colnames(colnames(p12), omit.str = "data_")
 
+colnames(p21) <- correct_colnames(colnames(p21), omit.str = "data_")
+colnames(p22) <- correct_colnames(colnames(p22), omit.str = "data_")
+colnames(p23) <- correct_colnames(colnames(p23), omit.str = "data_")
 
-
-
-
+# This part is a bit manual
+# Here we have to homogenize/rename different colnames of the same variable 
+# Lets run the next code line and see how its output change every running
+check_colnames_df(colnames(p1), colnames(p2))
 
 
 
