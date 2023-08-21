@@ -10,7 +10,7 @@ The e-Agrology platform (<https://e-agrology.org/>) is a digital tool (Figure [1
 <!-- Figure 1 -->
 <a id="figure01"></a>
 <div style="text-align:center;">
-  ![**Figura 1:** Log-in window of the e-Agrology platform.](https://github.com/jninanya/eia-project-summary/blob/main/R-Bookdown/Figures/L1-Figure01-e-Agrology-login-windonw.jpg?raw=true){width=81%}
+  ![**Figura 1:** Log-in window of the e-Agrology platform (<https://e-agrology.org/>).](https://github.com/jninanya/eia-project-summary/blob/main/R-Bookdown/Figures/L1-Figure01-e-Agrology-login-windonw.jpg?raw=true){width=81%}
 </div>
 
 
