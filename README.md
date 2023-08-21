@@ -4,9 +4,9 @@ This bookdown aims to summarize and document the analysis performed and findings
 
 The main activities planned for the LAC-Peru Use Case were/are:
 
-1. [Agronomic data digitization using the e-Agrology platform](*in progress*). 
-2. [Long-term demonstration trials of agronomic practices with potential for Climate Change mitigation] (*in progress*).
-3. [Remote sensing techniques applied to the LAC-Peru Use Case] (*in progress*). 
-4. [Yield gap decomposition analysis] (*in progress*).
+1. Agronomic data digitization using the e-Agrology platform(*in progress*). 
+2. Long-term demonstration trials of agronomic practices with potential for Climate Change mitigation (*in progress*).
+3. Remote sensing techniques applied to the LAC-Peru Use Case (*in progress*). 
+4. Yield gap decomposition analysis (*in progress*).
 
 For any request about the dataset or output/product generated and any comment about this bookdown, please contact David A. Ramírez (**d.ramirez@cgiar.org**).
