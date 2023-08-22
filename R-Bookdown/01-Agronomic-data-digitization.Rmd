@@ -1,7 +1,7 @@
 
 # Agronomic data digitization
 
-xx
+Agronomic data digitization involves the conversion of traditional agricultural records into digital formats, facilitating easy accessibility, accurate storage, and efficient analysis. This transformative process enhances data integrity, empowers informed decision-making, and fosters innovation across the agricultural sector. By enabling precision agriculture, predictive analytics, collaborative data sharing, and continuous monitoring, the digitization of information modernizes practices and drives improved productivity, sustainability, and collaboration among diverse stakeholders in the field of agriculture.
 
 ## e-Agrology platform
 
@@ -20,7 +20,7 @@ xx
 
 ## Data cleaning up
 
-Here we . Raw data can be download [here](https://github.com/jninanya), however the final dataset ready for any analysis (as result of this cleaning up process) can be downolad [here](https://github.com/jninanya). To see the R chunk code click on `code`.
+Data cleaning is a critical step for any analysis as it ensures accurate and reliable results. As it is a cHere we . Raw data can be download [here](https://github.com/jninanya/eia-project-summary/tree/main/CSVs), however the final dataset ready for any analysis (as result of this cleaning up process) can be downolad [here](https://github.com/jninanya). This step can be omitted as it is standard practice, however, you can see the R chunk code by clicking on `code`.
 
 ```{r class.source='fold-hide', collapse=TRUE, message=FALSE, results='hide', warning=FALSE}
 # clean R environment
